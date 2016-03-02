@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<style>
+
+.poop {
+    border-style:solid;
+    border-width:5px;
+    border-color: red;
+}
+
+svg {
+    background-color: blue;
+}
+
+
+</style>
+
+<header></header>
+
+<body>
+
+<!-- <div class='poop'>FU</div>
+
+<div class='poop'> YAYAYSYYS</div> -->
+
+</body>
+
+
+<script src="./d3/d3.js"></script>
+
+<script type="text/javascript">
+
+// (function(d3) {
+// 'use strict';
+
+// REMOVED var data = ...
+
+var width = 360;
+var height = 360;
+var radius = Math.min(width, height) / 2;
+var donutWidth = 75;
+var legendRectSize = 18;
+var legendSpacing = 4;
+
+var color = d3.scale.category20b();
+
+var svg = d3.select('body')
+  .append('svg')
+  .attr('width', width)
+  .attr('height', height)
+ .style("background-color", 'purple')
+  .append('g')
+  .attr('transform', 'translate(' + (width / 2) + 
+    ',' + (height / 2) + ')');
+
+var arc = d3.svg.arc()
+  .innerRadius(radius - donutWidth)
+  .outerRadius(radius);
+
+var pie = d3.layout.pie()
+  .value(function(d) { return d.count; })
+  .sort(null);
+
+
+
+
+// Getting data 
+
+d3.csv("lobby.csv", function(error, data) {
+
+    console.log(data);
+    
+    // data.forEach(function (d) {
+    //     d.cost_per_spn_apply = +d.cost_per_spn_apply;
+    //     d.avg_cpc = +d.avg_cpc;
+    //     d.est_28_day_org_apply = +d.est_28_day_org_apply;
+    //     d.sample_size = +d.sample_size;
+    //     d.model_num = +d.model_num;
+
+    //     console.log(d);
+    // });
+
+    // svg.selectAll("circle")
+    //     .data(data)
+    //     .enter().append("circle")
+    //     .attr("r", function(d) { return d.sample_size; })
+    //     .style("fill", 'red');
+        
+
+    // var path = svg.selectAll('circle')
+    //     .data(pie(data))
+    //     .enter()
+    //     .append('circle')
+    //     .attr('cy', height/2)
+    //     .attr('cx',width/2)
+    //     .attr('r', d.sample_size +"px")
+    //     .attr('fill','red')
+
+        // .append('path')
+        // .attr('fill','red');
+        // .append('path')
+        // .attr('d', arc);
+        // .attr('fill', function(d, i) { 
+        //   return color(d.data.label);
+        // });
+});
+
+
+// d3.csv('weekdays.csv', function(error, dataset) {  // NEW
+//   dataset.forEach(function(d) {                    // NEW
+//     d.count = +d.count;                            // NEW
+//   });    
+// // for(var propertyName in myObject) {
+// //    // propertyName is what you want
+// //    // you can get the value like this: myObject[propertyName]
+// // }
+//     console.log(row);
+
+//     // for (var name in data) {
+//     //   console.log(name);
+//     // };
+
+
+//     // data.forEach(function(d) {
+//     //     console.log(d.country);
+//     // });
+
+
+</script>
