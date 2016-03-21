@@ -1,2334 +1,2338 @@
-Date,Client,Change,Cumulative
-2010-06-24,Berns Commercial Properties,1,1
-2010-06-24,Versa Development,1,1
-2010-06-24,V and S Enterprises,1,1
-2010-06-24,Stahl Bernal and Davies,1,1
-2010-06-24,"Robbins, Stewart",1,1
-2010-06-24,"Petty, Stephen",1,1
-2010-06-24,"Schriber, Michael",1,1
-2010-06-24,"Kelly, Mike",1,1
-2010-06-24,"Jones, Eddie",1,1
-2010-06-24,"Dawlett, Haythem",1,1
-2010-06-24,"Crixell, Juan",1,1
-2010-06-24,Crescent Recourses,1,1
-2010-06-24,"Lehmann, Sandy",1,1
-2010-09-14,IESI,1,1
-2010-12-16,1600 West 38th,1,1
-2010-12-16,MU 13,1,1
-2010-12-16,Travis Entitlements,1,1
-2011-04-14,VIA Motors,1,1
-2011-04-21,Wal-Mart,1,1
-2011-04-21,Lone Star Cab Company,1,1
-2011-04-21,"Gila, LLC dba Municipal Services Bureau",1,1
-2011-05-10,Wilfred Naddef,1,1
-2011-05-10,Universal Health Services,1,1
-2011-05-10,The RK Group,1,1
-2011-05-10,Robert H. Theriot,1,1
-2011-05-10,Koontz-McCombs,1,1
-2011-05-10,Shoreline Christian Center,1,1
-2011-05-10,Freescale,1,1
-2011-05-10,Forestar Real Estate Group,1,1
-2011-05-10,Denucci Constructors,1,1
-2011-05-10,Credit Suisse Asset Management,1,1
-2011-05-10,Carollo Engineers,1,1
-2011-05-10,HomeAway,1,1
-2011-06-24,"Petty, Stephen",-1,0
-2011-06-24,Versa Development,-1,0
-2011-06-24,Stahl Bernal and Davies,-1,0
-2011-06-24,"Schriber, Michael",-1,0
-2011-06-24,"Robbins, Stewart",-1,0
-2011-06-24,"Lehmann, Sandy",-1,0
-2011-06-24,V and S Enterprises,-1,0
-2011-06-24,"Jones, Eddie",-1,0
-2011-06-24,"Dawlett, Haythem",-1,0
-2011-06-24,"Crixell, Juan",-1,0
-2011-06-24,Crescent Recourses,-1,0
-2011-06-24,"Kelly, Mike",-1,0
-2011-06-24,Berns Commercial Properties,-1,0
-2011-08-16,Advance America - Cash Advance Centers,1,1
-2011-08-17,Robert Ehrlich,1,1
-2011-08-17,Rob Roy Homeowners Association,1,1
-2011-08-17,Riverside Resources,1,1
-2011-08-17,Reagan National Advertising,1,1
-2011-08-17,Radec Management,1,1
-2011-08-17,Prevarian Hospital Partners,1,1
-2011-08-17,Peter T. Martin and Kevin McNeil Martin and Martin Law,1,1
-2011-08-17,Pasta and Company,1,1
-2011-08-17,Oxford Alliance Investments,1,1
-2011-08-17,P and H Medical Solutions,1,1
-2011-08-17,Robert Ross,1,1
-2011-08-17,Oliva's Tailor Shop,1,1
-2011-08-17,Oak Hill United Methodist Church,1,1
-2011-08-17,NuRock Development,1,1
-2011-08-17,Northwest Austin Civic Association,1,1
-2011-08-17,Noble Savage Design/Build,1,1
-2011-08-17,"Nadeau, Sean",1,1
-2011-08-17,Monocoque Diversified Interests,1,1
-2011-08-17,Pacifica Host Hotels,1,1
-2011-08-17,Russell's Bakery,1,1
-2011-08-17,Shoal Creek Saloon,1,1
-2011-08-17,Saint Edward's University,1,1
-2011-08-17,Magic Carpet,1,1
-2011-08-17,bella-mi Children's Store,1,1
-2011-08-17,Zilker Park Residences Partners,1,1
-2011-08-17,Zachary Scott Theatre,1,1
-2011-08-17,Wendow,1,1
-2011-08-17,Versa Development,1,1
-2011-08-17,Verbena Design Studio,1,1
-2011-08-17,V and S Enterprises,1,1
-2011-08-17,Trilogy Enterprises,1,1
-2011-08-17,Tri Recycling,1,1
-2011-08-17,The Samuel Group Architects,1,1
-2011-08-17,The Menagerie,1,1
-2011-08-17,The Brick Oven Restaurant,1,1
-2011-08-17,Texas Capital Bank,1,1
-2011-08-17,Subway,1,1
-2011-08-17,Steve Greenberg,1,1
-2011-08-17,Sportsman's Barbershop,1,1
-2011-08-17,Sophie Wiman,1,1
-2011-08-17,"Second Congress, Limited",1,1
-2011-08-17,Russell's Bistro,1,1
-2011-08-17,MTG Management,1,1
-2011-08-17,Criterion Development Partners,1,1
-2011-08-17,Leveland Homes,1,1
-2011-08-17,Cathedral of Junk,1,1
-2011-08-17,Caroline's,1,1
-2011-08-17,Capitol City Imports,1,1
-2011-08-17,Capelli Salon,1,1
-2011-08-17,Bunkhouse Management,1,1
-2011-08-17,Bradz Salon,1,1
-2011-08-17,Bouldin Creek Neighborhood Association,1,1
-2011-08-17,Berns Commercial Properties,1,1
-2011-08-17,Avis Rent-A-Car,1,1
-2011-08-17,Austin's Pizza,1,1
-2011-08-17,Austin Flower Co.,1,1
-2011-08-17,Asterisk Group,1,1
-2011-08-17,Antolin Aguirre,1,1
-2011-08-17,Anderson's Coffee,1,1
-2011-08-17,Amaz for Hair,1,1
-2011-08-17,Alex and Mark Calderon,1,1
-2011-08-17,AECOM,1,1
-2011-08-17,720 Lamar Place,1,1
-2011-08-17,408 Sterzing,1,1
-2011-08-17,"Lorenz, Perry",1,1
-2011-08-17,"Connolly, III, James, D., (Trey) and Steve Rambo",1,1
-2011-08-17,"Cobalt Partners, Limited",1,1
-2011-08-17,Insurance Auto Auctions,1,1
-2011-08-17,Lee's Meat Market,1,1
-2011-08-17,LUCE,1,1
-2011-08-17,"Keyes, Mary Alice",1,1
-2011-08-17,Kerbey Lane Doll Shoppe,1,1
-2011-08-17,Kerbey Lane Cafe,1,1
-2011-08-17,"Joseph Liemandt, Andra Liemandt",1,1
-2011-08-17,John Calhoun Miller,1,1
-2011-08-17,Contessa Gallery,1,1
-2011-08-17,Grubb and Ellis Realty Investors,1,1
-2011-08-17,"Highland Park West, Limited",1,1
-2011-08-17,Garden Room,1,1
-2011-08-17,Franzetti Jewelers,1,1
-2011-08-17,Fotowatio Renewable Ventures,1,1
-2011-08-17,Fineline Diversified Development,1,1
-2011-08-17,Estilio Valdez Salon,1,1
-2011-08-17,Elan Hair Salon,1,1
-2011-08-17,Eanes Community Alliance,1,1
-2011-08-17,Dennis Fagan Still and Moving Pictures,1,1
-2011-08-17,Gemini Solar Development,1,1
-2011-09-14,IESI,-1,0
-2011-10-21,AFSCME 1624,1,1
-2011-10-21,Austin AFL CIO,1,1
-2011-11-18,Connecticut General Life Insurance Company,2,2
-2011-12-16,MU 13,-1,0
-2011-12-16,Travis Entitlements,-1,0
-2011-12-16,1600 West 38th,-1,0
-2012-01-06,Catellus Commercial Group,1,1
-2012-01-06,DFI Resources,1,1
-2012-01-06,Delaware North Companies/Travel Hospitality Services,1,1
-2012-01-06,Lennar Homes,1,1
-2012-01-06,National Works,1,1
-2012-01-06,Waller Creek Conservancy,1,1
-2012-01-06,"Yacktman, Stephen and Ellyn",1,1
-2012-01-07,United Cab,2,2
-2012-01-12,Texas Retailers Association,1,1
-2012-01-17,Twin Oaks Associates,1,1
-2012-01-19,Solar Austin Foundation,1,1
-2012-03-05,The Real Estate Council of Austin,1,1
-2012-03-09,RedLeaf Properties,1,1
-2012-03-09,Apple Inc.,1,1
-2012-03-23,American Heart Association,3,3
-2012-04-13,VIA Motors,-1,0
-2012-04-16,Greyhound Lines,1,1
-2012-04-16,Strategic Partnerships,1,1
-2012-04-17,Public Citizen,1,1
-2012-04-20,Lone Star Cab Company,-1,0
-2012-04-20,"Gila, LLC dba Municipal Services Bureau",-1,0
-2012-04-20,Wal-Mart,-1,0
-2012-04-25,Davey Tree Expert Company,1,1
-2012-05-09,Wilfred Naddef,-1,0
-2012-05-09,Universal Health Services,-1,0
-2012-05-09,The RK Group,-1,0
-2012-05-09,Shoreline Christian Center,-1,0
-2012-05-09,Robert H. Theriot,-1,0
-2012-05-09,Koontz-McCombs,-1,0
-2012-05-09,HomeAway,-1,0
-2012-05-09,Freescale,-1,0
-2012-05-09,Forestar Real Estate Group,-1,0
-2012-05-09,Denucci Constructors,-1,0
-2012-05-09,Credit Suisse Asset Management,-1,0
-2012-05-09,Carollo Engineers,-1,0
-2012-06-22,Austin Board of Realtors,1,1
-2012-07-05,Seton Healthcare,4,4
-2012-08-15,Advance America - Cash Advance Centers,-1,0
-2012-08-16,Pasta and Company,-1,0
-2012-08-16,Peter T. Martin and Kevin McNeil Martin and Martin Law,-1,0
-2012-08-16,Prevarian Hospital Partners,-1,0
-2012-08-16,Rob Roy Homeowners Association,-1,0
-2012-08-16,Reagan National Advertising,-1,0
-2012-08-16,Riverside Resources,-1,0
-2012-08-16,Robert Ehrlich,-1,0
-2012-08-16,Radec Management,-1,0
-2012-08-16,Pacifica Host Hotels,-1,0
-2012-08-16,Gemini Solar Development,-1,0
-2012-08-16,Oxford Alliance Investments,-1,0
-2012-08-16,Oliva's Tailor Shop,-1,0
-2012-08-16,Oak Hill United Methodist Church,-1,0
-2012-08-16,NuRock Development,-1,0
-2012-08-16,Northwest Austin Civic Association,-1,0
-2012-08-16,Noble Savage Design/Build,-1,0
-2012-08-16,"Nadeau, Sean",-1,0
-2012-08-16,Monocoque Diversified Interests,-1,0
-2012-08-16,Robert Ross,-1,0
-2012-08-16,P and H Medical Solutions,-1,0
-2012-08-16,Russell's Bakery,-1,0
-2012-08-16,Zachary Scott Theatre,-1,0
-2012-08-16,Saint Edward's University,-1,0
-2012-08-16,bella-mi Children's Store,-1,0
-2012-08-16,Zilker Park Residences Partners,-1,0
-2012-08-16,Magic Carpet,-1,0
-2012-08-16,Wendow,-1,0
-2012-08-16,Versa Development,-1,0
-2012-08-16,Verbena Design Studio,-1,0
-2012-08-16,V and S Enterprises,-1,0
-2012-08-16,Trilogy Enterprises,-1,0
-2012-08-16,Tri Recycling,-1,0
-2012-08-16,The Samuel Group Architects,-1,0
-2012-08-16,The Menagerie,-1,0
-2012-08-16,The Brick Oven Restaurant,-1,0
-2012-08-16,Texas Capital Bank,-1,0
-2012-08-16,Subway,-1,0
-2012-08-16,Steve Greenberg,-1,0
-2012-08-16,Sportsman's Barbershop,-1,0
-2012-08-16,Sophie Wiman,-1,0
-2012-08-16,Shoal Creek Saloon,-1,0
-2012-08-16,"Second Congress, Limited",-1,0
-2012-08-16,Russell's Bistro,-1,0
-2012-08-16,MTG Management,-1,0
-2012-08-16,Franzetti Jewelers,-1,0
-2012-08-16,Leveland Homes,-1,0
-2012-08-16,Caroline's,-1,0
-2012-08-16,Capitol City Imports,-1,0
-2012-08-16,"Lorenz, Perry",-1,0
-2012-08-16,Bunkhouse Management,-1,0
-2012-08-16,Bradz Salon,-1,0
-2012-08-16,Bouldin Creek Neighborhood Association,-1,0
-2012-08-16,Berns Commercial Properties,-1,0
-2012-08-16,Avis Rent-A-Car,-1,0
-2012-08-16,Cathedral of Junk,-1,0
-2012-08-16,Austin's Pizza,-1,0
-2012-08-16,Asterisk Group,-1,0
-2012-08-16,Antolin Aguirre,-1,0
-2012-08-16,Anderson's Coffee,-1,0
-2012-08-16,Amaz for Hair,-1,0
-2012-08-16,Alex and Mark Calderon,-1,0
-2012-08-16,AECOM,-1,0
-2012-08-16,720 Lamar Place,-1,0
-2012-08-16,408 Sterzing,-1,0
-2012-08-16,Austin Flower Co.,-1,0
-2012-08-16,"Cobalt Partners, Limited",-1,0
-2012-08-16,Capelli Salon,-1,0
-2012-08-16,Contessa Gallery,-1,0
-2012-08-16,Lee's Meat Market,-1,0
-2012-08-16,LUCE,-1,0
-2012-08-16,"Keyes, Mary Alice",-1,0
-2012-08-16,Kerbey Lane Doll Shoppe,-1,0
-2012-08-16,"Connolly, III, James, D., (Trey) and Steve Rambo",-1,0
-2012-08-16,"Joseph Liemandt, Andra Liemandt",-1,0
-2012-08-16,John Calhoun Miller,-1,0
-2012-08-16,Insurance Auto Auctions,-1,0
-2012-08-16,"Highland Park West, Limited",-1,0
-2012-08-16,Kerbey Lane Cafe,-1,0
-2012-08-16,Garden Room,-1,0
-2012-08-16,Fotowatio Renewable Ventures,-1,0
-2012-08-16,Fineline Diversified Development,-1,0
-2012-08-16,Estilio Valdez Salon,-1,0
-2012-08-16,Elan Hair Salon,-1,0
-2012-08-16,Eanes Community Alliance,-1,0
-2012-08-16,Dennis Fagan Still and Moving Pictures,-1,0
-2012-08-16,Criterion Development Partners,-1,0
-2012-08-16,Grubb and Ellis Realty Investors,-1,0
-2012-09-27,Rancho Garza,1,1
-2012-09-27,One World Theatre,1,1
-2012-09-27,Cornerbrook Development,1,1
-2012-09-27,Austin Community College District,1,1
-2012-09-28,National Joint Powers Alliance,1,1
-2012-10-19,Austin Community College District,1,2
-2012-10-19,Cornerbrook Development,1,2
-2012-10-19,One World Theatre,1,2
-2012-10-19,Rancho Garza,1,2
-2012-10-20,Austin AFL CIO,-1,0
-2012-10-20,AFSCME 1624,-1,0
-2012-10-22,"OHL, USA",1,1
-2012-10-22,Lynxs,1,1
-2012-10-22,OHL/Zachary,1,1
-2012-10-22,Journeyman Construction,1,1
-2012-10-22,Spurs Sports and Entertainment,1,1
-2012-10-22,Don Martin Public Affairs,1,1
-2012-10-22,Brightman Energy,1,1
-2012-10-22,American Constructors,1,1
-2012-10-22,Fineline Diversified Development,1,1
-2012-11-17,Connecticut General Life Insurance Company,-2,0
-2013-01-03,"Robbins, Stuart B.",1,1
-2013-01-03,"Robbins, Stewart",1,1
-2013-01-03,"Robbins, Freddie H.",2,2
-2013-01-03,Riverside Resources,2,2
-2013-01-03,Presidio Pictures,2,2
-2013-01-03,New TPG Four Points,2,2
-2013-01-03,Munson Park,2,2
-2013-01-03,Margaret Scarbrough Wilson,2,2
-2013-01-03,Met Center,2,2
-2013-01-03,"Rodriguez, Robert A.",2,2
-2013-01-03,MSW-NSG Real Estate Ventures,2,2
-2013-01-03,"Lorenz, Perry",2,2
-2013-01-03,"Logan, Ellen Anderson",2,2
-2013-01-03,Lica Pinkston,2,2
-2013-01-03,Lampting,2,2
-2013-01-03,"Moritz, Jim/Moritz Properties",2,2
-2013-01-03,SXSW,2,2
-2013-01-03,Scarbrough Ventures,2,2
-2013-01-03,Lack and Hurley,2,2
-2013-01-03,Zydeco Development,2,2
-2013-01-03,Zapalac/Reed Construction Company,2,2
-2013-01-03,"Wong, M.D., Mitchel",2,2
-2013-01-03,"Warshaw, Larry",2,2
-2013-01-03,URSTCO GP,2,2
-2013-01-03,"Tynberg, Alex and Elisabeth",2,2
-2013-01-03,Twin Oaks Associates,2,3
-2013-01-03,Troublemaker Studios,2,2
-2013-01-03,Treaty Oak Bank,2,2
-2013-01-03,The Muskin Company,2,2
-2013-01-03,Taylor Morrison,2,2
-2013-01-03,Stratagem Development.,2,2
-2013-01-03,St. David's Foundation,2,2
-2013-01-03,Southwest Parkway Partners,2,2
-2013-01-03,South IH-35 Investors,2,2
-2013-01-03,Saint Edward's University,2,2
-2013-01-03,"Knight, Robert - Knight Real Estate",2,2
-2013-01-03,"Turner, Ben",2,2
-2013-01-03,Kevin Hunter Camco Land,2,2
-2013-01-03,Constructive Ventures,2,2
-2013-01-03,Churchill Forge,2,2
-2013-01-03,Christopher Commercial,2,2
-2013-01-03,"Charles S. Dildy and Bertha Magdelan Steger Dildy, Trustees",2,2
-2013-01-03,Kitchell Development,2,2
-2013-01-03,Bread and Circus,2,2
-2013-01-03,"Ayers, Robert A.",2,2
-2013-01-03,"Avellan, Elizabeth",2,2
-2013-01-03,Austin Chronicle,2,2
-2013-01-03,Austin Children's Museum,2,2
-2013-01-03,"Austin American-Statesman,",2,2
-2013-01-03,Ardent Residential,2,2
-2013-01-03,Alliance Residential,2,2
-2013-01-03,5453 Burnet Park Venture,2,2
-2013-01-03,1219 South Lamar Venture,2,2
-2013-01-03,Coover and Coover,1,1
-2013-01-03,"Coover, David M. Jr.",2,2
-2013-01-03,"Champion, Josie, Juanita Meier and Mary Margaret Roberson",2,2
-2013-01-03,Dwyer Realty Companies,2,2
-2013-01-03,KXAN,2,2
-2013-01-03,Cottonwood Holdings,2,2
-2013-01-03,Jack Brown Family III,2,2
-2013-01-03,Jack Brown Companies,2,2
-2013-01-03,"International Bank of Commerce, Laredo, Texas",2,2
-2013-01-03,INTCO Properties,1,1
-2013-01-03,INTCO Development of Texas,2,2
-2013-01-03,"Hillin Jr., Robert",2,2
-2013-01-03,KB Home Lone Star,2,2
-2013-01-03,HRI Development,2,2
-2013-01-03,Floresta Properties,2,2
-2013-01-03,Finley Company,2,2
-2013-01-03,Film Society of Austin,2,2
-2013-01-03,Farm Credit Bank of Texas,2,2
-2013-01-03,Falkin/Platnick Realty Group,2,2
-2013-01-03,EYA Investments,2,2
-2013-01-03,Highland Management,2,2
-2013-01-04,Texas Disposal Systems,1,1
-2013-01-05,Delaware North Companies/Travel Hospitality Services,-1,0
-2013-01-05,"Yacktman, Stephen and Ellyn",-1,0
-2013-01-05,Waller Creek Conservancy,-1,0
-2013-01-05,National Works,-1,0
-2013-01-05,Catellus Commercial Group,-1,0
-2013-01-05,DFI Resources,-1,0
-2013-01-05,Lennar Homes,-1,0
-2013-01-06,United Cab,-2,0
-2013-01-07,Lone Star Rail,1,1
-2013-01-10,Regents School of Austin,1,1
-2013-01-10,Sunshine Camp,1,1
-2013-01-10,Stratford Land,1,1
-2013-01-10,Sage South Shore,1,1
-2013-01-10,Morgan Group,1,1
-2013-01-10,First Hartford Realty,1,1
-2013-01-10,Dinerstein Company,1,1
-2013-01-10,County Line,1,1
-2013-01-10,Austin Aquatics and Sports Academy,1,1
-2013-01-10,Lyda Family Trust,1,1
-2013-01-11,Texas Retailers Association,-1,0
-2013-01-16,Twin Oaks Associates,-1,2
-2013-01-17,Marc Knutsen Companies,1,1
-2013-01-18,Solar Austin Foundation,-1,0
-2013-02-14,ZFB,1,1
-2013-02-14,Thomas Southwest,1,1
-2013-02-14,Texas Star Brands,1,1
-2013-02-14,Sheffield Partners,1,1
-2013-02-14,Richard Hardin,1,1
-2013-02-14,Pearson Place at Avery Ranch,1,1
-2013-02-14,Michael J. McGinnis,1,1
-2013-02-14,LTBS 2222,1,1
-2013-02-14,JP Morgan Chase Bank,1,1
-2013-02-14,Cummings-Baccus,1,1
-2013-02-14,Community Sun,1,1
-2013-02-14,Cirrus Logic,1,1
-2013-02-14,Castle Hill Management,1,1
-2013-02-14,620/183,1,1
-2013-02-14,Makar Development - Waters Edge,1,1
-2013-03-04,Southwest Key/ East Austin College Prep Academy,1,1
-2013-03-04,U.S. Hispanic Contractors Association,1,1
-2013-03-04,Trammell Crow Company,1,1
-2013-03-04,The Mulholland Group,1,1
-2013-03-04,TRC Solutions,1,1
-2013-03-04,Snappy Snacks Mobile Catering,1,1
-2013-03-04,Brisa Communications,1,1
-2013-03-04,Minority Contractors Trade Association Alliance,1,1
-2013-03-04,MVAA,1,1
-2013-03-04,IBC Bank,1,1
-2013-03-04,Fiestas Patrias of Austin,1,1
-2013-03-04,Crossroads Events,1,1
-2013-03-04,Save Austin,1,1
-2013-03-05,The Real Estate Council of Austin,-1,0
-2013-03-07,Triton Receivership,1,1
-2013-03-07,Munsch Hardt Kopf and Harr,1,1
-2013-03-07,Jeff Alderson,1,1
-2013-03-07,Conor Commercial Real Estate,1,1
-2013-03-07,Capital Metro,1,1
-2013-03-07,Dessau Business Park Propery Owners Assn,1,1
-2013-03-08,Bridges on The Park Condominium Association,1,1
-2013-03-09,Apple Inc.,-1,0
-2013-03-09,RedLeaf Properties,-1,0
-2013-03-21,Redflex Traffic Systems,1,1
-2013-03-23,American Heart Association,-3,0
-2013-04-16,Strategic Partnerships,-1,0
-2013-04-16,Greyhound Lines,-1,0
-2013-04-17,Public Citizen,-1,0
-2013-04-25,Davey Tree Expert Company,-1,0
-2013-04-29,Seton Healthcare,1,5
-2013-04-29,Scot Van Den Berg,1,1
-2013-04-29,RedLeaf Properties,1,1
-2013-04-29,RIP Esselsttyn,1,1
-2013-04-29,Permit Partners,1,1
-2013-04-29,Mission Homes,1,1
-2013-04-29,Strategic Partnerships,1,1
-2013-04-29,Lone Star Rail,1,2
-2013-04-29,Little City Properties,1,1
-2013-04-29,Kathy Kyrish,1,1
-2013-04-29,John Mayes,1,1
-2013-04-29,Gordon Muir,1,1
-2013-04-29,Andersson Wise Architects,1,1
-2013-04-29,MKKN Development,1,1
-2013-04-30,Michael Biter,1,1
-2013-04-30,Journeyman Construction,1,2
-2013-04-30,WEHBE Properties,1,1
-2013-04-30,Ashley Amini,1,1
-2013-04-30,David Morrison,1,1
-2013-05-01,Workers Defense Project,1,1
-2013-05-21,360 Aircon Energy Savers,1,1
-2013-06-18,AT&T,1,1
-2013-06-18,Cisco Systems,1,1
-2013-06-18,HDI Solutions,1,1
-2013-06-18,Northrop Grumman,1,1
-2013-06-18,Oracle America,1,1
-2013-06-18,Pitney Bowes,1,1
-2013-06-22,Austin Board of Realtors,-1,0
-2013-06-28,R and R Limousine and Bus,1,1
-2013-06-28,Greater Austin Transportation (Yellow Cab),1,1
-2013-07-01,Shady Hollow MUD,1,1
-2013-07-01,River Place Municipal Utility District,1,1
-2013-07-01,NextEra Energy Resources,1,1
-2013-07-05,Seton Healthcare,-4,1
-2013-07-09,Trinsic Residential Group,1,1
-2013-07-09,Post Paggi,1,1
-2013-07-09,Manchester Financial Group,1,1
-2013-07-09,Walters Southwest,1,1
-2013-07-09,Cousins Properties,1,1
-2013-07-09,CWS Capital Partners,1,1
-2013-07-09,Arnold Oil,1,1
-2013-07-09,Hixon Properties,1,1
-2013-07-16,Bob and Michael Herd,1,1
-2013-07-16,Deborah Dunn,1,1
-2013-07-16,Milestone Community Builders,1,1
-2013-07-16,Scotia Western States Housing,1,1
-2013-07-16,St. David's Foundation,1,3
-2013-07-18,North Austin MUD No. 1,1,1
-2013-07-18,The Brohn Group,1,1
-2013-07-18,SC Lantana Investors,1,1
-2013-07-18,RKS Texas Investments,1,1
-2013-07-18,Harris Branch Master Association,1,1
-2013-07-18,Austin Presbetyrian Theological Seminary,1,1
-2013-07-18,CBL and Associates Management,1,1
-2013-07-18,Austin Ridge Bible Church,1,1
-2013-07-18,5001 Convict Hill,1,1
-2013-07-18,"Coats, Rose, Yale, Ryman and Lee",1,1
-2013-07-23,HausBar Farms,1,1
-2013-07-23,Marvin Petzolt,1,1
-2013-07-23,Workers Defense Project,1,2
-2013-08-06,AT&T,4,5
-2013-08-07,AT&T,2,7
-2013-08-09,Dropbox,1,1
-2013-08-13,AT&T,1,8
-2013-08-15,Travis County Emergency Services District No. 11,1,1
-2013-08-20,Austin Sonic,1,1
-2013-08-20,McDonalds,1,1
-2013-08-20,Austaco,1,1
-2013-08-20,Whatabrands,1,1
-2013-08-29,Dropbox,1,2
-2013-09-03,HNTB,1,1
-2013-09-05,The Brohn Group,1,2
-2013-09-05,Steve and Michelle Turnquist,1,1
-2013-09-05,SC Lantana Investors,1,2
-2013-09-05,Roy Cavanaugh,1,1
-2013-09-05,Rob Roy Homeowners Association,1,1
-2013-09-05,RKS Texas Investments,1,2
-2013-09-05,Kam Kronenberg,1,1
-2013-09-05,GHI Partners,1,1
-2013-09-05,"Coats, Rose, Yale, Ryman and Lee",1,2
-2013-09-05,Vineyard Management,1,1
-2013-09-05,CBL and Associates Management,1,2
-2013-09-05,Braker Valley,1,1
-2013-09-05,Brady Ohman,1,1
-2013-09-05,Balcones Country Club Membership Association,1,1
-2013-09-05,Austin Ridge Bible Church,1,2
-2013-09-05,Austin Presbetyrian Theological Seminary,1,2
-2013-09-05,Austin HB Residential,1,1
-2013-09-05,APAC- Tecas,1,1
-2013-09-05,A and M Option 541,1,1
-2013-09-05,5001 Convict Hill,1,2
-2013-09-05,Buffalo Equities,1,1
-2013-09-12,Uber Technologies,1,1
-2013-09-20,Austin Music People,1,1
-2013-09-27,Austin Community College District,-1,1
-2013-09-27,Cornerbrook Development,-1,1
-2013-09-27,One World Theatre,-1,1
-2013-09-27,Rancho Garza,-1,1
-2013-09-28,National Joint Powers Alliance,-1,0
-2013-10-01,Regents School of Austin,1,2
-2013-10-01,Sage South Shore,1,2
-2013-10-01,Sawtooth Development Group,1,1
-2013-10-01,St. Michael's Episcopal Church,1,1
-2013-10-01,Standard Pacific of Texas,1,1
-2013-10-01,Stonelake Capital Partners,1,1
-2013-10-01,Stratford Land,1,2
-2013-10-01,Street Lights Residential,1,1
-2013-10-01,Sunshine Camp,1,2
-2013-10-01,Reagan National Advertising,1,1
-2013-10-01,Sutton Company,1,1
-2013-10-01,Taurus of Texas GP,1,1
-2013-10-01,Texas Bar and Nightclub Alliance,1,1
-2013-10-01,The Dinerstein Companies,1,1
-2013-10-01,William Archer,1,1
-2013-10-01,thinkEAST,1,1
-2013-10-01,"Stutzman, Bromberg, Esserman and Plifka",1,1
-2013-10-01,Neal Richards Group,1,1
-2013-10-01,Cameron and Killingsworth- Pflugerville 292,1,1
-2013-10-01,Milestone Community Builders,1,2
-2013-10-01,Austin Aquatics and Sports Academy,1,2
-2013-10-01,AustinSeventyOne,1,1
-2013-10-01,Butler Family Partnership,1,1
-2013-10-01,C and G Ventures,1,1
-2013-10-01,County Line,1,2
-2013-10-01,Crescent Recourses,1,1
-2013-10-01,Fifth Generation Tasting,1,1
-2013-10-01,Morgan Group,1,2
-2013-10-01,First Hartford Realty,1,2
-2013-10-01,Heiser Development,1,1
-2013-10-01,JMI,1,1
-2013-10-01,John Kleas,1,1
-2013-10-01,Koontz-McCombs,1,1
-2013-10-01,Life Austin,1,1
-2013-10-01,Lyda Family Trust,1,2
-2013-10-01,McShane Development,1,1
-2013-10-01,Harrod Properties,1,1
-2013-10-07,Presidium Group,1,1
-2013-10-07,Sackmann Enterprises,2,2
-2013-10-07,Perry Estates,2,2
-2013-10-07,Texas Research International,2,2
-2013-10-07,Techridge Spectrum B.C.,2,2
-2013-10-07,Oden Hughes,2,2
-2013-10-07,Peyton Riley No. 3,2,2
-2013-10-07,Lincoln Property Company,2,2
-2013-10-07,Ledcor Properties Company,2,2
-2013-10-07,Mark Cathcart,2,2
-2013-10-07,Hopper Communities,1,1
-2013-10-07,Butler Park Pitch and Putt,1,1
-2013-10-07,Balcones Resources,2,2
-2013-10-07,AT&T,2,10
-2013-10-08,Skanska,1,1
-2013-10-08,Solair Direct,1,1
-2013-10-08,Southside Wrecker,1,1
-2013-10-08,Southwest Securities,1,1
-2013-10-08,Texas Special Events Alliance,1,1
-2013-10-08,Water Control Irrigation District # 10,1,1
-2013-10-08,Wal-Mart,1,1
-2013-10-08,Walter A. DeRoeck,1,1
-2013-10-08,Simon Property Group,1,1
-2013-10-08,Wells Branch MUD,1,1
-2013-10-08,West Austin Youth Association,1,1
-2013-10-08,Tokyo Electron America,1,1
-2013-10-08,North Austin MUD No. 1,1,2
-2013-10-08,Neal Richards Group,1,2
-2013-10-08,Armbrust and Brown,1,1
-2013-10-08,3 Point Partners,1,1
-2013-10-08,AMD,1,1
-2013-10-08,AT&T,1,11
-2013-10-08,McShane Development,1,2
-2013-10-08,CCARE,1,1
-2013-10-08,Circuit of the Americas,1,1
-2013-10-08,Balcones Resources,1,3
-2013-10-08,Cypress Realty,1,1
-2013-10-08,Endeavor Real Estate Group,1,1
-2013-10-08,HDR,1,1
-2013-10-08,InSinkErator,1,1
-2013-10-08,MWH Constructors,1,1
-2013-10-08,Cirrus Logic,1,2
-2013-10-19,Rancho Garza,-1,0
-2013-10-19,Austin Community College District,-1,0
-2013-10-19,Cornerbrook Development,-1,0
-2013-10-19,One World Theatre,-1,0
-2013-10-22,OHL/Zachary,-1,0
-2013-10-22,"OHL, USA",-1,0
-2013-10-22,Spurs Sports and Entertainment,-1,0
-2013-10-22,Lynxs,-1,0
-2013-10-22,Brightman Energy,-1,0
-2013-10-22,Fineline Diversified Development,-1,0
-2013-10-22,Don Martin Public Affairs,-1,0
-2013-10-22,American Constructors,-1,0
-2013-10-22,Journeyman Construction,-1,1
-2013-10-28,6ixth Street Austin,1,1
-2013-10-28,American Campus Communities,1,1
-2013-10-28,Amplify Federal Credit Union,1,1
-2013-10-28,Austin Fairchild Management,1,1
-2013-10-28,MBC Engineers,1,1
-2013-10-28,MPVI,1,1
-2013-11-07,Pyramis Global Advisors Holdings,1,1
-2013-12-20,REIT Management,1,1
-2013-12-20,Radisson Hotel,1,1
-2013-12-20,Randy Wilson,1,1
-2013-12-20,"Rice, Robert",1,1
-2013-12-20,Ryan Street and Associates,1,1
-2013-12-20,Riverside Resources,1,3
-2013-12-20,Robert Schmidt,1,1
-2013-12-20,Robinson Ranch,1,1
-2013-12-20,Qualico,1,1
-2013-12-20,Safeway,1,1
-2013-12-20,Riddell Family,1,1
-2013-12-20,P&S Investments I,1,1
-2013-12-20,"McCullough, Todd",1,1
-2013-12-20,Onion Associates,1,1
-2013-12-20,North Austin MUD No. 1,1,3
-2013-12-20,"Nelson, Brad",1,1
-2013-12-20,Meredith Family Revocable Trust,1,1
-2013-12-20,Makar Properties,1,1
-2013-12-20,Majestic Realty,1,1
-2013-12-20,Magnolia Montessori for all,1,1
-2013-12-20,Magellan Development Group,1,1
-2013-12-20,Liz Lambert,1,1
-2013-12-20,Linda Moody,1,1
-2013-12-20,KIPP Austin Public School,1,1
-2013-12-20,Scott Sayers,1,1
-2013-12-20,Orangestone Bluegrass,1,1
-2013-12-20,Seton Healthcare,1,2
-2013-12-20,"Wilkinson, Julia Matthews",1,1
-2013-12-20,Speakeasy,1,1
-2013-12-20,Jim Gallegos,1,1
-2013-12-20,"Wilkerson, Eric",1,1
-2013-12-20,White Lodging Services,1,1
-2013-12-20,Westbank Community Library District,1,1
-2013-12-20,Walton Stacy Partners,1,1
-2013-12-20,Walton International Group,1,1
-2013-12-20,W and G Partnership,1,1
-2013-12-20,Vivo Hospitality,1,1
-2013-12-20,Urban Outfitters,1,1
-2013-12-20,Trudy's Texas Star,1,1
-2013-12-20,Tierra Concepts,1,1
-2013-12-20,The University of Texas System,1,1
-2013-12-20,The NRP Group,1,1
-2013-12-20,The Kucera Companies,1,1
-2013-12-20,The Gottesman Company,1,1
-2013-12-20,The Charter School Fund,1,1
-2013-12-20,The Brohn Group,1,3
-2013-12-20,Taylor Morrison,1,3
-2013-12-20,Tanglewood Forest Limited District,1,1
-2013-12-20,TR Vista Preserve,1,1
-2013-12-20,T. Stacy and Associates,1,1
-2013-12-20,Stubb's Austin Restaurant Company,1,1
-2013-12-20,Stream Realty,1,1
-2013-12-20,St. Andrew's Episcopal School,1,1
-2013-12-20,Speedy Stop,1,1
-2013-12-20,"Shapiro, Bobby and Jim",1,1
-2013-12-20,Jewish Community Association of Austin,1,1
-2013-12-20,The Dovetail Companies,1,1
-2013-12-20,James Schneider,1,1
-2013-12-20,Cirrus Logic,1,3
-2013-12-20,Circuit of the Americas,1,2
-2013-12-20,Christopher Slover,1,1
-2013-12-20,Charles Dorrance,1,1
-2013-12-20,Carma Texas,1,1
-2013-12-20,Capridge Partners,1,1
-2013-12-20,Capital Commercial Investments,1,1
-2013-12-20,CWS Capital Partners,1,2
-2013-12-20,CST Brands,1,1
-2013-12-20,CRV Shoreline,1,1
-2013-12-20,Brock Consulting Group,1,1
-2013-12-20,Concordia University,1,1
-2013-12-20,Bob Gregory,1,1
-2013-12-20,AvalonPark Texas,1,1
-2013-12-20,AutoReturn,1,1
-2013-12-20,Austin Restaurant Association,1,1
-2013-12-20,Austin Board of Realtors,1,1
-2013-12-20,Austin Baptist Church,1,1
-2013-12-20,Austin Achieve,1,1
-2013-12-20,Aspen Properties,1,1
-2013-12-20,Amstar Group,1,1
-2013-12-20,Accelerator Holdings,1,1
-2013-12-20,4800 Friedrich Lane,1,1
-2013-12-20,183 BLW,1,1
-2013-12-20,Blenheim,1,1
-2013-12-20,Creek 620,1,1
-2013-12-20,Austin Quality Schools Collaborative,1,1
-2013-12-20,"Cullen, John",1,1
-2013-12-20,Crescent 210 Barton Springs,1,1
-2013-12-20,IDEA Public Schools,1,1
-2013-12-20,Hyde Park Baptist Church,1,1
-2013-12-20,Hughes Capital Management,1,1
-2013-12-20,Highland Management,1,3
-2013-12-20,HSD Lakeway Holdings,1,1
-2013-12-20,HPI Real Estate and Services Investment,1,1
-2013-12-20,H-E-B,1,1
-2013-12-20,Google,1,1
-2013-12-20,Goodstone,1,1
-2013-12-20,Glenn Jackson,1,1
-2013-12-20,General Investment and Development,1,1
-2013-12-20,Gene Burris,1,1
-2013-12-20,Jeffery C. Garvey,1,1
-2013-12-20,G5 Investments,1,1
-2013-12-20,Gables Residential,1,1
-2013-12-20,David and Suzanne Booth,1,1
-2013-12-20,Deborah and Gary Attal,1,1
-2013-12-20,Dwyer Realty Companies,1,3
-2013-12-20,Cypress Realty,1,2
-2013-12-20,Endeavor Real Estate Group,1,2
-2013-12-20,EHB Companies,1,1
-2013-12-20,Eric Reddehase,1,1
-2013-12-20,Flextronics,1,1
-2013-12-20,Forestar Real Estate Group,1,1
-2013-12-20,Four Seasons Hotel,1,1
-2013-12-20,Episcopal Theological Seminary of the Southwest,1,1
-2014-01-03,"Rodriguez, Robert A.",1,3
-2014-01-03,"Robbins, Stuart B.",-1,0
-2014-01-03,SXSW,2,4
-2014-01-03,"Robbins, Stewart",-1,0
-2014-01-03,"Robbins, Freddie H.",-2,0
-2014-01-03,Riverside Resources,0,3
-2014-01-03,Presidio Pictures,-2,0
-2014-01-03,Margaret Scarbrough Wilson,-2,0
-2014-01-03,Munson Park,-2,0
-2014-01-03,"Moritz, Jim/Moritz Properties",-2,0
-2014-01-03,Met Center,2,4
-2014-01-03,Saint Edward's University,-2,0
-2014-01-03,MSW-NSG Real Estate Ventures,-2,0
-2014-01-03,"Lorenz, Perry",1,3
-2014-01-03,"Logan, Ellen Anderson",1,3
-2014-01-03,Lica Pinkston,1,3
-2014-01-03,New TPG Four Points,-2,0
-2014-01-03,Scarbrough Ventures,-1,1
-2014-01-03,Taylor Morrison,-1,2
-2014-01-03,Southwest Parkway Partners,-2,0
-2014-01-03,Zydeco Development,1,3
-2014-01-03,Lampting,0,2
-2014-01-03,Zapalac/Reed Construction Company,-2,0
-2014-01-03,"Wong, M.D., Mitchel",1,3
-2014-01-03,Weekley Homes,3,3
-2014-01-03,"Warshaw, Larry",1,3
-2014-01-03,URSTCO GP,-2,0
-2014-01-03,Twin Oaks Associates,1,3
-2014-01-03,"Turner, Ben",-2,0
-2014-01-03,Troublemaker Studios,1,3
-2014-01-03,Treaty Oak Bank,-2,0
-2014-01-03,The Muskin Company,-2,0
-2014-01-03,Texas Disposal Systems,1,2
-2014-01-03,Tantallon Austin Hotel,3,3
-2014-01-03,Stratus Properties,1,1
-2014-01-03,Stratagem Development.,-2,0
-2014-01-03,St. David's Foundation,-1,2
-2014-01-03,South IH-35 Investors,1,3
-2014-01-03,"Tynberg, Alex and Elisabeth",-2,0
-2014-01-03,Lack and Hurley,-2,0
-2014-01-03,Kitchell Development,1,3
-2014-01-03,Coover and Coover,2,3
-2014-01-03,Constructive Ventures,1,3
-2014-01-03,Churchill Forge,-2,0
-2014-01-03,Christopher Commercial,-2,0
-2014-01-03,"Charles S. Dildy and Bertha Magdelan Steger Dildy, Trustees",-2,0
-2014-01-03,"Champion, Josie, Juanita Meier and Mary Margaret Roberson",-1,1
-2014-01-03,Bread and Circus,1,3
-2014-01-03,"Ayers, Robert A.",1,3
-2014-01-03,"Avellan, Elizabeth",-2,0
-2014-01-03,Austin Chronicle,1,3
-2014-01-03,Austin Children's Museum,-2,0
-2014-01-03,Ashton Woods Homes,1,1
-2014-01-03,Ardent Residential,0,2
-2014-01-03,Alliance Residential,0,2
-2014-01-03,5453 Burnet Park Venture,-1,1
-2014-01-03,1219 South Lamar Venture,-1,1
-2014-01-03,"Knight, Robert - Knight Real Estate",-2,0
-2014-01-03,"Coover, David M. Jr.",1,3
-2014-01-03,Cottonwood Holdings,-2,0
-2014-01-03,"Austin American-Statesman,",1,3
-2014-01-03,Dwyer Realty Companies,-2,1
-2014-01-03,Kevin Hunter Camco Land,-2,0
-2014-01-03,Cypress Realty,1,3
-2014-01-03,KXAN,-2,0
-2014-01-03,KB Home Lone Star,-1,1
-2014-01-03,Jack Brown Companies,-2,0
-2014-01-03,"International Bank of Commerce, Laredo, Texas",2,4
-2014-01-03,INTCO Properties,-1,0
-2014-01-03,INTCO Development of Texas,-2,0
-2014-01-03,Jack Brown Family III,-1,1
-2014-01-03,Highland Management,1,4
-2014-01-03,HRI Development,1,3
-2014-01-03,Floresta Properties,-2,0
-2014-01-03,Finley Company,2,4
-2014-01-03,Film Society of Austin,1,3
-2014-01-03,Farm Credit Bank of Texas,-2,0
-2014-01-03,EYA Investments,-2,0
-2014-01-03,"Hillin Jr., Robert",1,3
-2014-01-03,Falkin/Platnick Realty Group,-2,0
-2014-01-04,Texas Disposal Systems,-1,1
-2014-01-07,"Wilkinson, Julia Matthews",2,3
-2014-01-07,REIT Management,2,3
-2014-01-07,Radisson Hotel,2,3
-2014-01-07,Randy Wilson,2,3
-2014-01-07,Robert Schmidt,2,3
-2014-01-07,Riddell Family,2,3
-2014-01-07,Riverside Resources,2,5
-2014-01-07,Robinson Ranch,2,3
-2014-01-07,Qualico,2,3
-2014-01-07,Ryan Street and Associates,2,3
-2014-01-07,"Rice, Robert",2,3
-2014-01-07,P&S Investments I,2,3
-2014-01-07,Magnolia Montessori for all,2,3
-2014-01-07,Onion Associates,2,3
-2014-01-07,North Austin MUD No. 1,2,5
-2014-01-07,"Nelson, Brad",2,3
-2014-01-07,Meredith Family Revocable Trust,2,3
-2014-01-07,"McCullough, Todd",2,3
-2014-01-07,Makar Properties,2,3
-2014-01-07,Majestic Realty,1,2
-2014-01-07,Magellan Development Group,2,3
-2014-01-07,Lone Star Rail,-1,1
-2014-01-07,Liz Lambert,2,3
-2014-01-07,Linda Moody,2,3
-2014-01-07,Safeway,2,3
-2014-01-07,Orangestone Bluegrass,2,3
-2014-01-07,Scott Sayers,2,3
-2014-01-07,Urban Outfitters,2,3
-2014-01-07,"Shapiro, Bobby and Jim",2,3
-2014-01-07,KIPP Austin Public School,2,3
-2014-01-07,"Wilkerson, Eric",2,3
-2014-01-07,White Lodging Services,2,3
-2014-01-07,Westbank Community Library District,2,3
-2014-01-07,Walton Stacy Partners,2,3
-2014-01-07,Walton International Group,2,3
-2014-01-07,W and G Partnership,2,3
-2014-01-07,Vivo Hospitality,2,3
-2014-01-07,Trudy's Texas Star,2,3
-2014-01-07,Tierra Concepts,2,3
-2014-01-07,The University of Texas System,2,3
-2014-01-07,The NRP Group,2,3
-2014-01-07,Seton Healthcare,2,4
-2014-01-07,The Kucera Companies,2,3
-2014-01-07,The Dovetail Companies,2,3
-2014-01-07,The Charter School Fund,2,3
-2014-01-07,The Brohn Group,2,5
-2014-01-07,Taylor Morrison,2,4
-2014-01-07,Tanglewood Forest Limited District,2,3
-2014-01-07,TR Vista Preserve,2,3
-2014-01-07,T. Stacy and Associates,2,3
-2014-01-07,Stubb's Austin Restaurant Company,2,3
-2014-01-07,Stream Realty,2,3
-2014-01-07,St. Andrew's Episcopal School,2,3
-2014-01-07,Speedy Stop,2,3
-2014-01-07,Speakeasy,2,3
-2014-01-07,The Gottesman Company,2,3
-2014-01-07,Jim Gallegos,2,3
-2014-01-07,Four Seasons Hotel,2,3
-2014-01-07,Jeffery C. Garvey,2,3
-2014-01-07,Cirrus Logic,2,5
-2014-01-07,Circuit of the Americas,2,4
-2014-01-07,Christopher Slover,2,3
-2014-01-07,Charles Dorrance,2,3
-2014-01-07,Carma Texas,2,3
-2014-01-07,Capridge Partners,2,3
-2014-01-07,Capital Commercial Investments,2,3
-2014-01-07,CWS Capital Partners,2,4
-2014-01-07,CST Brands,2,3
-2014-01-07,CRV Shoreline,2,3
-2014-01-07,Brock Consulting Group,2,3
-2014-01-07,Bob Gregory,2,3
-2014-01-07,Blenheim,2,3
-2014-01-07,AvalonPark Texas,2,3
-2014-01-07,AutoReturn,2,3
-2014-01-07,Austin Restaurant Association,2,3
-2014-01-07,Austin Quality Schools Collaborative,2,3
-2014-01-07,Austin Board of Realtors,2,3
-2014-01-07,Austin Baptist Church,2,3
-2014-01-07,Austin Achieve,2,3
-2014-01-07,Aspen Properties,2,3
-2014-01-07,Amstar Group,2,3
-2014-01-07,Accelerator Holdings,2,3
-2014-01-07,4800 Friedrich Lane,2,3
-2014-01-07,183 BLW,2,3
-2014-01-07,Concordia University,2,3
-2014-01-07,Creek 620,2,3
-2014-01-07,Jewish Community Association of Austin,2,3
-2014-01-07,"Cullen, John",2,3
-2014-01-07,Crescent 210 Barton Springs,2,3
-2014-01-07,James Schneider,2,3
-2014-01-07,IDEA Public Schools,2,3
-2014-01-07,Hughes Capital Management,2,3
-2014-01-07,Highland Management,2,6
-2014-01-07,HSD Lakeway Holdings,2,3
-2014-01-07,HPI Real Estate and Services Investment,2,3
-2014-01-07,H-E-B,2,3
-2014-01-07,Google,2,3
-2014-01-07,Goodstone,2,3
-2014-01-07,Glenn Jackson,2,3
-2014-01-07,General Investment and Development,2,3
-2014-01-07,Hyde Park Baptist Church,2,3
-2014-01-07,Gables Residential,2,3
-2014-01-07,G5 Investments,2,3
-2014-01-07,Forestar Real Estate Group,2,3
-2014-01-07,Flextronics,2,3
-2014-01-07,Eric Reddehase,2,3
-2014-01-07,Episcopal Theological Seminary of the Southwest,2,3
-2014-01-07,Endeavor Real Estate Group,2,4
-2014-01-07,EHB Companies,2,3
-2014-01-07,Dwyer Realty Companies,2,3
-2014-01-07,Cypress Realty,2,5
-2014-01-07,Deborah and Gary Attal,2,3
-2014-01-07,David and Suzanne Booth,2,3
-2014-01-07,Gene Burris,2,3
-2014-01-08,Walton International Group,1,4
-2014-01-08,Texas Disposal Systems,1,2
-2014-01-08,Meritage Homes of Texas,1,1
-2014-01-08,EMSO Partners Limited,1,1
-2014-01-08,183 BLW,1,4
-2014-01-08,Google,1,4
-2014-01-09,ROI Entertainment,1,1
-2014-01-09,Post Paggi,3,4
-2014-01-09,Rip Miller,1,1
-2014-01-09,Simmons Vedder Partners,2,2
-2014-01-09,Simon Property Group,2,3
-2014-01-09,Songhai Ventures,1,1
-2014-01-09,Starwood Capital Group,1,1
-2014-01-09,Stratus Properties,2,3
-2014-01-09,TCMUD #4,1,1
-2014-01-09,Transwestern Commercial,2,2
-2014-01-09,Trinsic Residential Group,1,2
-2014-01-09,Vista Property Company,1,1
-2014-01-09,Walters Southwest,2,3
-2014-01-09,Spear Street Capital,1,1
-2014-01-09,Mobile Loaves and Fishes,1,1
-2014-01-09,Republic Services,1,1
-2014-01-09,Hixon Properties,2,3
-2014-01-09,Manchester Financial Group,2,3
-2014-01-09,Arnold Oil,1,2
-2014-01-09,Aspen Heights,1,1
-2014-01-09,Austin Diagnostic Clinic,1,1
-2014-01-09,Austin Fairchild Management,1,2
-2014-01-09,CWS Capital Partners,2,6
-2014-01-09,Butler Family Partnership,1,2
-2014-01-09,Cousins Properties,2,3
-2014-01-09,Grayco Partners,2,2
-2014-01-09,Google,1,5
-2014-01-09,H-E-B,2,5
-2014-01-09,Dean and Andrea McWilliams,1,1
-2014-01-09,Cardinal Paragon,1,1
-2014-01-09,Eureka Holdings,1,1
-2014-01-10,Austin Aquatics and Sports Academy,-1,1
-2014-01-10,County Line,-1,1
-2014-01-10,First Hartford Realty,-1,1
-2014-01-10,Lyda Family Trust,-1,1
-2014-01-10,Morgan Group,-1,1
-2014-01-10,Regents School of Austin,-1,1
-2014-01-10,Sage South Shore,-1,1
-2014-01-10,Stratford Land,-1,1
-2014-01-10,Sunshine Camp,-1,1
-2014-01-10,Dinerstein Company,-1,0
-2014-01-13,Raptor Air,1,1
-2014-01-13,"General Aviation Avenue, LLc",1,1
-2014-01-13,Kayne Capital,1,1
-2014-01-13,Scott Airport Property,1,1
-2014-01-13,Catellus Commercial Group,1,1
-2014-01-13,Cogent Info Tech,1,1
-2014-01-13,Delaware North Companies/Travel Hospitality Services,1,1
-2014-01-16,Austin Achieve,1,4
-2014-01-16,Titan Capital Investment Group,1,1
-2014-01-16,Texas 1836 -- EB5,1,1
-2014-01-16,TRT Holdings,1,1
-2014-01-16,Southern Company,1,1
-2014-01-16,Simon Property Group,1,4
-2014-01-16,Seton Healthcare,1,5
-2014-01-16,Radisson Hotel,1,4
-2014-01-16,Robinson Ranch,1,4
-2014-01-16,Lennar Homes,1,1
-2014-01-16,Forestar Real Estate Group,1,4
-2014-01-16,Dwyer Realty Companies,1,4
-2014-01-16,David and Suzanne Booth,1,4
-2014-01-16,Cypress Realty,1,6
-2014-01-16,Barshop and Oles Company,1,1
-2014-01-16,Austin Quality Schools Collaborative,1,4
-2014-01-16,Magnolia Montessori for all,1,4
-2014-01-16,REIT Management,1,4
-2014-01-17,Marc Knutsen Companies,-1,0
-2014-01-31,The Real Estate Council of Austin,2,2
-2014-02-03,Winstead,1,1
-2014-02-03,Southwest Strategies Group,1,1
-2014-02-03,Stratus Properties,1,4
-2014-02-03,Republic Services,1,2
-2014-02-03,BusGuard,1,1
-2014-02-03,Boot Man,1,1
-2014-02-03,Austin Film Studios,1,1
-2014-02-03,PEC Pedernales Electric Cooperative,1,1
-2014-02-12,El Rey Network,1,1
-2014-03-04,U.S. Hispanic Contractors Association,-1,0
-2014-03-04,Trammell Crow Company,-1,0
-2014-03-04,The Mulholland Group,-1,0
-2014-03-04,TRC Solutions,-1,0
-2014-03-04,Southwest Key/ East Austin College Prep Academy,-1,0
-2014-03-04,Save Austin,-1,0
-2014-03-04,Snappy Snacks Mobile Catering,-1,0
-2014-03-04,MVAA,-1,0
-2014-03-04,IBC Bank,-1,0
-2014-03-04,Fiestas Patrias of Austin,-1,0
-2014-03-04,Crossroads Events,-1,0
-2014-03-04,Brisa Communications,-1,0
-2014-03-04,Minority Contractors Trade Association Alliance,-1,0
-2014-03-07,Capital Metro,-1,0
-2014-03-07,Conor Commercial Real Estate,-1,0
-2014-03-07,Dessau Business Park Propery Owners Assn,-1,0
-2014-03-07,Jeff Alderson,-1,0
-2014-03-07,Munsch Hardt Kopf and Harr,-1,0
-2014-03-07,Triton Receivership,-1,0
-2014-03-08,Bridges on The Park Condominium Association,-1,0
-2014-03-10,UMLAUF Sculpture Gardens and Museum,1,1
-2014-03-10,Pohl Partners,1,1
-2014-03-10,Denison Development,1,1
-2014-03-13,Austin Country Club,1,1
-2014-03-13,Austin Green Cab,1,1
-2014-03-13,Brent and Jennifer Cardwell,1,1
-2014-03-13,Energy AP,1,1
-2014-03-13,Ranger Excavating,1,1
-2014-03-13,Trinity Insurance Group,1,1
-2014-03-21,Redflex Traffic Systems,-1,0
-2014-03-31,Met Center,1,5
-2014-03-31,Milestone Community Builders,1,3
-2014-03-31,Mustaquali Momin/Thaxton Properties,1,1
-2014-03-31,North I-35 Business Park,1,1
-2014-03-31,PPF AMLI covered Bridge Drive,1,1
-2014-03-31,PRJ Development,1,1
-2014-03-31,Quest Tower View,1,1
-2014-03-31,Rick Sheldon Real Estate,1,1
-2014-03-31,Zydeco Development,1,4
-2014-03-31,SFSV Hill,1,1
-2014-03-31,Sheahan Business Center,1,1
-2014-03-31,Marval Property Investments,1,1
-2014-03-31,Tomlinson's Feed and Pets,1,1
-2014-03-31,Twin Liquors,1,1
-2014-03-31,Vargas Properties I,1,1
-2014-03-31,Vijay Patel,1,1
-2014-03-31,Wagwater Partners,1,1
-2014-03-31,Riverside Homes/Scott Turner,1,1
-2014-03-31,MB 26 Properties,1,1
-2014-03-31,Tan Min Ho,1,1
-2014-03-31,Jose and Gloria Perez,1,1
-2014-03-31,Kucera Management/Ted Mecklin,1,1
-2014-03-31,1210 Barton Springs Road Venture,1,1
-2014-03-31,Bennet Partners,1,1
-2014-03-31,CBAL Whitecrowe,1,1
-2014-03-31,Colina West Real Estate,1,1
-2014-03-31,Colonnetta Family,1,1
-2014-03-31,Covered Bridge Assisted Living,1,1
-2014-03-31,Dalton Mueller,1,1
-2014-03-31,Congress Avenue Baptist Church,1,1
-2014-03-31,GST Hermanas Land and Cattle,1,1
-2014-03-31,Greif Yount Partnership,1,1
-2014-03-31,Harmony Cottages,1,1
-2014-03-31,Horse Thief Hollow,1,1
-2014-03-31,Houston 6000 Bissonnet,1,1
-2014-03-31,JEAE Family Ltd. Partnership,1,1
-2014-03-31,Jeff Blatt,1,1
-2014-03-31,Jett Abraham,1,1
-2014-03-31,David Honeycutt,1,1
-2014-04-21,Redflex Traffic Systems,1,1
-2014-04-24,RedLeaf Properties,1,2
-2014-04-24,Trail Foundation,1,1
-2014-04-24,Thinkery,1,1
-2014-04-24,SELTEX,1,1
-2014-04-24,Ryan Companies,1,1
-2014-04-24,Perry Estates,1,3
-2014-04-24,Lyft,1,1
-2014-04-24,HDR,1,2
-2014-04-24,Friends of Lake Austin,1,1
-2014-04-24,Conley Sports,1,1
-2014-04-24,City of Dripping Springs,1,1
-2014-04-24,Buie and Co.,1,1
-2014-04-24,Austin Apartment Association,1,1
-2014-04-24,InSinkErator,1,2
-2014-04-25,Radec Management,1,1
-2014-04-25,Mill Creek Residential Trust,1,1
-2014-04-25,Navid Hoomanrad,1,1
-2014-04-25,Pacifica Host Hotels,1,1
-2014-04-25,Plaza Lofts,1,1
-2014-04-25,Peter Gilcrease,1,1
-2014-04-25,McAdams Enterprises,1,1
-2014-04-25,Prevarian Hospital Partners,1,1
-2014-04-25,Paz Doty,1,1
-2014-04-25,Marcus Whitfield,1,1
-2014-04-25,Lampros Moumouris,1,1
-2014-04-25,Lyft,1,2
-2014-04-25,Lippincott Capital,1,1
-2014-04-25,Jeremiah Venture,1,1
-2014-04-25,LDG Norwood,1,1
-2014-04-25,Koontz-McCombs,1,2
-2014-04-25,Kevin Tarr,1,1
-2014-04-25,Kailey Development Partners,1,1
-2014-04-25,"Joseph Liemandt, Andra Liemandt",1,1
-2014-04-25,Jerry Bell,1,1
-2014-04-25,MTG Management,1,1
-2014-04-25,Reagan National Advertising,1,2
-2014-04-25,The Park at Travis Country COA,1,1
-2014-04-25,Robert Rock,1,1
-2014-04-25,James Jard,1,1
-2014-04-25,Zilker Park Residences Partners,1,1
-2014-04-25,Walter B. Eads,1,1
-2014-04-25,Versa Development,1,1
-2014-04-25,V and S Enterprises,1,1
-2014-04-25,Trilogy Enterprises,1,1
-2014-04-25,Travis Hotel Group,1,1
-2014-04-25,The NRP Group,1,4
-2014-04-25,The Greystone Group,1,1
-2014-04-25,Texas Capital Bank,1,1
-2014-04-25,Televending,1,1
-2014-04-25,Taylor Woodrow Communities/Steiner Ranch,1,1
-2014-04-25,TX RR620 Apartments,1,1
-2014-04-25,Synagro-WWT,1,1
-2014-04-25,Stuart Thomajan,1,1
-2014-04-25,Steve Greenberg,1,1
-2014-04-25,Stephen Melchiode,1,1
-2014-04-25,South River City Citizens Associations,1,1
-2014-04-25,Sohil Momin,1,1
-2014-04-25,Sandstone Ventures,1,1
-2014-04-25,Saleem Tawill,1,1
-2014-04-25,Riverside Resources,1,6
-2014-04-25,JLB Realty,1,1
-2014-04-25,Oxford Alliance Investments,1,1
-2014-04-25,Husch Blackwell,1,1
-2014-04-25,Central Health,2,2
-2014-04-25,Cary and Cynthia Reynolds,1,1
-2014-04-25,Bunkhouse Management,1,1
-2014-04-25,Brigid Cockrum,1,1
-2014-04-25,Brazos Masonry,1,1
-2014-04-25,Bounce Marketing and Events,1,1
-2014-04-25,Bouldin Creek Neighborhood Association,1,1
-2014-04-25,Bill and Kathy Darling,1,1
-2014-04-25,Berns Commercial Properties,1,1
-2014-04-25,Charmeleon Group,1,1
-2014-04-25,Austin Renaissance,1,1
-2014-04-25,Austin Board of Realtors,1,4
-2014-04-25,Atlantic Housing Foundation,1,1
-2014-04-25,Antolin Aguirre,1,1
-2014-04-25,Anthony George,1,1
-2014-04-25,AXF Development,1,1
-2014-04-25,AECOM,1,1
-2014-04-25,720 Lamar Place,1,1
-2014-04-25,408 Sterzing,1,1
-2014-04-25,2208 Lake Austin,1,1
-2014-04-25,Austin Elm Terrace LP,1,1
-2014-04-25,Chereen Fisher,1,1
-2014-04-25,Carollo Engineers,1,1
-2014-04-25,Colony Park Neighborhood Association,1,1
-2014-04-25,Hudgins Apartment Development,1,1
-2014-04-25,"Howard and Howard Attorneys, PLLC",1,1
-2014-04-25,HomeAway,1,1
-2014-04-25,"Highland Park West, Limited",1,1
-2014-04-25,Heritage Neighborgood Association,1,1
-2014-04-25,Grubb and Ellis Realty Investors,1,1
-2014-04-25,Circuit of the Americas,1,5
-2014-04-25,Greystone Multifamily Builders,1,1
-2014-04-25,Greater Austin Transportation (Yellow Cab),1,2
-2014-04-25,Gemini Solar Development,1,1
-2014-04-25,Freedom Carwash,1,1
-2014-04-25,Greystone Steiner Associates,1,1
-2014-04-25,Flemtex Properties,1,1
-2014-04-25,Forestar Real Estate Group,1,5
-2014-04-25,Davenport Ranch Neighborhood Assoc.,1,1
-2014-04-25,David McMahan,1,1
-2014-04-25,Eanes Community Alliance,1,1
-2014-04-25,Continental Cars,1,1
-2014-04-25,Insurance Auto Auctions,1,1
-2014-04-25,Eureka Holdings,1,2
-2014-04-25,Fineline Diversified Development,1,1
-2014-04-25,Edward Lopez,1,1
-2014-04-29,Kathy Kyrish,-1,0
-2014-04-29,Seton Healthcare,-1,4
-2014-04-29,Scot Van Den Berg,-1,0
-2014-04-29,Schlosser Development (Rick Duggan III),1,1
-2014-04-29,RedLeaf Properties,-1,1
-2014-04-29,RIP Esselsttyn,-1,0
-2014-04-29,Permit Partners,-1,0
-2014-04-29,Mission Homes,-1,0
-2014-04-29,MKKN Development,-1,0
-2014-04-29,John Mayes,-1,0
-2014-04-29,UniSite,1,1
-2014-04-29,"GFD Holdings, LLC (Brandon Bolin)",1,1
-2014-04-29,2208 Lake Austin,1,2
-2014-04-29,ATC Outdoor DAS,1,1
-2014-04-29,Andersson Wise Architects,-1,0
-2014-04-29,Austin Elm Terrace LP,1,2
-2014-04-29,Gordon Muir,-1,0
-2014-04-29,Dobie Austin (Howard Michaels),1,1
-2014-04-29,El Chile Restaurant Group (Carlos Rivero),1,1
-2014-04-29,ExeNet Systems,1,1
-2014-04-29,D. R. Horton,1,1
-2014-04-30,Michael Biter,-1,0
-2014-05-01,Workers Defense Project,-1,1
-2014-05-02,ZIR Investments,1,1
-2014-05-02,SolarCity,1,1
-2014-05-02,Patterson Properties,1,1
-2014-05-02,PSW Real Estate,1,1
-2014-05-02,South Llano Strategies,1,1
-2014-05-02,Green Zone Homes,1,1
-2014-05-02,Danley Properties,1,1
-2014-05-02,Mr. Tramps Bar and Tavern,1,1
-2014-05-02,Coleman Law Office,1,1
-2014-05-04,Trinsic Residential Group,1,3
-2014-05-04,Spire Realty,1,1
-2014-05-04,KEEP Real Estate,1,1
-2014-05-04,Butler Family Partnership,1,3
-2014-05-15,Uber Technologies,2,3
-2014-05-21,360 Aircon Energy Savers,-1,0
-2014-06-01,Save Our Springs Alliance,1,1
-2014-06-04,Workers Defense Action Fund,1,1
-2014-06-04,Workers Defense Project,1,2
-2014-06-09,Xerox,1,1
-2014-06-09,Beneplace,1,1
-2014-06-09,CPS Human Resource Services,1,1
-2014-06-09,Halff Associates,2,2
-2014-06-09,Hoar Construction,1,1
-2014-06-09,NEC Corportation of America,1,1
-2014-06-09,RFD and Associates,1,1
-2014-06-09,United Road Towing dba UR Vehicle Management Solutions,2,2
-2014-06-25,Central Health,1,3
-2014-06-25,Ascencion Health,1,1
-2014-06-27,Zilker Park Residences Partners,1,2
-2014-06-27,Prevarian Hospital Partners,1,2
-2014-06-27,Peter Gilcrease,1,2
-2014-06-27,Paz Dhody,1,1
-2014-06-27,Pacifica Host Hotels,1,2
-2014-06-27,Oxford Alliance Investments,1,2
-2014-06-27,Navid Hoomanrad,1,2
-2014-06-27,Mill Creek Residential Trust,1,2
-2014-06-27,McAdams Enterprises,1,2
-2014-06-27,MTG Management,1,2
-2014-06-27,Lost Creek Neighborhood Assoc,1,1
-2014-06-27,Lippincott Capital,1,2
-2014-06-27,Lampros Moumouris,1,2
-2014-06-27,LDG Norwood,1,2
-2014-06-27,Kevin Tarr,1,2
-2014-06-27,Kailey Development Partners,1,2
-2014-06-27,Radec Management,1,2
-2014-06-27,"Joseph Liemandt, Andra Liemandt",1,2
-2014-06-27,Reagan National Advertising,1,3
-2014-06-27,Sandstone Ventures,1,2
-2014-06-27,Walter B. Eads,1,2
-2014-06-27,Versa Development,1,2
-2014-06-27,V and S Enterprises,1,2
-2014-06-27,Trilogy Enterprises,1,2
-2014-06-27,Travis Hotel Group,1,2
-2014-06-27,The Park at Travis Country COA,1,2
-2014-06-27,The NRP Group,1,5
-2014-06-27,The Greystone Group,1,2
-2014-06-27,Texas Capital Bank,1,2
-2014-06-27,Televending,1,2
-2014-06-27,Taylor Woodrow Communities/Steiner Ranch,1,2
-2014-06-27,Stuart Thomajan,1,2
-2014-06-27,Steve Greenberg,1,2
-2014-06-27,Stephen Melchiode,1,2
-2014-06-27,Sohil Momin,1,2
-2014-06-27,Riverside Resources,1,7
-2014-06-27,Jeremiah Venture,1,2
-2014-06-27,Jerry Bell,1,2
-2014-06-27,JLB Realty,1,2
-2014-06-27,Chereen Fisher,1,2
-2014-06-27,Charmeleon Group,1,2
-2014-06-27,Cary and Cynthia Reynolds,1,2
-2014-06-27,Carollo Engineers,1,2
-2014-06-27,Bunkhouse Management,1,2
-2014-06-27,Brazos Masonry,1,2
-2014-06-27,Bouldin Creek Neighborhood Association,1,2
-2014-06-27,Circuit of the Americas,1,6
-2014-06-27,Austin Board of Realtors,1,5
-2014-06-27,Antolin Aguirre,1,2
-2014-06-27,Anthony George,1,2
-2014-06-27,AECOM,1,2
-2014-06-27,720 Lamar Place,1,2
-2014-06-27,408 Sterzing,1,2
-2014-06-27,2208 Lake Austin,1,3
-2014-06-27,James Jard,1,2
-2014-06-27,Atlantic Housing Foundation,1,2
-2014-06-27,Colony Park Neighborhood Association,1,2
-2014-06-27,Berns Commercial Properties,1,2
-2014-06-27,Davenport Ranch Neighborhood Assoc.,1,2
-2014-06-27,HomeAway,1,2
-2014-06-27,"Highland Park West, Limited",1,2
-2014-06-27,Heritage Neighborgood Association,1,2
-2014-06-27,Grubb and Ellis Realty Investors,1,2
-2014-06-27,Greystone Steiner Associates,1,2
-2014-06-27,Greystone Multifamily Builders,1,2
-2014-06-27,Continental Cars,1,2
-2014-06-27,Gemini Solar Development,1,2
-2014-06-27,Freedom Carwash,1,2
-2014-06-27,Forestar Real Estate Group,1,6
-2014-06-27,Flemtex Properties,1,2
-2014-06-27,Fineline Diversified Development,1,2
-2014-06-27,Eureka Holdings,1,3
-2014-06-27,Eanes Community Alliance,1,2
-2014-06-27,David McMahan,1,2
-2014-06-27,"Howard and Howard Attorneys, PLLC",1,2
-2014-06-27,Insurance Auto Auctions,1,2
-2014-06-28,R and R Limousine and Bus,-1,0
-2014-06-28,Greater Austin Transportation (Yellow Cab),-1,1
-2014-07-01,Fremont Holdings,1,1
-2014-07-01,Greater Mt. Zion Baptist Church,1,1
-2014-07-01,NextEra Energy Resources,-1,0
-2014-07-01,River Place Municipal Utility District,-1,0
-2014-07-01,Sackmann Enterprises,1,3
-2014-07-01,Shady Hollow MUD,-1,0
-2014-07-01,Wal-Mart,1,2
-2014-07-09,Hixon Properties,-1,2
-2014-07-09,Honokea Surf Parks,1,1
-2014-07-09,JLM Financial Investments,1,1
-2014-07-09,KEEP Real Estate,1,2
-2014-07-09,Manchester Financial Group,-1,2
-2014-07-09,Transwestern Commercial,1,3
-2014-07-09,"Radtke, Lorin",1,1
-2014-07-09,Republic Services,1,3
-2014-07-09,Senior Quality Lifestyles,1,1
-2014-07-09,Stoltz Management,1,1
-2014-07-09,Post Paggi,-1,3
-2014-07-09,Grayco Partners,1,3
-2014-07-09,Spire Realty,1,2
-2014-07-09,Circle C Homeowners Association,2,2
-2014-07-09,16 Piggybank,1,1
-2014-07-09,2208 Lake Austin,1,4
-2014-07-09,Alexa Management,1,1
-2014-07-09,Arnold Oil,-1,1
-2014-07-09,Artesia Real Estate,1,1
-2014-07-09,ECC Commercial,1,1
-2014-07-09,Austin Diagnostic Clinic,1,2
-2014-07-09,Butler Family Interests,1,1
-2014-07-09,CWS Capital Partners,-1,5
-2014-07-09,Catalyst Acquisitions and Development Grp,1,1
-2014-07-09,Aspen Heights,1,2
-2014-07-16,Bob and Michael Herd,-1,0
-2014-07-16,Deborah Dunn,-1,0
-2014-07-16,Milestone Community Builders,-1,2
-2014-07-16,Scotia Western States Housing,-1,0
-2014-07-16,St. David's Foundation,-1,1
-2014-07-18,KB Home Lone Star,1,2
-2014-07-18,The Brohn Group,-1,4
-2014-07-18,SC Lantana Investors,-1,1
-2014-07-18,North Austin MUD No. 1,-1,4
-2014-07-18,KJC Auto Title Loan Corp.,1,1
-2014-07-18,Harris Branch Master Association,-1,0
-2014-07-18,Austin Ridge Bible Church,-1,1
-2014-07-18,Austin Presbetyrian Theological Seminary,-1,1
-2014-07-18,Austin Apartment Association,1,2
-2014-07-18,A and M Option 541,1,2
-2014-07-18,5001 Convict Hill,-1,1
-2014-07-18,CBL and Associates Management,-1,1
-2014-07-23,HausBar Farms,-1,0
-2014-07-23,Marvin Petzolt,-1,0
-2014-07-23,PSW Real Estate,1,2
-2014-07-23,Workers Defense Project,-1,1
-2014-08-01,Neans Investments,1,1
-2014-08-01,Pulte Homes of Texas,1,1
-2014-08-01,Simmons Vedder Partners,1,3
-2014-08-01,Waterloo Development,1,1
-2014-08-01,Suzanne Snyder,1,1
-2014-08-01,Vinson Radke Investments,1,1
-2014-08-01,The Stratford Company,1,1
-2014-08-01,Toria and Blake English,1,1
-2014-08-01,Velocity Park I,1,1
-2014-08-01,The City School,1,1
-2014-08-01,La V Restaurant,1,1
-2014-08-01,Dessau Howard,1,1
-2014-08-01,HTK Development,1,1
-2014-08-01,Essex and Delancey,1,1
-2014-08-01,Endeavor Real Estate Group,1,5
-2014-08-01,Century Land Holdings II,1,1
-2014-08-01,Canchola and Hyde Productions,1,1
-2014-08-01,Austin Board of Realtors,2,7
-2014-08-01,Art at Bratton's Edge,1,1
-2014-08-01,AVG Partners,1,1
-2014-08-01,AJHSCCM,1,1
-2014-08-01,Johnson Four Corners,1,1
-2014-08-05,Lone Star Rail,1,2
-2014-08-06,AT&T,-2,9
-2014-08-09,Dropbox,-1,1
-2014-08-13,AT&T,-1,8
-2014-08-15,Travis County Emergency Services District No. 11,-1,0
-2014-08-20,Live Nations Eddie Hudson,1,1
-2014-08-20,MS General Contractors,1,1
-2014-08-20,Lewis Sign Builders,1,1
-2014-08-20,Maderone Ventures,1,1
-2014-08-20,Miller Uniform,1,1
-2014-08-20,Montana Builders,1,1
-2014-08-20,Peter Barlin,1,1
-2014-08-20,SNAP Set,1,1
-2014-08-20,Sam Kumar 9th and Red River,1,1
-2014-08-20,Texas Construction,1,1
-2014-08-20,Shirley Vega,1,1
-2014-08-20,Streamline Commercial Contractors,1,1
-2014-08-20,Tabernacle Apostolic Church,1,1
-2014-08-20,Televending,1,3
-2014-08-20,Terry Laney,1,1
-2014-08-20,WLP Architect Bill Perkins,1,1
-2014-08-20,Will Bridges,1,1
-2014-08-20,Kenneth Gorence,1,1
-2014-08-20,Sam Mikhail,1,1
-2014-08-20,Karen Browning,1,1
-2014-08-20,Turnkey Cap. Group,1,1
-2014-08-20,Ford Smith Jr.,1,1
-2014-08-20,1000 E. 6th,1,1
-2014-08-20,A.J. Messer Construction Co.,1,1
-2014-08-20,Freytag Florist,1,1
-2014-08-20,ARC Matthew McMahon,1,1
-2014-08-20,Affinity Homes Bob Rue,1,1
-2014-08-20,Aqua Builders Ebbn Milks,1,1
-2014-08-20,Aupperle Co.,1,1
-2014-08-20,Austin Housing Authority,1,1
-2014-08-20,Bailey Elliott Construction Co.,1,1
-2014-08-20,Austaco,-1,0
-2014-08-20,Brian Bailey Homes,1,1
-2014-08-20,Bryan Hardeman,1,1
-2014-08-20,Car Tex Engineers Gary Jones,1,1
-2014-08-20,Dana Copp Builder,1,1
-2014-08-20,David Davidson,1,1
-2014-08-20,David Wilkes Bldrs,1,1
-2014-08-20,Dr. Pejman Khosravian,1,1
-2014-08-20,Dupont Group Rick Dupont,1,1
-2014-08-20,East Side Tree House Erik Olson,1,1
-2014-08-20,Boat Town Clayton Raven,1,1
-2014-08-29,Senior Quality Lifestyles,1,2
-2014-08-29,Walters Southwest,1,4
-2014-08-29,Transwestern Commercial,1,4
-2014-08-29,Stratus Properties,1,5
-2014-08-29,Spire Realty,1,3
-2014-08-29,Republic Services,1,4
-2014-08-29,Artesia Real Estate,1,2
-2014-08-29,JLM Financial Investments,1,2
-2014-08-29,Honokea Surf Parks,1,2
-2014-08-29,Grayco Partners,1,4
-2014-08-29,Dropbox,-1,0
-2014-08-29,Cousins Properties,1,4
-2014-08-29,Manchester Financial Group,1,3
-2014-09-04,Austin Apartment Association,1,3
-2014-09-04,Kenneth Marx,1,1
-2014-09-04,Red Bluff Partners,1,1
-2014-09-05,Rob Roy Homeowners Association,-1,0
-2014-09-05,Vineyard Management,-1,0
-2014-09-05,Steve and Michelle Turnquist,-1,0
-2014-09-05,SC Lantana Investors,-1,0
-2014-09-05,Roy Cavanaugh,-1,0
-2014-09-05,CBL and Associates Management,-1,0
-2014-09-05,Austin HB Residential,-1,0
-2014-09-05,Austin Ridge Bible Church,-1,0
-2014-09-05,Austin Presbetyrian Theological Seminary,-1,0
-2014-09-05,Balcones Country Club Membership Association,-1,0
-2014-09-05,APAC- Tecas,-1,0
-2014-09-05,5001 Convict Hill,-1,0
-2014-09-20,Austin Music People,-1,0
-2014-09-25,American Heart Association,1,1
-2014-09-25,The First Tee Greater Austin,1,1
-2014-10-01,Reagan National Advertising,-1,2
-2014-10-01,Sage South Shore,-1,0
-2014-10-01,Sawtooth Development Group,-1,0
-2014-10-01,St. Michael's Episcopal Church,-1,0
-2014-10-01,Texas Bar and Nightclub Alliance,-1,0
-2014-10-01,"Stutzman, Bromberg, Esserman and Plifka",-1,0
-2014-10-01,Sunshine Camp,-1,0
-2014-10-01,Morgan Group,-1,0
-2014-10-01,William Archer,-1,0
-2014-10-01,thinkEAST,-1,0
-2014-10-01,Stonelake Capital Partners,-1,0
-2014-10-01,Milestone Community Builders,-1,1
-2014-10-01,JMI,-1,0
-2014-10-01,Koontz-McCombs,-1,1
-2014-10-01,John Kleas,-1,0
-2014-10-01,Heiser Development,-1,0
-2014-10-01,Harrod Properties,-1,0
-2014-10-01,Fifth Generation Tasting,-1,0
-2014-10-01,Crescent Recourses,-1,0
-2014-10-01,Cameron and Killingsworth- Pflugerville 292,-1,0
-2014-10-01,C and G Ventures,-1,0
-2014-10-01,Butler Family Partnership,-1,2
-2014-10-01,AustinSeventyOne,-1,0
-2014-10-01,Austin Aquatics and Sports Academy,-1,0
-2014-10-01,McShane Development,-1,1
-2014-10-02,The Hanover Company,1,1
-2014-10-02,Springdale Farms,1,1
-2014-10-02,The First Tee Greater Austin,1,2
-2014-10-02,American Heart Association,1,2
-2014-10-02,Behringer Harvard,1,1
-2014-10-07,Presidium Group,-1,0
-2014-10-08,Solair Direct,-1,0
-2014-10-08,American Heart Association,1,3
-2014-10-08,Cypress Realty,-1,5
-2014-10-08,InSinkErator,-1,1
-2014-10-08,Simon Property Group,-1,3
-2014-10-08,Skanska,-1,0
-2014-10-08,Southwest Securities,-1,0
-2014-10-08,Texas Special Events Alliance,-1,0
-2014-10-08,Tokyo Electron America,-1,0
-2014-10-09,Megabus Southwest,1,1
-2014-10-09,Western Rim Investment Advisors,1,1
-2014-10-09,KDR Equities,1,1
-2014-10-09,Mariposa Montessori,1,1
-2014-10-09,Osten Hall,1,1
-2014-10-09,Wells Fargo,1,1
-2014-10-09,Pegalo Properties,1,1
-2014-10-09,RJMadden,1,1
-2014-10-09,Street Lights Residential,1,2
-2014-10-09,Terrell Gates,1,1
-2014-10-09,Home Slice Pizza,1,1
-2014-10-09,Pecan Street Association,1,1
-2014-10-09,Equinox,1,1
-2014-10-09,Conor Commercial Real Estate,1,1
-2014-10-09,Emmis Radio Broadcasting Co.,1,1
-2014-10-09,Embree Asset Group,1,1
-2014-10-09,Duckworth Property Holdings,1,1
-2014-10-09,Coppell Building,1,1
-2014-10-09,Capital Metro,1,1
-2014-10-09,Caledonia Properties,1,1
-2014-10-09,Austin City Builders,1,1
-2014-10-09,Aetna Sign Group,1,1
-2014-10-09,A Stella Dog,1,1
-2014-10-09,93 Red River Investors,1,1
-2014-10-09,405 Colorado Holdings,1,1
-2014-10-09,Endeavor Real Estate Group,1,6
-2014-10-14,American Heart Association,1,4
-2014-10-15,Hopper Communities,1,2
-2014-10-15,Butler Park Pitch and Putt,1,2
-2014-10-16,Apex Bethel Energy Center,1,1
-2014-10-16,Bury,1,1
-2014-10-16,"Cedar Park, TX",1,1
-2014-10-16,Freescale,1,1
-2014-10-16,Northtown MUD,1,1
-2014-10-16,Samsung,1,1
-2014-10-16,Spansion,1,1
-2014-10-16,White Lodging Services,1,4
-2014-10-21,Briley's Upholstery Austin,1,1
-2014-10-21,Brian Follett,1,1
-2014-10-21,Enoteca Restaurant,1,1
-2014-10-21,Ginny Catanoia,1,1
-2014-10-28,MPVI,-1,0
-2014-12-11,The Real Estate Council of Austin,1,3
-2014-12-17,Texas Aggregates and Concrete Association,1,1
-2014-12-21,Legend Communities,1,1
-2014-12-21,Inland American Communites,1,1
-2014-12-21,KEEP Real Estate,1,3
-2014-12-21,Junior League of Austin,1,1
-2014-12-21,Oden Hughes,1,3
-2014-12-21,Diversified Real Estate Group,1,1
-2014-12-21,Alexa Management,1,2
-2014-12-21,Behringer Harvard,1,2
-2014-12-21,"Banta, Mark",1,1
-2014-12-21,Aspen Heights,1,3
-2014-12-21,Asian American Cultural Arts Center,1,1
-2014-12-21,16 Piggybank,1,2
-2014-12-21,Spire Realty,1,4
-2014-12-21,Butler Family Interests,1,2
-2014-12-23,Ryan Companies,1,2
-2014-12-23,Trammell Crow Company,1,1
-2014-12-23,Manoj Saxena,1,1
-2014-12-23,North Austin Municipal Utility District No. 1,1,1
-2014-12-23,"Scott, John",1,1
-2014-12-23,James Schoenbaum,1,1
-2014-12-23,"Success Foods Management, LLC/DBA Torcy's Tacos",1,1
-2014-12-23,"TSVF I, Pecan Park",1,1
-2014-12-23,Texas Disposal Systems,1,3
-2014-12-23,Total Wine and More,1,1
-2014-12-23,Simon Property Group,1,4
-2014-12-23,Inland Group,1,1
-2014-12-23,Dan Byrne,1,1
-2014-12-23,Harmony Public Schools,1,1
-2014-12-23,Gerald Kucera,1,1
-2014-12-23,Flux Factory,1,1
-2014-12-23,Downtown Austin Alliance,1,1
-2014-12-23,David Middleton,1,1
-2014-12-23,Colina West Real Estate,1,2
-2014-12-23,Chris Pacitti,1,1
-2014-12-23,Capitol City Partners,1,1
-2014-12-23,CP II Wild Basin,1,1
-2014-12-23,Austin Park,1,1
-2014-12-23,Aspen Heights,1,4
-2014-12-23,Home Away,1,1
-2015-01-03,Scarbrough Ventures,-1,0
-2015-01-03,HRI Development,-1,2
-2015-01-03,Finley Company,-1,3
-2015-01-03,Coover and Coover,-3,0
-2015-01-03,1219 South Lamar Venture,-1,0
-2015-01-03,"Coover, David M. Jr.",-3,0
-2015-01-06,Majestic Realty,1,3
-2015-01-06,Trammell Crow Company,2,3
-2015-01-06,Total Wine and More,2,3
-2015-01-06,Texas Disposal Systems,2,5
-2015-01-06,"TSVF I, Pecan Park",2,3
-2015-01-06,"Success Foods Management, LLC/DBA Torcy's Tacos",2,3
-2015-01-06,Simon Property Group,2,6
-2015-01-06,"Scott, John",2,3
-2015-01-06,Ryan Companies,2,4
-2015-01-06,Prism,1,1
-2015-01-06,Manoj Saxena,2,3
-2015-01-06,Makar Development - Waters Edge,2,3
-2015-01-06,Kucera Management/Ted Mecklin,1,2
-2015-01-06,Dan Byrne,2,3
-2015-01-06,Inland Group,2,3
-2015-01-06,Harmony Public Schools,2,3
-2015-01-06,Gerald Kucera,2,3
-2015-01-06,Flux Factory,2,3
-2015-01-06,Downtown Austin Alliance,2,3
-2015-01-06,David Middleton,2,3
-2015-01-06,Colina West Real Estate,2,4
-2015-01-06,Chris Pacitti,2,3
-2015-01-06,Capitol City Partners,2,3
-2015-01-06,CP II Wild Basin,2,3
-2015-01-06,Austin Park,2,3
-2015-01-06,James Schoenbaum,2,3
-2015-01-08,St. Catherine of Siena,1,1
-2015-01-08,The Hanover Company,1,2
-2015-01-08,Stratford Land,1,2
-2015-01-08,Springdale Farms,1,2
-2015-01-08,Reagan National Advertising,1,3
-2015-01-08,Provident Realty Advisors,1,1
-2015-01-08,Greater Austin Transportation (Yellow Cab),1,2
-2015-01-08,First Hartford Realty,1,2
-2015-01-08,Dinerstein Company,1,1
-2015-01-09,Vista Property Company,-1,0
-2015-01-09,Trinsic Residential Group,-1,2
-2015-01-09,TCMUD #4,-1,0
-2015-01-09,Simon Property Group,-1,5
-2015-01-09,Rip Miller,-1,0
-2015-01-09,ROI Entertainment,-1,0
-2015-01-09,Post Paggi,-1,2
-2015-01-09,LS Travel Retail North America,1,1
-2015-01-09,Simmons Vedder Partners,-1,2
-2015-01-09,H-E-B,-2,3
-2015-01-09,Dean and Andrea McWilliams,-1,0
-2015-01-09,CWS Capital Partners,-1,4
-2015-01-09,Austin Fairchild Management,-1,1
-2015-01-09,Austin FBO,1,1
-2015-01-09,Austin Diagnostic Clinic,-1,1
-2015-01-09,6D Ranch,1,1
-2015-01-09,Hixon Properties,-1,1
-2015-01-12,Oden Hughes,1,4
-2015-01-12,Megabus Southwest,1,2
-2015-01-12,Mariposa Montessori,1,2
-2015-01-12,MBC Engineers,1,2
-2015-01-12,Lincoln Property Company,1,3
-2015-01-12,James Schoenbaum,1,4
-2015-01-12,KDR Equities,1,2
-2015-01-12,Junior League of Austin,1,2
-2015-01-12,JLM Financial Investments,2,4
-2015-01-12,Honokea Surf Parks,2,4
-2015-01-12,Osten Hall,1,2
-2015-01-12,Legend Communities,1,2
-2015-01-12,Pecan Street Association,1,2
-2015-01-12,St. Mark's Episcopal Church,1,1
-2015-01-12,PowerFin Texas Solar Projects,1,1
-2015-01-12,RJMadden,1,2
-2015-01-12,"Radtke, Lorin",1,2
-2015-01-12,Republic Services,2,6
-2015-01-12,Roy Cavanaugh,2,2
-2015-01-12,Senior Quality Lifestyles,3,5
-2015-01-12,Western Rim Investment Advisors,1,2
-2015-01-12,Spire Realty,3,7
-2015-01-12,Home Slice Pizza,1,2
-2015-01-12,Street Lights Residential,1,3
-2015-01-12,Terrell Gates,1,2
-2015-01-12,Wells Fargo,1,2
-2015-01-12,Pegalo Properties,1,2
-2015-01-12,Forestar Real Estate Group,1,7
-2015-01-12,Alexa Management,2,4
-2015-01-12,Endeavor Real Estate Group,1,7
-2015-01-12,Equinox,1,2
-2015-01-12,405 Colorado Holdings,1,2
-2015-01-12,6ixth Street Austin,1,2
-2015-01-12,A Stella Dog,1,2
-2015-01-12,Aetna Sign Group,1,2
-2015-01-12,All Saints Church,1,1
-2015-01-12,American Campus Communities,1,2
-2015-01-12,Amplify Federal Credit Union,1,2
-2015-01-12,Artesia Real Estate,1,3
-2015-01-12,Asian American Cultural Arts Center,1,2
-2015-01-12,Austin City Builders,1,2
-2015-01-12,Austin Fairchild Management,1,2
-2015-01-12,16 Piggybank,1,3
-2015-01-12,Butler Family Interests,2,4
-2015-01-12,Butler Family Partnership,1,3
-2015-01-12,Capital Metro,1,2
-2015-01-12,Catalyst Acquisitions and Development Grp,1,2
-2015-01-12,Circle C Homeowners Association,1,3
-2015-01-12,Condominiums at Tuscany Oaks,1,1
-2015-01-12,Conor Commercial Real Estate,1,2
-2015-01-12,Coppell Building,1,2
-2015-01-12,Cousins Properties,1,5
-2015-01-12,Duckworth Property Holdings,1,2
-2015-01-12,Embree Asset Group,1,2
-2015-01-12,Emmis Radio Broadcasting Co.,1,2
-2015-01-12,Austin Park,2,5
-2015-01-13,Round Rock ISD,1,1
-2015-01-13,Raptor Air,-1,0
-2015-01-13,Lone Star Rail,1,3
-2015-01-13,Rathgeber Investment Co.,1,1
-2015-01-13,Cogent Info Tech,-1,0
-2015-01-13,Catellus Commercial Group,-1,0
-2015-01-13,"General Aviation Avenue, LLc",-1,0
-2015-01-16,Powerfin Partners,1,1
-2015-01-16,REIT Management,-1,3
-2015-01-16,Texas 1836 -- EB5,-1,0
-2015-01-20,"Straughan, George",1,1
-2015-01-20,Riverside Resources,1,8
-2015-01-20,Powerfin Partners,1,2
-2015-01-20,NRG Energy,1,1
-2015-01-20,Johnson Development,1,1
-2015-01-20,Goveia Commercial Real Estate,1,1
-2015-01-20,183 BLW,1,5
-2015-01-20,"Keating, Pat",1,1
-2015-01-28,Ron White Garza Estate,1,1
-2015-01-29,"Success Foods Management, LLC/DBA Torcy's Tacos",1,4
-2015-01-29,Austin Rental Alliance,1,1
-2015-01-29,BlueWater Systems,1,1
-2015-01-29,Drenner Group,1,1
-2015-01-29,Force Multiplier Solutions,1,1
-2015-01-29,Transmission Events,1,1
-2015-01-30,Airport Fast Park,1,1
-2015-01-31,The Real Estate Council of Austin,-2,1
-2015-02-02,CPF River Oaks Austin,1,1
-2015-02-02,Cornerstone Patriot Holdings,1,1
-2015-02-02,Cornerstone Real Estate Advisors,1,1
-2015-02-02,Lampting,1,3
-2015-02-02,The University of Texas System,3,6
-2015-02-02,Twelve Lakes,1,1
-2015-02-02,WJP Swede Hill,2,2
-2015-02-02,Wes Peoples Homes,2,2
-2015-02-03,Winstead,-1,0
-2015-02-03,PEC Pedernales Electric Cooperative,-1,0
-2015-02-03,Boot Man,-1,0
-2015-02-03,BusGuard,-1,0
-2015-02-12,El Rey Network,-1,0
-2015-02-13,County Line,1,2
-2015-02-13,Henry S. Miller Realtors,1,1
-2015-02-13,"Myers, B.J., DDS",1,1
-2015-02-13,"Skelton, Karen, Texas Realty Partners",1,1
-2015-02-13,Tacala dba Taco Bell,1,1
-2015-02-18,Workers Defense Action Fund,1,2
-2015-02-19,Pyramis Global Advisors Holdings,-1,0
-2015-03-06,AT&T,1,9
-2015-03-10,UMLAUF Sculpture Gardens and Museum,-1,0
-2015-03-10,Denison Development,-1,0
-2015-03-10,Pohl Partners,-1,0
-2015-03-13,Austin Country Club,-1,0
-2015-03-13,Austin Green Cab,-1,0
-2015-03-13,Brent and Jennifer Cardwell,-1,0
-2015-03-13,Energy AP,-1,0
-2015-03-17,Guns and Oil Beer USA,1,1
-2015-03-24,"Kalantari, Amir",1,1
-2015-03-24,"Sifuentes, Marina",1,1
-2015-03-24,Robert Turner,1,1
-2015-03-24,"Crouch, Greg",1,1
-2015-03-24,"Archer, Cara Jean",1,1
-2015-03-24,2011 Boat Dock,1,1
-2015-03-24,"Davis, Mike",1,1
-2015-03-26,Texas Aggregates and Concrete Association,1,2
-2015-03-28,Austin Chamber of Commerce,1,1
-2015-03-31,Mustaquali Momin/Thaxton Properties,-1,0
-2015-03-31,SFSV Hill,-1,0
-2015-03-31,Marval Property Investments,-1,0
-2015-03-31,Tomlinson's Feed and Pets,-1,0
-2015-03-31,Tan Min Ho,-1,0
-2015-03-31,Jose and Gloria Perez,-1,0
-2015-03-31,JEAE Family Ltd. Partnership,-1,0
-2015-03-31,David Honeycutt,-1,0
-2015-03-31,Dalton Mueller,-1,0
-2015-03-31,Covered Bridge Assisted Living,-1,0
-2015-03-31,Congress Avenue Baptist Church,-1,0
-2015-03-31,CBAL Whitecrowe,-1,0
-2015-03-31,Bennet Partners,-1,0
-2015-03-31,Houston 6000 Bissonnet,-1,0
-2015-04-01,Covered Bridge Section 8,1,1
-2015-04-10,AFSCME 1624,1,1
-2015-04-18,Winding Prairie Grass Trails,1,1
-2015-04-21,Redflex Traffic Systems,-1,0
-2015-04-24,Griffin School,1,1
-2015-04-24,Lost Creek Neighborhood Assoc,1,2
-2015-04-24,"Lunsford, Jesse",1,1
-2015-04-24,Recurrent Energy,1,1
-2015-04-24,Travis County Healthcare District,1,1
-2015-04-24,"Gaskins, Bart and Jill",1,1
-2015-04-24,Premier Parking Enforcement,1,1
-2015-04-24,Foundation Communities,1,1
-2015-04-24,D. R. Horton,1,2
-2015-04-24,CMST Development,1,1
-2015-04-24,"Bullard, Michael",1,1
-2015-04-24,Austin Convention Enterprises,1,1
-2015-04-24,Austin Apartment Association,-1,2
-2015-04-24,69 Grandview,1,1
-2015-04-24,1715 G,1,1
-2015-04-24,Falcon Southwest Development Co,1,1
-2015-04-25,Plaza Lofts,-1,0
-2015-04-25,Jerry Bell,-1,1
-2015-04-25,Kathleen Monahan,1,1
-2015-04-25,Kevin Tarr,-1,1
-2015-04-25,Lyft,-1,1
-2015-04-25,"Messier, David M.",1,1
-2015-04-25,North American Title Group,1,1
-2015-04-25,Paz Doty,-1,0
-2015-04-25,Robert P. Wills,1,1
-2015-04-25,James Jard,-1,1
-2015-04-25,Sackmann Enterprises,1,4
-2015-04-25,Stephen Melchiode,-1,1
-2015-04-25,Stone Systems of Central Texas,1,1
-2015-04-25,Stuart Thomajan,-1,1
-2015-04-25,Taylor Woodrow Communities/Steiner Ranch,-1,1
-2015-04-25,The Greystone Group,-1,1
-2015-04-25,Travis County Healthcare District,1,2
-2015-04-25,Walter B. Eads,-1,1
-2015-04-25,Robert Rock,-1,0
-2015-04-25,Husch Blackwell,-1,0
-2015-04-25,Embrey Partners,1,1
-2015-04-25,Heritage Neighborgood Association,-1,1
-2015-04-25,Balcones Resources,1,4
-2015-04-25,Bill and Kathy Darling,-1,0
-2015-04-25,Brazos Masonry,-1,1
-2015-04-25,Bunkhouse Management,-1,1
-2015-04-25,Capital Metro,1,3
-2015-04-25,Charmeleon Group,-1,1
-2015-04-25,Circuit of the Americas,-1,5
-2015-04-25,Clear Channel,1,1
-2015-04-25,Colony Park Neighborhood Association,-1,1
-2015-04-25,Austin Convention and Visitors Bureau,1,1
-2015-04-25,Eanes Community Alliance,-1,1
-2015-04-25,David McMahan,-1,1
-2015-04-25,Habitat for Humanity,1,1
-2015-04-25,H-E-B,1,4
-2015-04-25,Greystone Steiner Associates,-1,1
-2015-04-25,"Highland Park West, Limited",-1,1
-2015-04-25,GreenRyde,1,1
-2015-04-25,Freedom Carwash,-1,1
-2015-04-25,Greystone Multifamily Builders,-1,1
-2015-04-29,El Chile Restaurant Group (Carlos Rivero),-1,0
-2015-04-29,Dobie Austin (Howard Michaels),-1,0
-2015-04-29,"GFD Holdings, LLC (Brandon Bolin)",-1,0
-2015-04-29,2208 Lake Austin,-1,3
-2015-04-29,Austin Elm Terrace LP,-1,1
-2015-05-02,Coleman Law Office,-1,0
-2015-05-02,Danley Properties,-1,0
-2015-05-02,Mr. Tramps Bar and Tavern,-1,0
-2015-05-02,Patterson Properties,-1,0
-2015-05-02,South Llano Strategies,-1,0
-2015-05-02,Green Zone Homes,-1,0
-2015-05-04,Butler Family Partnership,-1,2
-2015-05-04,KEEP Real Estate,-1,2
-2015-05-04,Spire Realty,-1,6
-2015-05-08,Uber Technologies,-1,2
-2015-05-15,Uber Technologies,-1,1
-2015-05-16,Seton Healthcare,3,7
-2015-05-19,Vert Cab,1,1
-2015-06-04,Workers Defense Project,-1,0
-2015-06-04,Workers Defense Action Fund,-1,1
-2015-06-09,Beneplace,-1,0
-2015-06-09,Hoar Construction,-1,0
-2015-06-09,Pitney Bowes,-1,0
-2015-06-09,RFD and Associates,-1,0
-2015-06-10,Home Builders Association of Greater Austin,2,2
-2015-06-13,Crown Castle,1,1
-2015-06-13,Gordian Group,1,1
-2015-06-13,Kronos,2,2
-2015-06-13,McKinstry,1,1
-2015-06-13,Red Stone Construction,1,1
-2015-06-16,1023 Holdings,1,1
-2015-06-25,Strategic Partnerships,-1,0
-2015-06-25,Lone Star Rail,-1,2
-2015-06-25,Central Health,-1,2
-2015-06-25,Ascencion Health,-1,0
-2015-06-27,Heritage Neighborgood Association,-1,0
-2015-06-27,"Highland Park West, Limited",-1,0
-2015-06-27,James Jard,-1,0
-2015-06-27,Jerry Bell,-1,0
-2015-06-27,Kevin Tarr,-1,0
-2015-06-27,"Lunsford, Jesse",1,2
-2015-06-27,Marcus Whitfield,1,2
-2015-06-27,"O'Hayer, Matthew",1,1
-2015-06-27,Paz Dhody,-1,0
-2015-06-27,Premier Parking Enforcement,1,2
-2015-06-27,Taylor Woodrow Communities/Steiner Ranch,-1,0
-2015-06-27,Roberts Resorts,1,1
-2015-06-27,South River City Citizens Associations,1,2
-2015-06-27,Stephen Melchiode,-1,0
-2015-06-27,Stuart Thomajan,-1,0
-2015-06-27,Synagro-WWT,1,2
-2015-06-27,Griffin School,1,2
-2015-06-27,The Greystone Group,-1,0
-2015-06-27,Travis County Healthcare District,1,3
-2015-06-27,Walter B. Eads,-1,0
-2015-06-27,Recurrent Energy,1,2
-2015-06-27,Greystone Steiner Associates,-1,0
-2015-06-27,AXF Development,1,2
-2015-06-27,"Gaskins, Bart and Jill",1,2
-2015-06-27,1715 G,1,2
-2015-06-27,69 Grandview,1,2
-2015-06-27,Greystone Multifamily Builders,-1,0
-2015-06-27,Austin Convention Enterprises,1,2
-2015-06-27,Bounce Marketing and Events,1,2
-2015-06-27,Brazos Masonry,-1,0
-2015-06-27,"Bullard, Michael",1,2
-2015-06-27,Bunkhouse Management,-1,0
-2015-06-27,CMST Development,1,2
-2015-06-27,Austin Renaissance,1,2
-2015-06-27,Charmeleon Group,-1,0
-2015-06-27,Circuit of the Americas,-1,4
-2015-06-27,Colony Park Neighborhood Association,-1,0
-2015-06-27,David McMahan,-1,0
-2015-06-27,Eanes Community Alliance,-1,0
-2015-06-27,Edward Lopez,1,2
-2015-06-27,Falcon Southwest Development Co,1,2
-2015-06-27,Foundation Communities,1,2
-2015-06-27,Freedom Carwash,-1,0
-2015-06-27,Central Health,1,3
-2015-07-01,Wal-Mart,-1,1
-2015-07-01,Sackmann Enterprises,-1,3
-2015-07-01,Fremont Holdings,-1,0
-2015-07-01,Greater Mt. Zion Baptist Church,-1,0
-2015-07-02,Luxe Valet,1,1
-2015-07-09,Honokea Surf Parks,-1,3
-2015-07-09,Walters Southwest,-1,3
-2015-07-09,Trinsic Residential Group,-1,1
-2015-07-09,Spire Realty,-1,5
-2015-07-09,Senior Quality Lifestyles,-1,4
-2015-07-09,Republic Services,-1,5
-2015-07-09,ECC Commercial,-1,0
-2015-07-09,JLM Financial Investments,-1,3
-2015-07-09,Circle C Homeowners Association,-2,1
-2015-07-09,Catalyst Acquisitions and Development Grp,-1,1
-2015-07-09,Austin Diagnostic Clinic,-1,0
-2015-07-09,Artesia Real Estate,-1,2
-2015-07-09,Alexa Management,-1,3
-2015-07-09,2208 Lake Austin,-1,2
-2015-07-09,Cousins Properties,-1,4
-2015-07-15,Wolfpack Group,2,2
-2015-07-15,"Whitman, Requardt and Associates",1,1
-2015-07-15,Oden Hughes,1,5
-2015-07-15,Legend Communities,1,3
-2015-07-15,Forestar Real Estate Group,1,8
-2015-07-15,Eureka Holdings,1,4
-2015-07-15,ECC Commercial,1,1
-2015-07-15,Manchester Financial Group,1,4
-2015-07-15,Circular Energy,1,1
-2015-07-15,Brandywine Realty Trust,1,1
-2015-07-15,Boys and Girls Club,1,1
-2015-07-15,Barton Creek Capital,1,1
-2015-07-15,BDB Ventures,1,1
-2015-07-15,Austin Pets Alive,1,1
-2015-07-15,Crown Castle,1,2
-2015-07-18,Austin Apartment Association,-1,1
-2015-07-18,"Coats, Rose, Yale, Ryman and Lee",-1,1
-2015-07-18,KB Home Lone Star,-1,1
-2015-07-18,KJC Auto Title Loan Corp.,-1,0
-2015-07-21,PK Jarvis,1,1
-2015-07-21,"Pahala Ventures, LLC dba Austin Emergency Center",1,1
-2015-07-21,RDE Assets,1,1
-2015-07-21,Rio Equity,1,1
-2015-07-21,Terry Mathney,1,1
-2015-07-21,Speedy Cash,1,1
-2015-07-21,Seaman Development,1,1
-2015-07-21,Ski Shores Properties,1,1
-2015-07-21,South Austin Interests,1,1
-2015-07-21,Oportun,1,1
-2015-07-21,Robert Turner,1,2
-2015-07-21,Mr. Irish Properties,1,1
-2015-07-21,Coastal Rim Properties,1,1
-2015-07-21,Iron Rock Ranch Apts. Owner,1,1
-2015-07-21,Hixon Properties,1,2
-2015-07-21,Fiesta Restaruant Group,1,1
-2015-07-21,EZ,1,1
-2015-07-21,Driveway Austin,1,1
-2015-07-21,Diversified Real Estate Group,1,2
-2015-07-21,"Bynum, Joseph and Jayme",1,1
-2015-07-21,"Bolick, Roger",1,1
-2015-07-21,Allied Sales Company,1,1
-2015-07-21,2428 Partners,1,1
-2015-07-21,1530 Barton Springs,1,1
-2015-07-21,Maund Automotive Group,1,1
-2015-07-23,PSW Real Estate,-1,1
-2015-07-29,American Heart Association,1,5
-2015-08-01,ARG Bull Creek,1,1
-2015-08-01,Austin Board of Realtors,-1,6
-2015-08-01,Cirrus Logic,-1,4
-2015-08-01,Community Sun,-1,0
-2015-08-01,Cummings-Baccus,-1,0
-2015-08-01,"Eads, Ralph, III",1,1
-2015-08-01,FourT Realty,1,1
-2015-08-01,JFP Industrial Interests,1,1
-2015-08-01,Makar Development - Waters Edge,-1,2
-2015-08-01,Milestone Community Builders,1,2
-2015-08-01,Richard Hardin,-1,0
-2015-08-01,Sheffield Partners,-1,0
-2015-08-01,TCAS Global Investments,1,1
-2015-08-01,The Brohn Group,1,5
-2015-08-05,Lone Star Rail,-1,1
-2015-08-06,Feld Entertainement,1,1
-2015-08-18,Covered Bridge Property Owners Association,1,1
-2015-08-18,Hill Country Estates Homeowners Association,1,1
-2015-08-18,Onion Creek Club,1,1
-2015-08-18,Roy Cavanaugh,1,3
-2015-08-19,Allegiant Air,1,1
-2015-08-20,Kenneth Gorence,-1,0
-2015-08-20,Lewis Sign Builders,-1,0
-2015-08-20,Live Nations Eddie Hudson,-1,0
-2015-08-20,MS General Contractors,-1,0
-2015-08-20,Maderone Ventures,-1,0
-2015-08-20,Miller Uniform,-1,0
-2015-08-20,Montana Builders,-1,0
-2015-08-20,Peter Barlin,-1,0
-2015-08-20,SNAP Set,-1,0
-2015-08-20,Sam Kumar 9th and Red River,-1,0
-2015-08-20,Streamline Commercial Contractors,-1,0
-2015-08-20,Shirley Vega,-1,0
-2015-08-20,Karen Browning,-1,0
-2015-08-20,Tabernacle Apostolic Church,-1,0
-2015-08-20,Televending,-1,2
-2015-08-20,Terry Laney,-1,0
-2015-08-20,Texas Construction,-1,0
-2015-08-20,Turnkey Cap. Group,-1,0
-2015-08-20,WEHBE Properties,-1,0
-2015-08-20,WLP Architect Bill Perkins,-1,0
-2015-08-20,Will Bridges,-1,0
-2015-08-20,Sam Mikhail,-1,0
-2015-08-20,Journeyman Construction,-1,0
-2015-08-20,Dana Copp Builder,-1,0
-2015-08-20,Ford Smith Jr.,-1,0
-2015-08-20,1000 E. 6th,-1,0
-2015-08-20,A.J. Messer Construction Co.,-1,0
-2015-08-20,ARC Matthew McMahon,-1,0
-2015-08-20,AT&T,-3,6
-2015-08-20,Affinity Homes Bob Rue,-1,0
-2015-08-20,Aqua Builders Ebbn Milks,-1,0
-2015-08-20,Ashley Amini,-1,0
-2015-08-20,Aupperle Co.,-1,0
-2015-08-20,Austin Housing Authority,-1,0
-2015-08-20,Bailey Elliott Construction Co.,-1,0
-2015-08-20,American Heart Association,1,6
-2015-08-20,Brian Bailey Homes,-1,0
-2015-08-20,Bryan Hardeman,-1,0
-2015-08-20,Car Tex Engineers Gary Jones,-1,0
-2015-08-20,Freytag Florist,-1,0
-2015-08-20,David Davidson,-1,0
-2015-08-20,David Morrison,-1,0
-2015-08-20,David Wilkes Bldrs,-1,0
-2015-08-20,Dr. Pejman Khosravian,-1,0
-2015-08-20,Dupont Group Rick Dupont,-1,0
-2015-08-20,East Side Tree House Erik Olson,-1,0
-2015-08-20,Boat Town Clayton Raven,-1,0
-2015-08-29,Transwestern Commercial,-1,3
-2015-08-29,Stratus Properties,-1,4
-2015-08-29,Senior Quality Lifestyles,-1,3
-2015-08-29,Republic Services,-1,4
-2015-08-29,Artesia Real Estate,-1,1
-2015-08-29,Honokea Surf Parks,-1,2
-2015-08-29,Grayco Partners,-1,3
-2015-08-29,Cousins Properties,-1,3
-2015-08-29,JLM Financial Investments,-1,2
-2015-09-01,Michael Young,1,1
-2015-09-01,Texas Association of Counties Risk Management Pool,1,1
-2015-09-01,"Nassour, Jimmy",1,1
-2015-09-01,MOMARK Development,1,1
-2015-09-01,Condominiums at Tuscany Oaks,1,2
-2015-09-01,Journeyman Construction,1,1
-2015-09-01,JBS Holdings,1,1
-2015-09-01,Benchmark Development/Goodnight Ranch,1,1
-2015-09-01,M.J. Investments,1,1
-2015-09-04,The Brohn Group,-1,4
-2015-09-04,Red Bluff Partners,-1,0
-2015-09-04,Kenneth Marx,-1,0
-2015-09-04,Kam Kronenberg,-1,0
-2015-09-04,"Coats, Rose, Yale, Ryman and Lee",-1,0
-2015-09-04,Brady Ohman,-1,0
-2015-09-04,Austin Apartment Association,-1,0
-2015-09-04,GHI Partners,-1,0
-2015-09-05,Masterplan,1,1
-2015-09-12,Robert Turner,1,3
-2015-09-12,KB Home Lone Star,1,2
-2015-09-12,KB Home Central Texas Division,1,1
-2015-09-12,Intermandeco GP,1,1
-2015-09-12,Driveway Austin,1,2
-2015-09-12,Avion Park,1,1
-2015-09-12,Austin Christian Fellowship,1,1
-2015-09-12,Foremost Partners,1,1
-2015-09-16,Workers Defense Project,1,1
-2015-09-19,AT&T,1,7
-2015-09-25,American Heart Association,-1,5
-2015-09-25,The First Tee Greater Austin,-1,1
-2015-09-29,Reagan National Advertising,2,5
-2015-09-29,Reagan Signs,1,1
-2015-10-02,Street Lights Residential,-1,2
-2015-10-02,The First Tee Greater Austin,-1,0
-2015-10-02,The Dinerstein Companies,-1,0
-2015-10-02,Standard Pacific of Texas,-1,0
-2015-10-02,Lyda Family Trust,-1,0
-2015-10-02,Neal Richards Group,-1,1
-2015-10-02,American Heart Association,-1,4
-2015-10-02,Regents School of Austin,-1,0
-2015-10-02,Behringer Harvard,-1,1
-2015-10-06,Cielo Property Group,1,1
-2015-10-06,Fremont Holdings,1,1
-2015-10-06,Generational Commercial Properties,1,1
-2015-10-06,S.H. 130-71 Holdings,1,1
-2015-10-06,Schwab,1,1
-2015-10-06,Steve Pagura,1,1
-2015-10-15,Mark Cathcart,-2,0
-2015-10-15,The NRP Group,1,6
-2015-10-15,Texas Research International,-1,1
-2015-10-15,Techridge Spectrum B.C.,-1,1
-2015-10-15,Scenic Austin,1,1
-2015-10-15,Sackmann Enterprises,-2,1
-2015-10-15,Peyton Riley No. 3,-2,0
-2015-10-15,Perry Estates,-2,1
-2015-10-15,Ledcor Properties Company,-1,1
-2015-10-15,Lincoln Property Company,-1,2
-2015-10-15,Hopper Communities,-1,1
-2015-10-15,Butler Park Pitch and Putt,-2,0
-2015-10-15,Brandywine Realty Trust,1,2
-2015-10-15,Balcones Resources,-1,3
-2015-10-15,AT&T,-1,6
-2015-10-15,Oden Hughes,-1,4
-2015-10-16,3 Point Partners,-1,0
-2015-10-16,Neal Richards Group,-1,0
-2015-10-16,Southside Wrecker,-1,0
-2015-10-16,Spansion,-1,0
-2015-10-21,Ginny Catanoia,-1,0
-2015-10-21,Little City Properties,-1,0
-2015-10-21,Enoteca Restaurant,-1,0
-2015-10-21,Brian Follett,-1,0
-2015-10-21,Briley's Upholstery Austin,-1,0
-2015-10-23,Airbnb,1,1
-2015-10-23,Balfour Beatty Construction,1,1
-2015-10-23,Brandywine Realty Trust,1,3
-2015-10-23,Cypress Realty,1,6
-2015-10-23,Cypress Semiconductor,1,1
-2015-10-23,Gables Residential,1,4
-2015-10-23,Goveia Commercial Real Estate,1,2
-2015-10-23,Lincoln Clean Energy,1,1
-2015-10-23,Seton Healthcare,1,8
-2015-10-23,Taurus of Texas GP,1,2
-2015-10-23,Tokyo Electron America,1,1
-2015-10-23,Torchy's Tacos,1,1
-2015-10-23,Walton Development,1,1
-2015-10-28,Jack W. Gullahorn P.C.,1,1
-2015-11-07,Wells Fargo,1,3
-2015-11-07,The NRP Group,1,7
-2015-11-07,Terrell Gates,1,3
-2015-11-07,Street Lights Residential,1,3
-2015-11-07,Scenic Austin,1,2
-2015-11-07,RJMadden,1,3
-2015-11-07,Pegalo Properties,1,3
-2015-11-07,Western Rim Investment Advisors,1,3
-2015-11-07,Osten Hall,1,3
-2015-11-07,Megabus Southwest,1,3
-2015-11-07,Mariposa Montessori,1,3
-2015-11-07,MBC Engineers,1,3
-2015-11-07,KDR Equities,1,3
-2015-11-07,Home Slice Pizza,1,3
-2015-11-07,Equinox,1,3
-2015-11-07,Endeavor Real Estate Group,1,8
-2015-11-07,Pecan Street Association,1,3
-2015-11-07,Embree Asset Group,1,3
-2015-11-07,Emmis Radio Broadcasting Co.,1,3
-2015-11-07,405 Colorado Holdings,1,3
-2015-11-07,6ixth Street Austin,1,3
-2015-11-07,93 Red River Investors,1,2
-2015-11-07,Aetna Sign Group,1,3
-2015-11-07,American Campus Communities,1,3
-2015-11-07,Amplify Federal Credit Union,1,3
-2015-11-07,A Stella Dog,1,3
-2015-11-07,Austin Fairchild Management,1,3
-2015-11-07,Brandywine Realty Trust,1,4
-2015-11-07,Caledonia Properties,1,2
-2015-11-07,Austin City Builders,1,3
-2015-11-07,Capital Metro,1,4
-2015-11-07,Conor Commercial Real Estate,1,3
-2015-11-07,Coppell Building,1,3
-2015-11-07,Duckworth Property Holdings,1,3
-2015-12-08,Austin Chamber of Commerce,1,2
-2015-12-11,The Real Estate Council of Austin,-1,0
-2015-12-17,Texas Aggregates and Concrete Association,-1,1
-2015-12-21,Transwestern Commercial,-1,2
-2015-12-21,Spire Realty,-1,4
-2015-12-21,Songhai Ventures,-1,0
-2015-12-21,Manchester Financial Group,-1,3
-2015-12-21,KEEP Real Estate,-1,1
-2015-12-21,Junior League of Austin,-1,1
-2015-12-21,Walters Southwest,-1,2
-2015-12-21,Butler Family Interests,-1,3
-2015-12-21,Behringer Harvard,-1,0
-2015-12-21,"Banta, Mark",-1,0
-2015-12-21,Asian American Cultural Arts Center,-1,1
-2015-12-21,Alexa Management,-1,2
-2015-12-21,Eureka Holdings,-1,3
-2015-12-23,Aspen Heights,-1,3
-2015-12-23,Bob Gregory,-1,2
-2015-12-23,Downtown Austin Alliance,-1,2
-2015-12-23,North Austin MUD No. 1,-1,3
-2016-01-05,Spire Realty,1,5
-2016-01-05,Tantallon Austin Hotel,1,4
-2016-01-05,Twelve Lakes,1,2
-2016-01-06,Robinson Ranch,-1,3
-2016-01-06,Prism,-1,0
-2016-01-06,The Gottesman Company,-1,2
-2016-01-06,Gerald Kucera,-2,1
-2016-01-06,Bob Gregory,-2,0
-2016-01-06,Makar Properties,-2,1
-2016-01-08,Dinerstein Company,-1,0
-2016-01-08,First Hartford Realty,-1,1
-2016-01-08,Provident Realty Advisors,-1,0
-2016-01-08,Reagan National Advertising,-1,4
-2016-01-08,Springdale Farms,-1,1
-2016-01-08,The Hanover Company,-1,1
-2016-01-09,JSTrain,1,1
-2016-01-09,Kayne Capital,-1,0
-2016-01-09,LS Travel Retail North America,-1,0
-2016-01-09,Lennar Homes,1,2
-2016-01-09,Life Austin,1,2
-2016-01-09,Steve Pagura,1,2
-2016-01-09,RedLeaf Properties,1,2
-2016-01-09,S.H. 130-71 Holdings,1,2
-2016-01-09,"Zuniga, Diana",1,1
-2016-01-09,Taurus of Texas GP,1,3
-2016-01-09,Iron Rock Ranch Apts. Owner,1,2
-2016-01-09,Lyft,1,2
-2016-01-09,Hixon Properties,1,3
-2016-01-09,Scott Airport Property,-1,0
-2016-01-09,Greystar Real Estate Partners,1,1
-2016-01-09,Heights SOCO Development,1,1
-2016-01-09,787 Developers,1,1
-2016-01-09,Austin FBO,-1,0
-2016-01-09,Boys and Girls Club,1,2
-2016-01-09,Brandywine Realty Trust,1,5
-2016-01-09,6D Ranch,-1,0
-2016-01-09,County Line,1,3
-2016-01-09,Crown Castle,1,3
-2016-01-09,"Dawlett, Haythem",1,1
-2016-01-09,Delaware North Companies/Travel Hospitality Services,-1,0
-2016-01-09,Fremont Holdings,1,2
-2016-01-09,Cielo Property Group,1,2
-2016-01-12,"Radtke, Lorin",-1,1
-2016-01-12,Junior League of Austin,-1,0
-2016-01-12,Legend Communities,-2,1
-2016-01-12,Mobile Loaves and Fishes,-1,0
-2016-01-12,Oden Hughes,-1,3
-2016-01-12,Pohl Partners,1,1
-2016-01-12,Post Paggi,-2,0
-2016-01-12,PowerFin Texas Solar Projects,-1,0
-2016-01-12,Preston General Contractors,1,1
-2016-01-12,Republic Services,-3,1
-2016-01-12,Spear Street Capital,-1,0
-2016-01-12,Scenic Austin,1,3
-2016-01-12,Senior Quality Lifestyles,-3,0
-2016-01-12,Simmons Vedder Partners,-1,1
-2016-01-12,Simon Property Group,-1,4
-2016-01-12,James Schoenbaum,-1,3
-2016-01-12,Spire Realty,-3,2
-2016-01-12,St. Mark's Episcopal Church,-1,0
-2016-01-12,Starwood Capital Group,-1,0
-2016-01-12,Stratus Properties,-2,2
-2016-01-12,Trinsic Residential Group,-1,0
-2016-01-12,UMLAUF Sculpture Gardens and Museum,1,1
-2016-01-12,Roy Cavanaugh,-2,1
-2016-01-12,JLM Financial Investments,-2,0
-2016-01-12,Lincoln Property Company,-1,1
-2016-01-12,Honokea Surf Parks,-2,0
-2016-01-12,Inland American Communites,-1,0
-2016-01-12,Alexa Management,-1,1
-2016-01-12,All Saints Church,-1,0
-2016-01-12,Arnold Oil,-1,0
-2016-01-12,Artesia Real Estate,-1,0
-2016-01-12,Asian American Cultural Arts Center,-1,0
-2016-01-12,Aspen Heights,-1,2
-2016-01-12,Austin Park,-2,3
-2016-01-12,Butler Family Interests,-1,2
-2016-01-12,Butler Family Partnership,-2,0
-2016-01-12,CWS Capital Partners,-1,3
-2016-01-12,16 Piggybank,-2,1
-2016-01-12,Catalyst Acquisitions and Development Grp,-1,0
-2016-01-12,Cardinal Paragon,-1,0
-2016-01-12,HNTB,1,2
-2016-01-12,Grayco Partners,-2,1
-2016-01-12,Forestar Real Estate Group,-1,7
-2016-01-12,Diversified Real Estate Group,-1,1
-2016-01-12,Hixon Properties,-1,2
-2016-01-12,Cousins Properties,-3,0
-2016-01-12,Condominiums at Tuscany Oaks,-1,1
-2016-01-12,Circle C Homeowners Association,-1,0
-2016-01-12,Central Health,1,4
-2016-01-12,Denison Development,1,1
-2016-01-13,Lone Star Rail,-1,0
-2016-01-13,Wes Peoples Homes,1,3
-2016-01-13,WJP Swede Hill,1,3
-2016-01-13,Twelve Lakes,2,4
-2016-01-13,Taylor Morrison,-1,3
-2016-01-13,Round Rock ISD,-1,0
-2016-01-13,Riverside Resources,-1,7
-2016-01-13,Rathgeber Investment Co.,-1,0
-2016-01-13,KB Home Lone Star,-1,1
-2016-01-13,Cornerstone Patriot Holdings,2,3
-2016-01-13,"International Bank of Commerce, Laredo, Texas",-1,3
-2016-01-13,HRI Development,1,3
-2016-01-13,Cornerstone Real Estate Advisors,2,3
-2016-01-13,CPF River Oaks Austin,2,3
-2016-01-13,Ashton Woods Homes,-1,0
-2016-01-13,Ardent Residential,-1,1
-2016-01-13,Alliance Residential,-1,1
-2016-01-13,5453 Burnet Park Venture,-1,0
-2016-01-13,Jack Brown Family III,-1,0
-2016-01-16,Caledonia Properties,1,3
-2016-01-16,93 Red River Investors,1,3
-2016-01-16,Brandywine Realty Trust,1,6
-2016-01-16,The NRP Group,1,8
+Client,Date,Change,Cumulative
+1000 E. 6th,2014-08-20,1,1
+1000 E. 6th,2015-08-20,-1,0
+1023 Holdings,2015-06-16,1,1
+1210 Barton Springs Road Venture,2014-03-31,1,1
+1219 South Lamar Venture,2013-01-03,2,2
+1219 South Lamar Venture,2014-01-03,-1,1
+1219 South Lamar Venture,2015-01-03,-1,0
+16 Piggybank,2014-07-09,1,1
+16 Piggybank,2014-12-21,1,2
+16 Piggybank,2015-01-12,1,3
+16 Piggybank,2016-01-12,-2,1
+1600 West 38th,2010-12-16,1,1
+1600 West 38th,2011-12-16,-1,0
+1715 G,2015-04-24,1,1
+1715 G,2015-06-27,1,2
+183 BLW,2013-12-20,1,1
+183 BLW,2014-01-07,2,3
+183 BLW,2014-01-08,1,4
+183 BLW,2015-01-20,1,5
+183 BLW,2016-01-20,-1,4
+2011 Boat Dock,2015-03-24,1,1
+2208 Lake Austin,2014-04-25,1,1
+2208 Lake Austin,2014-04-29,1,2
+2208 Lake Austin,2014-06-27,1,3
+2208 Lake Austin,2014-07-09,1,4
+2208 Lake Austin,2015-04-29,-1,3
+2208 Lake Austin,2015-07-09,-1,2
+3 Point Partners,2013-10-08,1,1
+3 Point Partners,2015-10-16,-1,0
+360 Aircon Energy Savers,2013-05-21,1,1
+360 Aircon Energy Savers,2014-05-21,-1,0
+405 Colorado Holdings,2014-10-09,1,1
+405 Colorado Holdings,2015-01-12,1,2
+405 Colorado Holdings,2015-11-07,1,3
+408 Sterzing,2011-08-17,1,1
+408 Sterzing,2012-08-16,-1,0
+408 Sterzing,2014-04-25,1,1
+408 Sterzing,2014-06-27,1,2
+4800 Friedrich Lane,2013-12-20,1,1
+4800 Friedrich Lane,2014-01-07,2,3
+5001 Convict Hill,2013-07-18,1,1
+5001 Convict Hill,2013-09-05,1,2
+5001 Convict Hill,2014-07-18,-1,1
+5001 Convict Hill,2014-09-05,-1,0
+5453 Burnet Park Venture,2013-01-03,2,2
+5453 Burnet Park Venture,2014-01-03,-1,1
+5453 Burnet Park Venture,2016-01-13,-1,0
+620/183,2013-02-14,1,1
+69 Grandview,2015-04-24,1,1
+69 Grandview,2015-06-27,1,2
+6D Ranch,2015-01-09,1,1
+6D Ranch,2016-01-09,-1,0
+706 Development,2016-01-20,1,1
+720 Lamar Place,2011-08-17,1,1
+720 Lamar Place,2012-08-16,-1,0
+720 Lamar Place,2014-04-25,1,1
+720 Lamar Place,2014-06-27,1,2
+787 Developers,2016-01-09,1,1
+93 Red River Investors,2014-10-09,1,1
+93 Red River Investors,2015-11-07,1,2
+93 Red River Investors,2016-01-16,1,3
+A Stella Dog,2014-10-09,1,1
+A Stella Dog,2015-01-12,1,2
+A Stella Dog,2015-11-07,1,3
+A and M Option 541,2013-09-05,1,1
+A and M Option 541,2014-07-18,1,2
+A.J. Messer Construction Co.,2014-08-20,1,1
+A.J. Messer Construction Co.,2015-08-20,-1,0
+AECOM,2011-08-17,1,1
+AECOM,2012-08-16,-1,0
+AECOM,2014-04-25,1,1
+AECOM,2014-06-27,1,2
+AECOM,2016-02-04,1,3
+AETNA Sign Group,2015-10-15,1,1
+AFSCME 1624,2011-10-21,1,1
+AFSCME 1624,2012-10-20,-1,0
+AFSCME 1624,2015-04-10,1,1
+AJHSCCM,2014-08-01,1,1
+AMD,2013-10-08,1,1
+AMS Commercial Real Estate,2014-10-09,1,1
+AMS Commercial Real Estate,2015-01-12,1,2
+AMS Commercial Real Estate,2015-11-07,1,3
+APAC- Tecas,2013-09-05,1,1
+APAC- Tecas,2014-09-05,-1,0
+ARC Matthew McMahon,2014-08-20,1,1
+ARC Matthew McMahon,2015-08-20,-1,0
+ARG Bull Creek,2015-08-01,1,1
+AT&T,2013-06-18,1,1
+AT&T,2013-08-06,4,5
+AT&T,2013-08-07,2,7
+AT&T,2013-08-13,1,8
+AT&T,2013-10-07,2,10
+AT&T,2013-10-08,1,11
+AT&T,2014-08-06,-2,9
+AT&T,2014-08-13,-1,8
+AT&T,2015-03-06,1,9
+AT&T,2015-08-20,-3,6
+AT&T,2015-09-19,1,7
+AT&T,2015-10-15,-1,6
+AT&T,2016-03-04,1,7
+AVG Partners,2014-08-01,1,1
+AXF Development,2014-04-25,1,1
+AXF Development,2015-06-27,1,2
+Accelerator Holdings,2013-12-20,1,1
+Accelerator Holdings,2014-01-07,2,3
+Advance America - Cash Advance Centers,2011-08-16,1,1
+Advance America - Cash Advance Centers,2012-08-15,-1,0
+Aetna Sign Group,2014-10-09,1,1
+Aetna Sign Group,2015-01-12,1,2
+Aetna Sign Group,2015-10-09,-1,1
+Aetna Sign Group,2015-11-07,1,2
+Affinity Homes Bob Rue,2014-08-20,1,1
+Affinity Homes Bob Rue,2015-08-20,-1,0
+"Aguirre, Antolin",2011-08-17,1,1
+"Aguirre, Antolin",2012-08-16,-1,0
+"Aguirre, Antolin",2015-04-24,1,1
+"Aguirre, Antolin",2015-06-27,1,2
+Airbnb,2015-10-23,1,1
+Airbnb,2016-02-27,1,2
+Airport Fast Park,2015-01-30,1,1
+Alex and Mark Calderon,2011-08-17,1,1
+Alex and Mark Calderon,2012-08-16,-1,0
+Alexa Management,2014-07-09,1,1
+Alexa Management,2014-12-21,1,2
+Alexa Management,2015-01-12,2,4
+Alexa Management,2015-07-09,-1,3
+Alexa Management,2015-12-21,-1,2
+Alexa Management,2016-01-12,-1,1
+All Saints Church,2015-01-12,1,1
+All Saints Church,2016-01-12,-1,0
+Allegiant Air,2015-08-19,1,1
+Alliance Residential,2013-01-03,2,2
+Alliance Residential,2014-01-03,0,2
+Alliance Residential,2016-01-13,-1,1
+Allied Sales Company,2015-07-21,1,1
+Amaz for Hair,2011-08-17,1,1
+Amaz for Hair,2012-08-16,-1,0
+American Campus Communities,2013-10-28,1,1
+American Campus Communities,2015-01-12,1,2
+American Campus Communities,2015-11-07,1,3
+American Constructors,2012-10-22,1,1
+American Constructors,2013-10-22,-1,0
+American Heart Association,2012-03-23,3,3
+American Heart Association,2013-03-23,-3,0
+American Heart Association,2014-09-25,1,1
+American Heart Association,2014-10-02,1,2
+American Heart Association,2014-10-08,1,3
+American Heart Association,2014-10-14,1,4
+American Heart Association,2015-07-29,1,5
+American Heart Association,2015-08-20,1,6
+American Heart Association,2015-09-25,-1,5
+American Heart Association,2015-10-02,-1,4
+Amplify Federal Credit Union,2013-10-28,1,1
+Amplify Federal Credit Union,2015-01-12,1,2
+Amplify Federal Credit Union,2015-11-07,1,3
+Amstar Group,2013-12-20,1,1
+Amstar Group,2014-01-07,2,3
+Anderson's Coffee,2011-08-17,1,1
+Anderson's Coffee,2012-08-16,-1,0
+Andersson Wise Architects,2013-04-29,1,1
+Andersson Wise Architects,2014-04-29,-1,0
+Anthony George,2014-04-25,1,1
+Anthony George,2014-06-27,1,2
+Antolin Aguirre,2011-08-17,1,1
+Antolin Aguirre,2012-08-16,-1,0
+Antolin Aguirre,2014-04-25,1,1
+Antolin Aguirre,2014-06-27,1,2
+Antolin Aguirre,2015-04-25,-1,1
+Antolin Aguirre,2015-06-27,-1,0
+Apex Bethel Energy Center,2014-10-16,1,1
+Apple,2012-03-09,1,1
+Apple,2013-03-09,-1,0
+Aqua Builders Ebbn Milks,2014-08-20,1,1
+Aqua Builders Ebbn Milks,2015-08-20,-1,0
+"Archer, Cara Jean",2015-03-24,1,1
+Ardent Residential,2013-01-03,2,2
+Ardent Residential,2014-01-03,0,2
+Ardent Residential,2016-01-13,-1,1
+Armbrust and Brown,2013-10-08,1,1
+Arnold Oil,2013-07-09,1,1
+Arnold Oil,2014-01-09,1,2
+Arnold Oil,2014-07-09,-1,1
+Arnold Oil,2016-01-12,-1,0
+Art at Bratton's Edge,2014-08-01,1,1
+Artesia Real Estate,2014-07-09,1,1
+Artesia Real Estate,2014-08-29,1,2
+Artesia Real Estate,2015-01-12,1,3
+Artesia Real Estate,2015-07-09,-1,2
+Artesia Real Estate,2015-08-29,-1,1
+Artesia Real Estate,2016-01-12,-1,0
+Ascencion Health,2014-06-25,1,1
+Ascencion Health,2015-06-25,-1,0
+Ashley Amini,2013-04-30,1,1
+Ashley Amini,2015-08-20,-1,0
+Ashton Woods Homes,2014-01-03,1,1
+Ashton Woods Homes,2016-01-13,-1,0
+Asian American Cultural Arts Center,2014-12-21,1,1
+Asian American Cultural Arts Center,2015-01-12,1,2
+Asian American Cultural Arts Center,2015-12-21,-1,1
+Asian American Cultural Arts Center,2016-01-12,-1,0
+Aspen Heights,2014-01-09,1,1
+Aspen Heights,2014-07-09,1,2
+Aspen Heights,2014-12-21,1,3
+Aspen Heights,2014-12-23,1,4
+Aspen Heights,2015-12-23,-1,3
+Aspen Heights,2016-01-12,-1,2
+Aspen Properties,2013-12-20,1,1
+Aspen Properties,2014-01-07,2,3
+Asterisk Group,2011-08-17,1,1
+Asterisk Group,2012-08-16,-1,0
+Atlantic Housing Foundation,2014-04-25,1,1
+Atlantic Housing Foundation,2014-06-27,1,2
+Aupperle Co.,2014-08-20,1,1
+Aupperle Co.,2015-08-20,-1,0
+Austin AFL CIO,2011-10-21,1,1
+Austin AFL CIO,2012-10-20,-1,0
+Austin Achieve,2013-12-20,1,1
+Austin Achieve,2014-01-07,2,3
+Austin Achieve,2014-01-16,1,4
+"Austin American-Statesman,",2013-01-03,2,2
+"Austin American-Statesman,",2014-01-03,1,3
+"Austin American-Statesman,",2016-02-02,-3,0
+Austin Apartment Association,2014-04-24,1,1
+Austin Apartment Association,2014-07-18,1,2
+Austin Apartment Association,2014-09-04,1,3
+Austin Apartment Association,2015-04-24,-1,2
+Austin Apartment Association,2015-07-18,-1,1
+Austin Apartment Association,2015-09-04,-1,0
+Austin Aquatics and Sports Academy,2013-01-10,1,1
+Austin Aquatics and Sports Academy,2013-10-01,1,2
+Austin Aquatics and Sports Academy,2014-01-10,-1,1
+Austin Aquatics and Sports Academy,2014-10-01,-1,0
+Austin Baptist Church,2013-12-20,1,1
+Austin Baptist Church,2014-01-07,2,3
+Austin Board of Realtors,2012-06-22,1,1
+Austin Board of Realtors,2013-06-22,-1,0
+Austin Board of Realtors,2013-12-20,1,1
+Austin Board of Realtors,2014-01-07,2,3
+Austin Board of Realtors,2014-04-25,1,4
+Austin Board of Realtors,2014-06-27,1,5
+Austin Board of Realtors,2014-08-01,2,7
+Austin Board of Realtors,2015-08-01,-1,6
+Austin Chamber of Commerce,2015-03-28,1,1
+Austin Chamber of Commerce,2015-12-08,1,2
+Austin Children's Museum,2013-01-03,2,2
+Austin Children's Museum,2014-01-03,-2,0
+Austin Christian Fellowship,2015-09-12,1,1
+Austin Chronicle,2013-01-03,2,2
+Austin Chronicle,2014-01-03,1,3
+Austin Chronicle,2016-02-02,-1,2
+Austin City Builders,2014-10-09,1,1
+Austin City Builders,2015-01-12,1,2
+Austin City Builders,2015-11-07,1,3
+Austin Community College District,2012-09-27,1,1
+Austin Community College District,2012-10-19,1,2
+Austin Community College District,2013-09-27,-1,1
+Austin Community College District,2013-10-19,-1,0
+Austin Convention Enterprises,2015-04-24,1,1
+Austin Convention Enterprises,2015-06-27,1,2
+Austin Convention and Visitors Bureau,2015-04-25,1,1
+Austin Country Club,2014-03-13,1,1
+Austin Country Club,2015-03-13,-1,0
+Austin Diagnostic Clinic,2014-01-09,1,1
+Austin Diagnostic Clinic,2014-07-09,1,2
+Austin Diagnostic Clinic,2015-01-09,-1,1
+Austin Diagnostic Clinic,2015-07-09,-1,0
+Austin Elm Terrace LP,2014-04-25,1,1
+Austin Elm Terrace LP,2014-04-29,1,2
+Austin Elm Terrace LP,2015-04-29,-1,1
+Austin FBO,2015-01-09,1,1
+Austin FBO,2016-01-09,-1,0
+Austin Fairchild Management,2013-10-28,1,1
+Austin Fairchild Management,2014-01-09,1,2
+Austin Fairchild Management,2015-01-09,-1,1
+Austin Fairchild Management,2015-01-12,1,2
+Austin Fairchild Management,2015-11-07,1,3
+Austin Film Studios,2014-02-03,1,1
+Austin Flower Co.,2011-08-17,1,1
+Austin Flower Co.,2012-08-16,-1,0
+Austin Green Cab,2014-03-13,1,1
+Austin Green Cab,2015-03-13,-1,0
+Austin Housing Authority,2014-08-20,1,1
+Austin Housing Authority,2015-08-20,-1,0
+Austin Music People,2013-09-20,1,1
+Austin Music People,2014-09-20,-1,0
+Austin Park,2014-12-23,1,1
+Austin Park,2015-01-06,2,3
+Austin Park,2015-01-12,2,5
+Austin Park,2016-01-12,-2,3
+Austin Pets Alive,2015-07-15,1,1
+Austin Presbetyrian Theological Seminary,2013-07-18,1,1
+Austin Presbetyrian Theological Seminary,2013-09-05,1,2
+Austin Presbetyrian Theological Seminary,2014-07-18,-1,1
+Austin Presbetyrian Theological Seminary,2014-09-05,-1,0
+Austin Quality Schools Collaborative,2013-12-20,1,1
+Austin Quality Schools Collaborative,2014-01-07,2,3
+Austin Quality Schools Collaborative,2014-01-16,1,4
+Austin Renaissance,2014-04-25,1,1
+Austin Renaissance,2015-06-27,1,2
+Austin Rental Alliance,2015-01-29,1,1
+Austin Rental Alliance,2016-01-29,-1,0
+Austin Restaurant Association,2013-12-20,1,1
+Austin Restaurant Association,2014-01-07,2,3
+Austin Ridge Bible Church,2013-07-18,1,1
+Austin Ridge Bible Church,2013-09-05,1,2
+Austin Ridge Bible Church,2014-07-18,-1,1
+Austin Ridge Bible Church,2014-09-05,-1,0
+Austin Sonic,2013-08-20,1,1
+Austin Sunshine Camp,2013-01-10,1,1
+Austin Sunshine Camp,2013-10-01,1,2
+Austin Sunshine Camp,2014-01-10,-1,1
+Austin Sunshine Camp,2014-10-01,-1,0
+Austin's Pizza,2011-08-17,1,1
+Austin's Pizza,2012-08-16,-1,0
+AustinSeventyOne,2013-10-01,1,1
+AustinSeventyOne,2014-10-01,-1,0
+AutoReturn,2013-12-20,1,1
+AutoReturn,2014-01-07,2,3
+AvalonPark Texas,2013-12-20,1,1
+AvalonPark Texas,2014-01-07,2,3
+"Avellan, Elizabeth",2013-01-03,2,2
+"Avellan, Elizabeth",2014-01-03,-2,0
+Avion Park,2015-09-12,1,1
+Avis Rent-A-Car,2011-08-17,1,1
+Avis Rent-A-Car,2012-08-16,-1,0
+"Ayers, Robert A.",2013-01-03,2,2
+"Ayers, Robert A.",2014-01-03,1,3
+"Ayers, Robert A.",2016-02-02,-1,2
+BDB Ventures,2015-07-15,1,1
+Bailey Elliott Construction Co.,2014-08-20,1,1
+Bailey Elliott Construction Co.,2015-08-20,-1,0
+Balcones Country Club Membership Association,2013-09-05,1,1
+Balcones Country Club Membership Association,2014-09-05,-1,0
+Balcones Resources,2013-10-07,2,2
+Balcones Resources,2013-10-08,1,3
+Balcones Resources,2015-04-25,1,4
+Balcones Resources,2015-10-15,-1,3
+Balfour Beatty Construction,2015-10-23,1,1
+"Banta, Mark",2014-12-21,1,1
+"Banta, Mark",2015-12-21,-1,0
+"Barlin, Peter",2014-08-20,1,1
+"Barlin, Peter",2015-08-20,-1,0
+Barshop and Oles Company,2014-01-16,1,1
+Barton Creek Capital,2015-07-15,1,1
+Behringer Harvard,2014-10-02,1,1
+Behringer Harvard,2014-12-21,1,2
+Behringer Harvard,2015-10-02,-1,1
+Behringer Harvard,2015-12-21,-1,0
+Benchmark Development/Goodnight Ranch,2015-09-01,1,1
+Beneplace,2014-06-09,1,1
+Beneplace,2015-06-09,-1,0
+Berns Commercial Properties,2010-06-24,1,1
+Berns Commercial Properties,2011-06-24,-1,0
+Berns Commercial Properties,2011-08-17,1,1
+Berns Commercial Properties,2012-08-16,-1,0
+Berns Commercial Properties,2014-04-25,1,1
+Berns Commercial Properties,2014-06-27,1,2
+Bill and Kathy Darling,2014-04-25,1,1
+Bill and Kathy Darling,2015-04-25,-1,0
+Blenheim,2013-12-20,1,1
+Blenheim,2014-01-07,2,3
+BlueWater Systems,2015-01-29,1,1
+Boat Town Clayton Raven,2014-08-20,1,1
+Boat Town Clayton Raven,2015-08-20,-1,0
+Bob and Michael Herd,2013-07-16,1,1
+Bob and Michael Herd,2014-07-16,-1,0
+"Bolick, Roger",2015-07-21,1,1
+Boot Man,2014-02-03,1,1
+Boot Man,2015-02-03,-1,0
+Bouldin Creek Neighborhood Association,2011-08-17,1,1
+Bouldin Creek Neighborhood Association,2012-08-16,-1,0
+Bouldin Creek Neighborhood Association,2014-04-25,1,1
+Bouldin Creek Neighborhood Association,2014-06-27,1,2
+Bounce Marketing and Events,2014-04-25,1,1
+Bounce Marketing and Events,2015-06-27,1,2
+Boys and Girls Club,2015-07-15,1,1
+Boys and Girls Club,2016-01-09,1,2
+Brady Ohman,2013-09-05,1,1
+Brady Ohman,2015-09-04,-1,0
+Bradz Salon,2011-08-17,1,1
+Bradz Salon,2012-08-16,-1,0
+Braker Valley,2013-09-05,1,1
+Brandywine Realty Trust,2015-07-15,1,1
+Brandywine Realty Trust,2015-10-15,1,2
+Brandywine Realty Trust,2015-10-23,1,3
+Brandywine Realty Trust,2015-11-07,1,4
+Brandywine Realty Trust,2016-01-09,1,5
+Brandywine Realty Trust,2016-01-16,1,6
+Brazos Masonry,2014-04-25,1,1
+Brazos Masonry,2014-06-27,1,2
+Brazos Masonry,2015-04-25,-1,1
+Brazos Masonry,2015-06-27,-1,0
+Bread and Circus,2013-01-03,2,2
+Bread and Circus,2014-01-03,1,3
+Bread and Circus,2016-02-02,-1,2
+Brent and Jennifer Cardwell,2014-03-13,1,1
+Brent and Jennifer Cardwell,2015-03-13,-1,0
+Brian Bailey Homes,2014-08-20,1,1
+Brian Bailey Homes,2015-08-20,-1,0
+Brian Follett,2014-10-21,1,1
+Brian Follett,2015-10-21,-1,0
+"Bridges on The Park Condominium Association, Inc.",2013-03-08,1,1
+"Bridges on The Park Condominium Association, Inc.",2014-03-08,-1,0
+Brightman Energy,2012-10-22,1,1
+Brightman Energy,2013-10-22,-1,0
+Briley's Upholstery Austin,2014-10-21,1,1
+Briley's Upholstery Austin,2015-10-21,-1,0
+Brisa Communications,2013-03-04,1,1
+Brisa Communications,2014-03-04,-1,0
+Brock Consulting Group,2013-12-20,1,1
+Brock Consulting Group,2014-01-07,2,3
+Bryan Hardeman,2014-08-20,1,1
+Bryan Hardeman,2015-08-20,-1,0
+Buffalo Equities,2013-09-05,1,1
+Buie and Co.,2014-04-24,1,1
+"Bullard, Michael",2015-04-24,1,1
+"Bullard, Michael",2015-06-27,1,2
+Bunkhouse Management,2011-08-17,1,1
+Bunkhouse Management,2012-08-16,-1,0
+Bunkhouse Management,2014-04-25,1,1
+Bunkhouse Management,2014-06-27,1,2
+Bunkhouse Management,2015-04-25,-1,1
+Bunkhouse Management,2015-06-27,-1,0
+Bury,2014-10-16,1,1
+Butler Family Interests,2014-07-09,1,1
+Butler Family Interests,2014-12-21,1,2
+Butler Family Interests,2015-01-12,2,4
+Butler Family Interests,2015-12-21,-1,3
+Butler Family Interests,2016-01-12,-1,2
+Butler Family Partnership,2013-10-01,1,1
+Butler Family Partnership,2014-01-09,1,2
+Butler Family Partnership,2014-05-04,1,3
+Butler Family Partnership,2014-10-01,-1,2
+Butler Family Partnership,2015-01-12,1,3
+Butler Family Partnership,2015-05-04,-1,2
+Butler Family Partnership,2016-01-12,-2,0
+Butler Park Pitch and Putt,2013-10-07,1,1
+Butler Park Pitch and Putt,2014-10-15,1,2
+Butler Park Pitch and Putt,2015-10-15,-2,0
+"Bynum, Joseph and Jayme",2015-07-21,1,1
+C and G Ventures,2013-10-01,1,1
+C and G Ventures,2014-10-01,-1,0
+CBAL Whitecrowe,2014-03-31,1,1
+CBAL Whitecrowe,2015-03-31,-1,0
+CBL and Associates Management,2013-07-18,1,1
+CBL and Associates Management,2013-09-05,1,2
+CBL and Associates Management,2014-07-18,-1,1
+CBL and Associates Management,2014-09-05,-1,0
+CCARE,2013-10-08,1,1
+CMST Development,2015-04-24,1,1
+CMST Development,2015-06-27,1,2
+CPS Human Resource Services,2014-06-09,1,1
+CST Brands,2013-12-20,1,1
+CST Brands,2014-01-07,2,3
+CWS Capital Partners,2013-07-09,1,1
+CWS Capital Partners,2013-12-20,1,2
+CWS Capital Partners,2014-01-07,2,4
+CWS Capital Partners,2014-01-09,2,6
+CWS Capital Partners,2014-07-09,-1,5
+CWS Capital Partners,2015-01-09,-1,4
+CWS Capital Partners,2016-01-12,-1,3
+Caledonia Properties,2014-10-09,1,1
+Caledonia Properties,2015-11-07,1,2
+Caledonia Properties,2016-01-16,1,3
+Cameron and Killingsworth- Pflugerville 292,2013-10-01,1,1
+Cameron and Killingsworth- Pflugerville 292,2014-10-01,-1,0
+Canchola and Hyde Productions,2014-08-01,1,1
+Capelli Salon,2011-08-17,1,1
+Capelli Salon,2012-08-16,-1,0
+Capital Commercial Investments,2013-12-20,1,1
+Capital Commercial Investments,2014-01-07,2,3
+Capital Metro,2013-03-07,1,1
+Capital Metro,2014-03-07,-1,0
+Capital Metro,2014-10-09,1,1
+Capital Metro,2015-01-12,1,2
+Capital Metro,2015-04-25,1,3
+Capital Metro,2015-11-07,1,4
+Capitol City Imports,2011-08-17,1,1
+Capitol City Imports,2012-08-16,-1,0
+Capitol City Partners,2014-12-23,1,1
+Capitol City Partners,2015-01-06,2,3
+Capridge Partners,2013-12-20,1,1
+Capridge Partners,2014-01-07,2,3
+Car Tex Engineers Gary Jones,2014-08-20,1,1
+Car Tex Engineers Gary Jones,2015-08-20,-1,0
+Cardinal Paragon,2014-01-09,1,1
+Cardinal Paragon,2016-01-12,-1,0
+Carma Texas,2013-12-20,1,1
+Carma Texas,2014-01-07,2,3
+Caroline's,2011-08-17,1,1
+Caroline's,2012-08-16,-1,0
+Carollo Engineers,2011-05-10,1,1
+Carollo Engineers,2012-05-09,-1,0
+Carollo Engineers,2014-04-25,1,1
+Carollo Engineers,2014-06-27,1,2
+Cary and Cynthia Reynolds,2014-04-25,1,1
+Cary and Cynthia Reynolds,2014-06-27,1,2
+Castle Hill Management,2013-02-14,1,1
+Catalyst Acquisitions and Development Grp,2014-07-09,1,1
+Catalyst Acquisitions and Development Grp,2015-01-12,1,2
+Catalyst Acquisitions and Development Grp,2015-07-09,-1,1
+Catalyst Acquisitions and Development Grp,2016-01-12,-1,0
+"Catanoia, Ginny",2014-10-21,1,1
+"Catanoia, Ginny",2015-10-21,-1,0
+Catellus Commercial Group,2012-01-06,1,1
+Catellus Commercial Group,2013-01-05,-1,0
+Catellus Commercial Group,2014-01-13,1,1
+Catellus Commercial Group,2015-01-13,-1,0
+Cathedral of Junk,2011-08-17,1,1
+Cathedral of Junk,2012-08-16,-1,0
+"Cedar Park, TX",2014-10-16,1,1
+Central Health,2014-04-25,2,2
+Central Health,2014-06-25,1,3
+Central Health,2015-06-25,-1,2
+Central Health,2015-06-27,1,3
+Central Health,2016-01-12,1,4
+Century Land Holdings II,2014-08-01,1,1
+"Champion, Josie, Juanita Meier and Mary Margaret Roberson",2013-01-03,2,2
+"Champion, Josie, Juanita Meier and Mary Margaret Roberson",2014-01-03,-1,1
+Charles Dorrance,2013-12-20,1,1
+Charles Dorrance,2014-01-07,2,3
+"Charles S. Dildy and Bertha Magdelan Steger Dildy, Trustees",2013-01-03,2,2
+"Charles S. Dildy and Bertha Magdelan Steger Dildy, Trustees",2014-01-03,-2,0
+Charmeleon Group,2014-04-25,1,1
+Charmeleon Group,2014-06-27,1,2
+Charmeleon Group,2015-04-25,-1,1
+Charmeleon Group,2015-06-27,-1,0
+Chereen Fisher,2014-04-25,1,1
+Chereen Fisher,2014-06-27,1,2
+Christopher Commercial,2013-01-03,2,2
+Christopher Commercial,2014-01-03,-2,0
+Christopher Slover,2013-12-20,1,1
+Christopher Slover,2014-01-07,2,3
+Churchill Forge,2013-01-03,2,2
+Churchill Forge,2014-01-03,-2,0
+Cielo Property Group,2015-10-06,1,1
+Cielo Property Group,2016-01-09,1,2
+Circle C Homeowners Association,2014-07-09,2,2
+Circle C Homeowners Association,2015-01-12,1,3
+Circle C Homeowners Association,2015-07-09,-2,1
+Circle C Homeowners Association,2016-01-12,-1,0
+Circuit of the Americas,2013-10-08,1,1
+Circuit of the Americas,2013-12-20,1,2
+Circuit of the Americas,2014-01-07,2,4
+Circuit of the Americas,2014-04-25,1,5
+Circuit of the Americas,2014-06-27,1,6
+Circuit of the Americas,2015-04-25,-1,5
+Circuit of the Americas,2015-06-27,-1,4
+Circular Energy,2015-07-15,1,1
+Cirrus Logic,2013-02-14,1,1
+Cirrus Logic,2013-10-08,1,2
+Cirrus Logic,2013-12-20,1,3
+Cirrus Logic,2014-01-07,2,5
+Cirrus Logic,2015-08-01,-1,4
+Cisco Systems,2013-06-18,1,1
+City of Dripping Springs,2014-04-24,1,1
+Clear Channel,2015-04-25,1,1
+Coastal Rim Properties,2015-07-21,1,1
+"Coats, Rose, Yale, Ryman and Lee",2013-07-18,1,1
+"Coats, Rose, Yale, Ryman and Lee",2013-09-05,1,2
+"Coats, Rose, Yale, Ryman and Lee",2015-07-18,-1,1
+"Coats, Rose, Yale, Ryman and Lee",2015-09-04,-1,0
+"Cobalt Partners, Limited",2011-08-17,1,1
+"Cobalt Partners, Limited",2012-08-16,-1,0
+"Cockrum, Brigid",2014-04-25,1,1
+Cogent Info Tech,2014-01-13,1,1
+Cogent Info Tech,2015-01-13,-1,0
+Coleman Law Office,2014-05-02,1,1
+Coleman Law Office,2015-05-02,-1,0
+Colina West Real Estate,2014-03-31,1,1
+Colina West Real Estate,2014-12-23,1,2
+Colina West Real Estate,2015-01-06,2,4
+Colonnetta Family,2014-03-31,1,1
+Colony Park Neighborhood Association,2014-04-25,1,1
+Colony Park Neighborhood Association,2014-06-27,1,2
+Colony Park Neighborhood Association,2015-04-25,-1,1
+Colony Park Neighborhood Association,2015-06-27,-1,0
+Community Sun,2013-02-14,1,1
+Community Sun,2015-08-01,-1,0
+Concordia University,2013-12-20,1,1
+Concordia University,2014-01-07,2,3
+Condominiums at Tuscany Oaks,2015-01-12,1,1
+Condominiums at Tuscany Oaks,2015-09-01,1,2
+Condominiums at Tuscany Oaks,2016-01-12,-1,1
+Congress Avenue Baptist Church,2014-03-31,1,1
+Congress Avenue Baptist Church,2015-03-31,-1,0
+Conley Sports,2014-04-24,1,1
+Connecticut General Life Insurance Company,2011-11-18,2,2
+Connecticut General Life Insurance Company,2012-11-17,-2,0
+"Connolly, III, James, D., (Trey) and Steve Rambo",2011-08-17,1,1
+"Connolly, III, James, D., (Trey) and Steve Rambo",2012-08-16,-1,0
+Conor Commercial Real Estate,2013-03-07,1,1
+Conor Commercial Real Estate,2014-03-07,-1,0
+Constructive Ventures,2013-01-03,2,2
+Constructive Ventures,2014-01-03,1,3
+Constructive Ventures,2016-02-02,-1,2
+Contessa Gallery,2011-08-17,1,1
+Contessa Gallery,2012-08-16,-1,0
+Continental Cars,2014-04-25,1,1
+Continental Cars,2014-06-27,1,2
+Coover and Coover,2013-01-03,2,2
+Coover and Coover,2014-01-03,1,3
+Coover and Coover,2015-01-03,-3,0
+Coppell Building,2014-10-09,1,1
+Coppell Building,2015-01-12,1,2
+Coppell Building,2015-11-07,1,3
+Cornerbrook Development,2012-09-27,1,1
+Cornerbrook Development,2012-10-19,1,2
+Cornerbrook Development,2013-09-27,-1,1
+Cornerbrook Development,2013-10-19,-1,0
+Cornerstone Patriot Holdings,2015-02-02,1,1
+Cornerstone Patriot Holdings,2016-01-13,2,3
+Cornerstone Patriot Holdings,2016-02-02,-1,2
+Cornerstone Real Estate Advisors,2015-02-02,1,1
+Cornerstone Real Estate Advisors,2016-01-13,2,3
+Cornerstone Real Estate Advisors,2016-02-02,-1,2
+Cottonwood Holdings,2013-01-03,2,2
+Cottonwood Holdings,2014-01-03,-2,0
+County Line,2013-01-10,1,1
+County Line,2013-10-01,1,2
+County Line,2014-01-10,-1,1
+County Line,2015-02-13,1,2
+County Line,2016-01-09,1,3
+Cousins Properties,2013-07-09,1,1
+Cousins Properties,2014-01-09,2,3
+Cousins Properties,2014-08-29,1,4
+Cousins Properties,2015-01-12,1,5
+Cousins Properties,2015-07-09,-1,4
+Cousins Properties,2015-08-29,-1,3
+Cousins Properties,2016-01-12,-3,0
+Covered Bridge Assisted Living,2014-03-31,1,1
+Covered Bridge Assisted Living,2015-03-31,-1,0
+Covered Bridge Property Owners Association,2015-08-18,1,1
+Covered Bridge Section 8,2014-03-31,1,1
+Credit Suisse Asset Management,2011-05-10,1,1
+Credit Suisse Asset Management,2012-05-09,-1,0
+Creek 620,2013-12-20,1,1
+Creek 620,2014-01-07,2,3
+Crescent 210 Barton Springs,2013-12-20,1,1
+Crescent 210 Barton Springs,2014-01-07,2,3
+Crescent Recourses,2010-06-24,1,1
+Crescent Recourses,2011-06-24,-1,0
+Crescent Recourses,2013-10-01,1,1
+Crescent Recourses,2014-10-01,-1,0
+Criterion Development Partners,2011-08-17,1,1
+Criterion Development Partners,2012-08-16,-1,0
+"Crixell, Juan",2010-06-24,1,1
+"Crixell, Juan",2011-06-24,-1,0
+Crossroads Events,2013-03-04,1,1
+Crossroads Events,2014-03-04,-1,0
+"Crouch, Greg",2015-03-24,1,1
+Crown Castle,2015-06-13,1,1
+Crown Castle,2015-07-15,1,2
+Crown Castle,2016-01-09,1,3
+"Cullen, John",2013-12-20,1,1
+"Cullen, John",2014-01-07,2,3
+Cummings-Baccus,2013-02-14,1,1
+Cummings-Baccus,2015-08-01,-1,0
+Cypress Realty,2013-10-08,1,1
+Cypress Realty,2013-12-20,1,2
+Cypress Realty,2014-01-03,1,3
+Cypress Realty,2014-01-07,2,5
+Cypress Realty,2014-01-16,1,6
+Cypress Realty,2014-10-08,-1,5
+Cypress Realty,2015-10-23,1,6
+Cypress Semiconductor,2015-10-23,1,1
+D. R. Horton,2014-04-29,1,1
+D. R. Horton,2015-04-24,1,2
+DFI Resources,2012-01-06,1,1
+DFI Resources,2013-01-05,-1,0
+Dalton Mueller,2014-03-31,1,1
+Dalton Mueller,2015-03-31,-1,0
+Dan Byrne,2014-12-23,1,1
+Dan Byrne,2015-01-06,2,3
+Dana Copp Builder,2014-08-20,1,1
+Dana Copp Builder,2015-08-20,-1,0
+Danley Properties,2014-05-02,1,1
+Danley Properties,2015-05-02,-1,0
+Davenport Ranch Neighborhood Assoc.,2014-04-25,1,1
+Davenport Ranch Neighborhood Assoc.,2014-06-27,1,2
+Davey Tree Expert Company,2012-04-25,1,1
+Davey Tree Expert Company,2013-04-25,-1,0
+David Davidson,2014-08-20,1,1
+David Davidson,2015-08-20,-1,0
+David Honeycutt,2014-03-31,1,1
+David Honeycutt,2015-03-31,-1,0
+David McMahan,2014-04-25,1,1
+David McMahan,2014-06-27,1,2
+David McMahan,2015-04-25,-1,1
+David McMahan,2015-06-27,-1,0
+David Wilkes Bldrs,2014-08-20,1,1
+David Wilkes Bldrs,2015-08-20,-1,0
+David and Suzanne Booth,2013-12-20,1,1
+David and Suzanne Booth,2014-01-07,2,3
+David and Suzanne Booth,2014-01-16,1,4
+"Davis, Mike",2015-03-24,1,1
+"Dawlett, Haythem",2010-06-24,1,1
+"Dawlett, Haythem",2011-06-24,-1,0
+"Dawlett, Haythem",2016-01-09,1,1
+Dean and Andrea McWilliams,2014-01-09,1,1
+Dean and Andrea McWilliams,2015-01-09,-1,0
+Deborah Dunn,2013-07-16,1,1
+Deborah Dunn,2014-07-16,-1,0
+Deborah and Gary Attal,2013-12-20,1,1
+Deborah and Gary Attal,2014-01-07,2,3
+Delaware North Companies/Travel Hospitality Services,2012-01-06,1,1
+Delaware North Companies/Travel Hospitality Services,2013-01-05,-1,0
+Delaware North Companies/Travel Hospitality Services,2014-01-13,1,1
+Delaware North Companies/Travel Hospitality Services,2016-01-09,-1,0
+Denison Development,2014-03-10,1,1
+Denison Development,2015-03-10,-1,0
+Denison Development,2016-01-12,1,1
+Dennis Fagan Still and Moving Pictures,2011-08-17,1,1
+Dennis Fagan Still and Moving Pictures,2012-08-16,-1,0
+Denucci Constructors,2011-05-10,1,1
+Denucci Constructors,2012-05-09,-1,0
+Dessau Business Park Propery Owners Assn,2013-03-07,1,1
+Dessau Business Park Propery Owners Assn,2014-03-07,-1,0
+Dessau Howard,2014-08-01,1,1
+Diversified Real Estate Group,2014-12-21,1,1
+Diversified Real Estate Group,2015-07-21,1,2
+Diversified Real Estate Group,2016-01-12,-1,1
+Dobie Austin (Howard Michaels),2014-04-29,1,1
+Dobie Austin (Howard Michaels),2015-04-29,-1,0
+Don Martin Public Affairs,2012-10-22,1,1
+Don Martin Public Affairs,2013-10-22,-1,0
+Downtown Austin Alliance,2014-12-23,1,1
+Downtown Austin Alliance,2015-01-06,2,3
+Downtown Austin Alliance,2015-12-23,-1,2
+Drenner Group,2015-01-29,1,1
+Drenner Group,2016-01-29,-1,0
+Driveway Austin,2015-07-21,1,1
+Driveway Austin,2015-09-12,1,2
+Dropbox,2013-08-09,1,1
+Dropbox,2013-08-29,1,2
+Dropbox,2014-08-09,-1,1
+Dropbox,2014-08-29,-1,0
+Duckworth Property Holdings,2014-10-09,1,1
+Duckworth Property Holdings,2015-01-12,1,2
+Duckworth Property Holdings,2015-11-07,1,3
+Dupont Group Rick Dupont,2014-08-20,1,1
+Dupont Group Rick Dupont,2015-08-20,-1,0
+Dwyer Realty Companies,2013-01-03,2,2
+Dwyer Realty Companies,2013-12-20,1,3
+Dwyer Realty Companies,2014-01-03,-2,1
+Dwyer Realty Companies,2014-01-07,2,3
+Dwyer Realty Companies,2014-01-16,1,4
+ECC Commercial,2014-07-09,1,1
+ECC Commercial,2015-07-09,-1,0
+ECC Commercial,2015-07-15,1,1
+EHB Companies,2013-12-20,1,1
+EHB Companies,2014-01-07,2,3
+EMSO Partners Limited,2014-01-08,1,1
+EYA Investments,2013-01-03,2,2
+EYA Investments,2014-01-03,-2,0
+EZ,2015-07-21,1,1
+"Eads, Ralph, III",2015-08-01,1,1
+Eanes Community Alliance,2011-08-17,1,1
+Eanes Community Alliance,2012-08-16,-1,0
+Eanes Community Alliance,2014-04-25,1,1
+Eanes Community Alliance,2014-06-27,1,2
+Eanes Community Alliance,2015-04-25,-1,1
+Eanes Community Alliance,2015-06-27,-1,0
+East Side Tree House Erik Olson,2014-08-20,1,1
+East Side Tree House Erik Olson,2015-08-20,-1,0
+Edward Lopez,2014-04-25,1,1
+Edward Lopez,2015-06-27,1,2
+El Chile Restaurant Group (Carlos Rivero),2014-04-29,1,1
+El Chile Restaurant Group (Carlos Rivero),2015-04-29,-1,0
+"El Rey Network, LLC",2014-02-12,1,1
+"El Rey Network, LLC",2015-02-12,-1,0
+Elan Hair Salon,2011-08-17,1,1
+Elan Hair Salon,2012-08-16,-1,0
+Embree Asset Group,2014-10-09,1,1
+Embree Asset Group,2015-01-12,1,2
+Embree Asset Group,2015-11-07,1,3
+Embrey Partners,2015-04-25,1,1
+Emmis Radio Broadcasting Co.,2014-10-09,1,1
+Emmis Radio Broadcasting Co.,2015-01-12,1,2
+Emmis Radio Broadcasting Co.,2015-11-07,1,3
+Endeavor Real Estate Group,2013-10-08,1,1
+Endeavor Real Estate Group,2013-12-20,1,2
+Endeavor Real Estate Group,2014-01-07,2,4
+Endeavor Real Estate Group,2014-08-01,1,5
+Endeavor Real Estate Group,2014-10-09,1,6
+Endeavor Real Estate Group,2015-01-12,1,7
+Endeavor Real Estate Group,2015-11-07,1,8
+Energy AP,2014-03-13,1,1
+Energy AP,2015-03-13,-1,0
+Enoteca Restaurant,2014-10-21,1,1
+Enoteca Restaurant,2015-10-21,-1,0
+Episcopal Theological Seminary of the Southwest,2013-12-20,1,1
+Episcopal Theological Seminary of the Southwest,2014-01-07,2,3
+Equinox,2014-10-09,1,1
+Equinox,2015-01-12,1,2
+Equinox,2015-11-07,1,3
+Eric Reddehase,2013-12-20,1,1
+Eric Reddehase,2014-01-07,2,3
+Essex and Delancey,2014-08-01,1,1
+Estilio Valdez Salon,2011-08-17,1,1
+Estilio Valdez Salon,2012-08-16,-1,0
+Eureka Holdings,2014-01-09,1,1
+Eureka Holdings,2014-04-25,1,2
+Eureka Holdings,2014-06-27,1,3
+Eureka Holdings,2015-07-15,1,4
+Eureka Holdings,2015-12-21,-1,3
+ExeNet Systems,2014-04-29,1,1
+Falcon Southwest Development Co,2015-04-24,1,1
+Falcon Southwest Development Co,2015-06-27,1,2
+Falkin/Platnick Realty Group,2013-01-03,2,2
+Falkin/Platnick Realty Group,2014-01-03,-2,0
+Farm Credit Bank of Texas,2013-01-03,2,2
+Farm Credit Bank of Texas,2014-01-03,-2,0
+Feld Entertainement,2015-08-06,1,1
+Fiesta Restaruant Group,2015-07-21,1,1
+Fiestas Patrias of Austin,2013-03-04,1,1
+Fiestas Patrias of Austin,2014-03-04,-1,0
+Fifth Generation Tasting,2013-10-01,1,1
+Fifth Generation Tasting,2014-10-01,-1,0
+Film Society of Austin,2013-01-03,2,2
+Film Society of Austin,2014-01-03,1,3
+Film Society of Austin,2016-02-02,-1,2
+Fine Line Diversified Development,2011-08-17,1,1
+Fine Line Diversified Development,2012-08-16,-1,0
+Fine Line Diversified Development,2012-10-22,1,1
+Fine Line Diversified Development,2013-10-22,-1,0
+Fine Line Diversified Development,2014-04-25,1,1
+Fine Line Diversified Development,2014-06-27,1,2
+Finley Company,2013-01-03,2,2
+Finley Company,2014-01-03,2,4
+Finley Company,2015-01-03,-1,3
+Finley Company,2016-02-02,-1,2
+First Hartford Realty,2013-01-10,1,1
+First Hartford Realty,2013-10-01,1,2
+First Hartford Realty,2014-01-10,-1,1
+First Hartford Realty,2015-01-08,1,2
+First Hartford Realty,2016-01-08,-1,1
+Flemtex Properties,2014-04-25,1,1
+Flemtex Properties,2014-06-27,1,2
+Flextronics,2013-12-20,1,1
+Flextronics,2014-01-07,2,3
+Flux Factory,2014-12-23,1,1
+Flux Factory,2015-01-06,2,3
+Force Multiplier Solutions,2014-02-03,1,1
+Ford Smith Jr.,2014-08-20,1,1
+Ford Smith Jr.,2015-08-20,-1,0
+Foremost Partners,2015-09-12,1,1
+Forestar Real Estate Group,2011-05-10,1,1
+Forestar Real Estate Group,2012-05-09,-1,0
+Forestar Real Estate Group,2013-12-20,1,1
+Forestar Real Estate Group,2014-01-07,2,3
+Forestar Real Estate Group,2014-01-16,1,4
+Forestar Real Estate Group,2014-04-25,1,5
+Forestar Real Estate Group,2014-06-27,1,6
+Forestar Real Estate Group,2015-01-12,1,7
+Forestar Real Estate Group,2015-07-15,1,8
+Forestar Real Estate Group,2016-01-12,-1,7
+Fotowatio Renewable Ventures,2011-08-17,1,1
+Fotowatio Renewable Ventures,2012-08-16,-1,0
+Foundation Communities,2015-04-24,1,1
+Foundation Communities,2015-06-27,1,2
+Four Seasons Hotel,2013-12-20,1,1
+Four Seasons Hotel,2014-01-07,2,3
+FourT Realty,2015-08-01,1,1
+Franzetti Jewelers,2011-08-17,1,1
+Franzetti Jewelers,2012-08-16,-1,0
+Freedom Carwash,2014-04-25,1,1
+Freedom Carwash,2014-06-27,1,2
+Freedom Carwash,2015-04-25,-1,1
+Freedom Carwash,2015-06-27,-1,0
+Freescale,2011-05-10,1,1
+Freescale,2012-05-09,-1,0
+Freescale,2014-10-16,1,1
+Fremont Holdings,2014-07-01,2,2
+Fremont Holdings,2015-07-01,-2,0
+Fremont Holdings,2015-10-06,1,1
+Fremont Holdings,2016-01-09,1,2
+Freytag Florist,2014-08-20,1,1
+Freytag Florist,2015-08-20,-1,0
+Friends of Lake Austin,2014-04-24,1,1
+G5 Investments,2013-12-20,1,1
+G5 Investments,2014-01-07,2,3
+"GFD Holdings, LLC (Brandon Bolin)",2014-04-29,1,1
+"GFD Holdings, LLC (Brandon Bolin)",2015-04-29,-1,0
+GHI Partners,2013-09-05,1,1
+GHI Partners,2015-09-04,-1,0
+GST Hermanas Land and Cattle,2014-03-31,1,1
+Gables Residential,2013-12-20,1,1
+Gables Residential,2014-01-07,2,3
+Gables Residential,2015-10-23,1,4
+"Gallegos, Jim",2013-12-20,1,1
+"Gallegos, Jim",2014-01-07,2,3
+Garden Room,2011-08-17,1,1
+Garden Room,2012-08-16,-1,0
+"Garvey, Jeffery C.",2014-12-23,1,1
+"Garvey, Jeffery C.",2015-01-06,2,3
+"Gaskins, Bart and Jill",2015-04-24,1,1
+"Gaskins, Bart and Jill",2015-06-27,1,2
+Gemini Solar Development,2011-08-17,1,1
+Gemini Solar Development,2012-08-16,-1,0
+Gemini Solar Development,2014-04-25,1,1
+Gemini Solar Development,2014-06-27,1,2
+Gene Burris,2013-12-20,1,1
+Gene Burris,2014-01-07,2,3
+"General Aviation Avenue, LLc",2014-01-13,1,1
+"General Aviation Avenue, LLc",2015-01-13,-1,0
+General Investment and Development,2013-12-20,1,1
+General Investment and Development,2014-01-07,2,3
+Generational Commercial Properties,2015-10-06,1,1
+"Gila, LLC dba Municipal Services Bureau",2011-04-21,1,1
+"Gila, LLC dba Municipal Services Bureau",2012-04-20,-1,0
+"Gilcrease, Peter",2014-04-25,1,1
+"Gilcrease, Peter",2014-06-27,1,2
+Ginny Catanoia,2014-10-21,1,1
+Ginny Catanoia,2015-10-21,-1,0
+Glenn Jackson,2013-12-20,1,1
+Glenn Jackson,2014-01-07,2,3
+Goodstone,2013-12-20,1,1
+Goodstone,2014-01-07,2,3
+Google,2013-12-20,1,1
+Google,2014-01-07,2,3
+Google,2014-01-08,1,4
+Google,2014-01-09,1,5
+Gordian Group,2015-06-13,1,1
+Gordon Muir,2013-04-29,1,1
+Gordon Muir,2014-04-29,-1,0
+Goveia Commercial Real Estate,2015-01-20,1,1
+Goveia Commercial Real Estate,2015-10-23,1,2
+Grayco Partners,2014-01-09,2,2
+Grayco Partners,2014-07-09,1,3
+Grayco Partners,2014-08-29,1,4
+Grayco Partners,2015-08-29,-1,3
+Grayco Partners,2016-01-12,-2,1
+Greater Austin Transportation,2013-06-28,1,1
+Greater Austin Transportation,2014-06-28,-1,0
+Greater Austin Transportation,2015-01-08,1,1
+Greater Austin Transportation,2015-04-25,1,2
+Greater Austin Transportation Co. (Yellow Cab),2014-04-25,1,1
+Greater Austin Transportation Co. (Yellow Cab),2015-04-25,-1,0
+Greater Mt. Zion Baptist Church,2014-07-01,1,1
+Greater Mt. Zion Baptist Church,2015-07-01,-1,0
+Green Zone Homes,2014-05-02,1,1
+Green Zone Homes,2015-05-02,-1,0
+GreenRyde,2015-04-25,1,1
+Greif Yount Partnership,2014-03-31,1,1
+Greyhound Lines,2012-04-16,1,1
+Greyhound Lines,2013-04-16,-1,0
+Greystar Real Estate Partners,2016-01-09,1,1
+Griffin School,2015-04-24,1,1
+Griffin School,2015-06-27,1,2
+Grubb and Ellis Realty Investors,2011-08-17,1,1
+Grubb and Ellis Realty Investors,2012-08-16,-1,0
+Grubb and Ellis Realty Investors,2014-04-25,1,1
+Grubb and Ellis Realty Investors,2014-06-27,1,2
+Guns and Oil Beer USA,2015-03-17,1,1
+H-E-B,2013-12-20,1,1
+H-E-B,2014-01-07,2,3
+H-E-B,2014-01-09,2,5
+H-E-B,2015-01-09,-2,3
+H-E-B,2015-04-25,1,4
+HDI Solutions,2013-06-18,1,1
+HDR,2013-10-08,1,1
+HDR,2014-04-24,1,2
+HNTB,2013-09-03,1,1
+HNTB,2016-01-12,1,2
+HPI Real Estate and Services Investment,2013-12-20,1,1
+HPI Real Estate and Services Investment,2014-01-07,2,3
+HSD Lakeway Holdings,2013-12-20,1,1
+HSD Lakeway Holdings,2014-01-07,2,3
+HTK Development,2014-08-01,1,1
+Habitat for Humanity,2015-04-25,1,1
+Halff Associates,2014-06-09,2,2
+Harmony Public Schools,2014-12-23,1,1
+Harmony Public Schools,2015-01-06,2,3
+Harmony Public Schools,2016-01-20,1,4
+Harris Branch Master Association,2013-07-18,1,1
+Harris Branch Master Association,2013-09-05,1,2
+Harris Branch Master Association,2014-07-18,-1,1
+Harris Branch Master Association,2014-09-05,-1,0
+Harrod Properties,2013-10-01,1,1
+Harrod Properties,2014-10-01,-1,0
+HausBar Farms,2013-07-23,1,1
+HausBar Farms,2014-07-23,-1,0
+Heights SOCO Development,2016-01-09,1,1
+Heiser Development,2013-10-01,1,1
+Heiser Development,2014-10-01,-1,0
+Henry S. Miller Realtors,2015-02-13,1,1
+Heritage Neighborgood Association,2014-04-25,1,1
+Heritage Neighborgood Association,2014-06-27,1,2
+Heritage Neighborgood Association,2015-04-25,-1,1
+Heritage Neighborgood Association,2015-06-27,-1,0
+Highland Management,2013-01-03,2,2
+Highland Management,2013-12-20,1,3
+Highland Management,2014-01-03,1,4
+Highland Management,2014-01-07,2,6
+Highland Management,2016-02-02,-1,5
+"Highland Park West, Limited",2011-08-17,1,1
+"Highland Park West, Limited",2012-08-16,-1,0
+"Highland Park West, Limited",2014-04-25,1,1
+"Highland Park West, Limited",2014-06-27,1,2
+"Highland Park West, Limited",2015-04-25,-1,1
+"Highland Park West, Limited",2015-06-27,-1,0
+Hill Country Estates Homeowners Association,2015-08-18,1,1
+"Hillin Jr., Robert",2013-01-03,2,2
+"Hillin Jr., Robert",2014-01-03,1,3
+"Hillin Jr., Robert",2016-02-02,-1,2
+Hixon Properties,2013-07-09,1,1
+Hixon Properties,2014-01-09,2,3
+Hixon Properties,2014-07-09,-1,2
+Hixon Properties,2015-01-09,-1,1
+Hixon Properties,2015-07-21,1,2
+Hixon Properties,2016-01-09,1,3
+Hixon Properties,2016-01-12,-1,2
+Hoar Construction,2014-06-09,1,1
+Hoar Construction,2015-06-09,-1,0
+Home Builders Association of Greater Austin,2015-06-10,2,2
+Home Slice Pizza,2014-10-09,1,1
+Home Slice Pizza,2015-01-12,1,2
+Home Slice Pizza,2015-11-07,1,3
+HomeAway,2011-05-10,1,1
+HomeAway,2012-05-09,-1,0
+HomeAway,2014-04-25,1,1
+HomeAway,2014-06-27,1,2
+HomeAway,2014-12-23,1,3
+Honokea Surf Parks,2014-07-09,1,1
+Honokea Surf Parks,2014-08-29,1,2
+Honokea Surf Parks,2015-01-12,2,4
+Honokea Surf Parks,2015-07-09,-1,3
+Honokea Surf Parks,2015-08-29,-1,2
+Honokea Surf Parks,2016-01-12,-2,0
+"Hoomanrad, Navid",2014-04-25,1,1
+"Hoomanrad, Navid",2014-06-27,1,2
+Hopper Communities,2013-10-07,1,1
+Hopper Communities,2014-10-15,1,2
+Hopper Communities,2015-10-15,-1,1
+Horse Thief Hollow,2014-03-31,1,1
+Houston 6000 Bissonnet,2014-03-31,1,1
+Houston 6000 Bissonnet,2015-03-31,-1,0
+Hudgins Apartment Development,2014-04-25,1,1
+Hughes Capital Management,2013-12-20,1,1
+Hughes Capital Management,2014-01-07,2,3
+Husch Blackwell,2014-04-25,1,1
+Husch Blackwell,2015-04-25,-1,0
+Hyde Park Baptist Church,2013-12-20,1,1
+Hyde Park Baptist Church,2014-01-07,2,3
+IDEA Public Schools,2013-12-20,1,1
+IDEA Public Schools,2014-01-07,2,3
+IDEA Public Schools,2016-01-20,1,4
+IESI,2010-09-14,1,1
+IESI,2011-09-14,-1,0
+INTCO Development of Texas,2013-01-03,2,2
+INTCO Development of Texas,2014-01-03,-2,0
+InSinkErator,2013-10-08,1,1
+InSinkErator,2014-04-24,1,2
+InSinkErator,2014-10-08,-1,1
+Inland American Communites,2014-12-21,1,1
+Inland American Communites,2016-01-12,-1,0
+Inland Group,2014-12-23,1,1
+Inland Group,2015-01-06,2,3
+Insurance Auto Auctions,2011-08-17,1,1
+Insurance Auto Auctions,2012-08-16,-1,0
+Insurance Auto Auctions,2014-04-25,1,1
+Insurance Auto Auctions,2014-06-27,1,2
+Intermandeco GP,2015-09-12,1,1
+"International Bank of Commerce, Laredo, Texas",2013-01-03,2,2
+"International Bank of Commerce, Laredo, Texas",2013-03-04,1,3
+"International Bank of Commerce, Laredo, Texas",2014-01-03,2,5
+"International Bank of Commerce, Laredo, Texas",2014-03-04,-1,4
+"International Bank of Commerce, Laredo, Texas",2016-01-13,-1,3
+"International Bank of Commerce, Laredo, Texas",2016-02-02,-1,2
+Iron Rock Ranch Apts. Owner,2015-07-21,1,1
+Iron Rock Ranch Apts. Owner,2016-01-09,1,2
+JBS Holdings,2015-09-01,1,1
+JEAE Family Ltd. Partnership,2014-03-31,1,1
+JEAE Family Ltd. Partnership,2015-03-31,-1,0
+JFP Industrial Interests,2015-08-01,1,1
+JLB Realty,2014-04-25,1,1
+JLB Realty,2014-06-27,1,2
+JLM Financial Investments,2014-07-09,1,1
+JLM Financial Investments,2014-08-29,1,2
+JLM Financial Investments,2015-01-12,2,4
+JLM Financial Investments,2015-07-09,-1,3
+JLM Financial Investments,2015-08-29,-1,2
+JLM Financial Investments,2016-01-12,-2,0
+JMI,2013-10-01,1,1
+JMI,2014-10-01,-1,0
+JP Morgan Chase Bank,2013-02-14,1,1
+JSTrain,2016-01-09,1,1
+Jack Brown Companies,2013-01-03,2,2
+Jack Brown Companies,2014-01-03,-2,0
+Jack Brown Family III,2013-01-03,2,2
+Jack Brown Family III,2014-01-03,-1,1
+Jack Brown Family III,2016-01-13,-1,0
+Jack W. Gullahorn P.C.,2015-10-28,1,1
+James Jard,2014-04-25,1,1
+James Jard,2014-06-27,1,2
+James Jard,2015-04-25,-1,1
+James Jard,2015-06-27,-1,0
+James Schneider,2013-12-20,1,1
+James Schneider,2014-01-07,2,3
+James Schoenbaum,2014-12-23,1,1
+James Schoenbaum,2015-01-06,2,3
+James Schoenbaum,2015-01-12,1,4
+James Schoenbaum,2016-01-12,-1,3
+Jeff Alderson,2013-03-07,1,1
+Jeff Alderson,2014-03-07,-1,0
+Jeffery C. Garvey,2013-12-20,1,1
+Jeffery C. Garvey,2014-01-07,2,3
+Jeffery C. Garvey,2015-12-23,-1,2
+Jeffery C. Garvey,2016-01-06,-2,0
+Jeremiah Venture,2014-04-25,1,1
+Jeremiah Venture,2014-06-27,1,2
+Jerry Bell,2014-04-25,1,1
+Jerry Bell,2014-06-27,1,2
+Jerry Bell,2015-04-25,-1,1
+Jerry Bell,2015-06-27,-1,0
+Jett Abraham,2014-03-31,1,1
+Jewish Community Association of Austin,2013-12-20,1,1
+Jewish Community Association of Austin,2014-01-07,2,3
+John Kleas,2013-10-01,1,1
+John Kleas,2014-10-01,-1,0
+John Mayes,2013-04-29,1,1
+John Mayes,2014-04-29,-1,0
+Johnson Development,2015-01-20,1,1
+Johnson Four Corners,2014-08-01,1,1
+"Jones, Eddie",2010-06-24,1,1
+"Jones, Eddie",2011-06-24,-1,0
+Jose and Gloria Perez,2014-03-31,1,1
+Jose and Gloria Perez,2015-03-31,-1,0
+Journeyman Construction,2012-10-22,1,1
+Journeyman Construction,2013-04-30,1,2
+Journeyman Construction,2013-10-22,-1,1
+Journeyman Construction,2015-08-20,-1,0
+Journeyman Construction,2015-09-01,1,1
+Junior League of Austin,2014-12-21,1,1
+Junior League of Austin,2015-01-12,1,2
+Junior League of Austin,2015-12-21,-1,1
+Junior League of Austin,2016-01-12,-1,0
+KB Home,2013-01-03,2,2
+KB Home,2014-01-03,-2,0
+KB Home Lone Star,2014-01-03,1,1
+KB Home Lone Star,2014-07-18,1,2
+KB Home Lone Star,2015-07-18,-1,1
+KB Home Lone Star,2015-09-12,1,2
+KB Home Lone Star,2016-01-13,-1,1
+KDR Equities,2014-10-09,1,1
+KDR Equities,2015-01-12,1,2
+KDR Equities,2015-11-07,1,3
+KEEP Real Estate,2014-05-04,1,1
+KEEP Real Estate,2014-07-09,1,2
+KEEP Real Estate,2014-12-21,1,3
+KEEP Real Estate,2015-05-04,-1,2
+KEEP Real Estate,2015-12-21,-1,1
+KIPP Austin Public School,2013-12-20,1,1
+KIPP Austin Public School,2014-01-07,2,3
+KJC Auto Title Loan Corp.,2014-07-18,1,1
+KJC Auto Title Loan Corp.,2015-07-18,-1,0
+KXAN,2013-01-03,2,2
+KXAN,2014-01-03,-2,0
+Kailey Development Partners,2014-04-25,1,1
+Kailey Development Partners,2014-06-27,1,2
+"Kalantari, Amir",2015-03-24,1,1
+Kam Kronenberg,2013-09-05,1,1
+Kam Kronenberg,2015-09-04,-1,0
+Karen Browning,2014-08-20,1,1
+Karen Browning,2015-08-20,-1,0
+Kathleen Monahan,2015-04-25,1,1
+Kathy Kyrish,2013-04-29,1,1
+Kathy Kyrish,2014-04-29,-1,0
+Kayne Capital,2014-01-13,1,1
+Kayne Capital,2016-01-09,-1,0
+"Keating, Pat",2015-01-20,1,1
+"Kelly, Mike",2010-06-24,1,1
+"Kelly, Mike",2011-06-24,-1,0
+Kenneth Gorence,2014-08-20,1,1
+Kenneth Gorence,2015-08-20,-1,0
+Kenneth Marx,2014-09-04,1,1
+Kenneth Marx,2015-09-04,-1,0
+Kerbey Lane Cafe,2011-08-17,1,1
+Kerbey Lane Cafe,2012-08-16,-1,0
+Kevin Hunter Camco Land,2013-01-03,2,2
+Kevin Hunter Camco Land,2014-01-03,-2,0
+Kevin Tarr,2014-04-25,1,1
+Kevin Tarr,2014-06-27,1,2
+Kevin Tarr,2015-04-25,-1,1
+Kevin Tarr,2015-06-27,-1,0
+"Khosravian, Dr. Pejman",2014-08-20,1,1
+"Khosravian, Dr. Pejman",2015-08-20,-1,0
+Kitchell Development,2013-01-03,2,2
+Kitchell Development,2014-01-03,1,3
+Kitchell Development,2016-02-02,-1,2
+"Knight, Robert - Knight Real Estate",2013-01-03,2,2
+"Knight, Robert - Knight Real Estate",2014-01-03,-2,0
+Koontz-McCombs,2011-05-10,1,1
+Koontz-McCombs,2012-05-09,-1,0
+Koontz-McCombs,2013-10-01,1,1
+Koontz-McCombs,2014-04-25,1,2
+Koontz-McCombs,2014-10-01,-1,1
+Kronos,2015-06-13,2,2
+Kucera Management/Ted Mecklin,2014-03-31,1,1
+Kucera Management/Ted Mecklin,2015-01-06,1,2
+LDG Norwood,2014-04-25,1,1
+LDG Norwood,2014-06-27,1,2
+LS Travel Retail North America,2015-01-09,1,1
+LS Travel Retail North America,2016-01-09,-1,0
+LTBS 2222,2013-02-14,1,1
+LUCE,2011-08-17,1,1
+LUCE,2012-08-16,-1,0
+La V Restaurant,2014-08-01,1,1
+Lack and Hurley,2013-01-03,2,2
+Lack and Hurley,2014-01-03,-2,0
+Lakeline Corner Partners,2016-01-20,1,1
+Lampting,2013-01-03,2,2
+Lampting,2014-01-03,0,2
+Lampting,2015-02-02,1,3
+Lampting,2016-02-02,-1,2
+Ledcor Properties Company,2013-10-07,2,2
+Ledcor Properties Company,2015-10-15,-1,1
+Lee's Meat Market,2011-08-17,1,1
+Lee's Meat Market,2012-08-16,-1,0
+Legend Communities,2014-12-21,1,1
+Legend Communities,2015-01-12,1,2
+Legend Communities,2015-07-15,1,3
+Legend Communities,2016-01-12,-2,1
+"Lehmann, Sandy",2010-06-24,1,1
+"Lehmann, Sandy",2011-06-24,-1,0
+Lennar Homes,2012-01-06,1,1
+Lennar Homes,2013-01-05,-1,0
+Lennar Homes,2014-01-16,1,1
+Lennar Homes,2016-01-09,1,2
+Lennar Homes,2016-01-20,-1,1
+Leveland Homes,2011-08-17,1,1
+Leveland Homes,2012-08-16,-1,0
+Lewis Sign Builders,2014-08-20,1,1
+Lewis Sign Builders,2015-08-20,-1,0
+"Liemandt, Joseph and Andra",2011-08-17,1,1
+"Liemandt, Joseph and Andra",2012-08-16,-1,0
+"Liemandt, Joseph and Andra",2014-04-25,1,1
+"Liemandt, Joseph and Andra",2014-06-27,1,2
+Life Austin,2013-10-01,1,1
+Life Austin,2016-01-09,1,2
+Lincoln Clean Energy,2015-10-23,1,1
+Lincoln Property Company,2013-10-07,2,2
+Lincoln Property Company,2015-01-12,2,4
+Lincoln Property Company,2015-10-15,-1,3
+Lincoln Property Company,2016-01-12,-2,1
+Linda Moody,2013-12-20,1,1
+Linda Moody,2014-01-07,2,3
+Lippincott Capital,2014-04-25,1,1
+Lippincott Capital,2014-06-27,1,2
+Little City Properties,2013-04-29,1,1
+Little City Properties,2015-10-21,-1,0
+Live Nations Eddie Hudson,2014-08-20,1,1
+Live Nations Eddie Hudson,2015-08-20,-1,0
+Liz Lambert,2013-12-20,1,1
+Liz Lambert,2014-01-07,2,3
+"Logan, Ellen Anderson",2013-01-03,2,2
+"Logan, Ellen Anderson",2014-01-03,1,3
+"Logan, Ellen Anderson",2016-02-02,-3,0
+Lone Star Cab Company,2011-04-21,1,1
+Lone Star Cab Company,2012-04-20,-1,0
+Lone Star Rail,2013-04-29,1,1
+Lone Star Rail,2014-08-05,1,2
+Lone Star Rail,2015-06-25,-1,1
+Lone Star Rail,2015-08-05,-1,0
+Lone Star Rail,2016-02-04,1,1
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2013-01-07,1,1
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2014-01-07,-1,0
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-01-13,1,1
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2016-01-13,-1,0
+"Lorenz, Perry",2011-08-17,1,1
+"Lorenz, Perry",2012-08-16,-1,0
+"Lorenz, Perry",2013-01-03,2,2
+"Lorenz, Perry",2014-01-03,1,3
+"Lorenz, Perry",2016-02-02,-3,0
+Lost Creek Neighborhood Assoc,2014-06-27,1,1
+Lost Creek Neighborhood Assoc,2015-04-24,1,2
+"Lunsford, Jesse",2015-04-24,1,1
+"Lunsford, Jesse",2015-06-27,1,2
+Luxe Valet,2015-07-02,1,1
+Lyda Family Trust,2013-01-10,1,1
+Lyda Family Trust,2013-10-01,1,2
+Lyda Family Trust,2014-01-10,-1,1
+Lyda Family Trust,2015-10-02,-1,0
+Lyft,2014-04-24,1,1
+Lyft,2014-04-25,1,2
+Lyft,2015-04-25,-1,1
+Lyft,2016-01-05,1,2
+Lyft,2016-01-09,1,3
+Lynxs,2012-10-22,1,1
+Lynxs,2013-10-22,-1,0
+M.J. Investments,2015-09-01,1,1
+MBC Engineers,2013-10-28,1,1
+MBC Engineers,2015-01-12,1,2
+MBC Engineers,2015-11-07,1,3
+MKKN Development,2013-04-29,1,1
+MKKN Development,2014-04-29,-1,0
+MOMARK Development,2015-09-01,1,1
+MPVI,2013-10-28,1,1
+MPVI,2014-10-28,-1,0
+MS General Contractors,2014-08-20,1,1
+MS General Contractors,2015-08-20,-1,0
+MTG Management,2011-08-17,1,1
+MTG Management,2012-08-16,-1,0
+MTG Management,2014-04-25,1,1
+MTG Management,2014-06-27,1,2
+MVAA,2013-03-04,1,1
+MVAA,2014-03-04,-1,0
+MWH Constructors,2013-10-08,1,1
+Maderone Ventures,2014-08-20,1,1
+Maderone Ventures,2015-08-20,-1,0
+Magellan Development Group,2013-12-20,1,1
+Magellan Development Group,2014-01-07,2,3
+Magic Carpet,2011-08-17,1,1
+Magic Carpet,2012-08-16,-1,0
+Magnolia Montessori for all,2013-12-20,1,1
+Magnolia Montessori for all,2014-01-07,2,3
+Magnolia Montessori for all,2014-01-16,1,4
+Majestic Realty,2013-12-20,1,1
+Majestic Realty,2014-01-07,1,2
+Majestic Realty,2015-01-06,1,3
+Makar Development - Waters Edge,2013-02-14,1,1
+Makar Development - Waters Edge,2015-08-01,-1,0
+Makar Properties,2013-12-20,1,1
+Makar Properties,2014-01-07,2,3
+Manchester Financial Group,2013-07-09,1,1
+Manchester Financial Group,2014-01-09,2,3
+Manchester Financial Group,2014-07-09,-1,2
+Manchester Financial Group,2014-08-29,1,3
+Manchester Financial Group,2015-07-15,1,4
+Manchester Financial Group,2015-12-21,-1,3
+Manoj Saxena,2014-12-23,1,1
+Manoj Saxena,2015-01-06,2,3
+Marc Knutsen Companies,2013-01-17,1,1
+Marc Knutsen Companies,2014-01-17,-1,0
+Marcus Whitfield,2014-04-25,1,1
+Marcus Whitfield,2015-06-27,1,2
+Mariposa Montessori,2014-10-09,1,1
+Mariposa Montessori,2015-01-12,1,2
+Mariposa Montessori,2015-11-07,1,3
+Mark Cathcart,2013-10-07,2,2
+Mark Cathcart,2015-10-15,-2,0
+Marval Property Investments,2014-03-31,1,1
+Marval Property Investments,2015-03-31,-1,0
+Marvin Petzolt,2013-07-23,1,1
+Marvin Petzolt,2014-07-23,-1,0
+Masterplan,2015-09-05,1,1
+Maund Automotive Group,2015-07-21,1,1
+McAdams Enterprises,2014-04-25,1,1
+McAdams Enterprises,2014-06-27,1,2
+"McCullough, Todd",2013-12-20,1,1
+"McCullough, Todd",2014-01-07,2,3
+McDonalds,2013-08-20,1,1
+"McGinnis, Michael J.",2013-02-14,1,1
+McKinstry,2015-06-13,1,1
+McShane Development,2013-10-01,1,1
+McShane Development,2013-10-08,1,2
+McShane Development,2014-10-01,-1,1
+Megabus Southwest,2014-10-09,1,1
+Megabus Southwest,2015-01-12,1,2
+Megabus Southwest,2015-11-07,1,3
+Meredith Family Revocable Trust,2013-12-20,1,1
+Meredith Family Revocable Trust,2014-01-07,2,3
+Meritage Homes of Texas,2014-01-08,1,1
+"Messier, David M.",2015-04-25,1,1
+Met Center,2013-01-03,4,4
+Met Center,2014-01-03,0,4
+Met Center,2014-03-31,2,6
+Met Center,2015-03-31,-1,5
+Met Center,2016-02-02,-1,4
+Michael Biter,2013-04-30,1,1
+Michael Biter,2014-04-30,-1,0
+Michael Young,2015-09-01,1,1
+"Middleton, David",2014-12-23,1,1
+"Middleton, David",2015-01-06,2,3
+"Mikhail, Sam",2014-08-20,1,1
+"Mikhail, Sam",2015-08-20,-1,0
+Milestone Community Builders,2013-07-16,1,1
+Milestone Community Builders,2013-10-01,1,2
+Milestone Community Builders,2014-03-31,1,3
+Milestone Community Builders,2014-07-16,-1,2
+Milestone Community Builders,2014-10-01,-1,1
+Milestone Community Builders,2015-08-01,1,2
+Mill Creek Residential Trust,2014-04-25,1,1
+Mill Creek Residential Trust,2014-06-27,1,2
+Miller Uniform,2014-08-20,1,1
+Miller Uniform,2015-08-20,-1,0
+"Miller, John Calhoun",2011-08-17,1,1
+"Miller, John Calhoun",2012-08-16,-1,0
+Minority Contractors Trade Association Alliance,2013-03-04,1,1
+Minority Contractors Trade Association Alliance,2014-03-04,-1,0
+Mission Homes,2013-04-29,1,1
+Mission Homes,2014-04-29,-1,0
+Mobile Loaves and Fishes,2014-01-09,1,1
+Mobile Loaves and Fishes,2016-01-12,-1,0
+Monocoque Diversified Interests,2011-08-17,1,1
+Monocoque Diversified Interests,2012-08-16,-1,0
+Montana Builders,2014-08-20,1,1
+Montana Builders,2015-08-20,-1,0
+Morgan Group,2013-01-10,1,1
+Morgan Group,2013-10-01,1,2
+Morgan Group,2014-01-10,-1,1
+Morgan Group,2014-10-01,-1,0
+"Moritz, Jim/Moritz Properties",2013-01-03,2,2
+"Moritz, Jim/Moritz Properties",2014-01-03,-2,0
+"Morrison, David",2013-04-30,1,1
+"Morrison, David",2015-08-20,-1,0
+"Moumouris, Lampros",2014-04-25,1,1
+"Moumouris, Lampros",2014-06-27,1,2
+Mr. Irish Properties,2015-07-21,1,1
+Mr. Tramps Bar and Tavern,2014-05-02,1,1
+Mr. Tramps Bar and Tavern,2015-05-02,-1,0
+Munsch Hardt Kopf and Harr,2013-03-07,1,1
+Munsch Hardt Kopf and Harr,2014-03-07,-1,0
+Munson Park,2013-01-03,2,2
+Munson Park,2014-01-03,-2,0
+Mustaquali Momin/Thaxton Properties,2014-03-31,1,1
+Mustaquali Momin/Thaxton Properties,2015-03-31,-1,0
+"Myers, B.J., DDS",2015-02-13,1,1
+NB 26 Properties,2014-03-31,1,1
+NEC Corportation of America,2014-06-09,1,1
+NRG Energy,2015-01-20,1,1
+"Nadeau, Sean",2011-08-17,1,1
+"Nadeau, Sean",2012-08-16,-1,0
+"Nassour, Jimmy",2015-09-01,1,1
+National Joint Powers Alliance,2012-09-28,1,1
+National Joint Powers Alliance,2013-09-28,-1,0
+National Works,2012-01-06,1,1
+National Works,2013-01-05,-1,0
+Neal Richards Group,2013-10-01,1,1
+Neal Richards Group,2013-10-08,1,2
+Neal Richards Group,2015-10-02,-1,1
+Neal Richards Group,2015-10-16,-1,0
+Neans Investments,2014-08-01,1,1
+"Nelsen, Brad",2013-12-20,1,1
+"Nelsen, Brad",2014-01-07,2,3
+New TPG Four Points,2013-01-03,2,2
+New TPG Four Points,2014-01-03,-2,0
+NextEra Energy Resources,2013-07-01,1,1
+NextEra Energy Resources,2014-07-01,-1,0
+Noble Savage Design/Build,2011-08-17,1,1
+Noble Savage Design/Build,2012-08-16,-1,0
+North American Title Group,2015-04-25,1,1
+North Austin MUD No. 1,2013-07-18,1,1
+North Austin MUD No. 1,2013-10-08,1,2
+North Austin MUD No. 1,2013-12-20,1,3
+North Austin MUD No. 1,2014-01-07,2,5
+North Austin MUD No. 1,2014-07-18,-1,4
+North Austin MUD No. 1,2015-12-23,-1,3
+North Austin Municipal Utility District No. 1,2014-12-23,1,1
+North I-35 Business Park,2014-03-31,1,1
+Northrop Grumman,2013-06-18,1,1
+Northtown MUD,2014-10-16,1,1
+Northwest Austin Civic Association,2011-08-17,1,1
+Northwest Austin Civic Association,2012-08-16,-1,0
+NuRock Development,2011-08-17,1,1
+NuRock Development,2012-08-16,-1,0
+"O'Hayer, Matthew",2015-06-27,1,1
+"OHL, USA",2012-10-22,1,1
+"OHL, USA",2013-10-22,-1,0
+OHL/Zachary,2012-10-22,1,1
+OHL/Zachary,2013-10-22,-1,0
+Oak Hill United Methodist Church,2011-08-17,1,1
+Oak Hill United Methodist Church,2012-08-16,-1,0
+Oden Hughes,2013-10-07,2,2
+Oden Hughes,2014-12-21,1,3
+Oden Hughes,2015-01-12,1,4
+Oden Hughes,2015-07-15,1,5
+Oden Hughes,2015-10-15,-1,4
+Oden Hughes,2016-01-12,-1,3
+Oliva's Tailor Shop,2011-08-17,1,1
+Oliva's Tailor Shop,2012-08-16,-1,0
+One World Theatre,2012-09-27,1,1
+One World Theatre,2012-10-19,1,2
+One World Theatre,2013-09-27,-1,1
+One World Theatre,2013-10-19,-1,0
+Onion Associates,2013-12-20,1,1
+Onion Associates,2014-01-07,2,3
+Onion Creek Club,2015-08-18,1,1
+Oportun,2015-07-21,1,1
+Oracle America,2013-06-18,1,1
+Oracle America,2015-12-24,1,2
+Orangestone Bluegrass,2013-12-20,1,1
+Orangestone Bluegrass,2014-01-07,2,3
+Osten Hall,2014-10-09,1,1
+Osten Hall,2015-01-12,1,2
+Osten Hall,2015-11-07,1,3
+Oxford Alliance Investments,2011-08-17,1,1
+Oxford Alliance Investments,2012-08-16,-1,0
+Oxford Alliance Investments,2014-04-25,1,1
+Oxford Alliance Investments,2014-06-27,1,2
+P and H Medical Solutions,2011-08-17,1,1
+P and H Medical Solutions,2012-08-16,-1,0
+P&S Investments I,2013-12-20,1,1
+P&S Investments I,2014-01-07,2,3
+PEC Pedernales Electric Cooperative,2014-02-03,1,1
+PEC Pedernales Electric Cooperative,2015-02-03,-1,0
+PK Jarvis,2015-07-21,1,1
+PPF AMLI Covered Bridge Drive,2014-03-31,1,1
+PRJ Development,2014-03-31,1,1
+PSW Real Estate,2014-05-02,1,1
+PSW Real Estate,2014-07-23,1,2
+PSW Real Estate,2015-07-23,-1,1
+Pacifica Host Hotels,2011-08-17,1,1
+Pacifica Host Hotels,2012-08-16,-1,0
+Pacifica Host Hotels,2014-04-25,1,1
+Pacifica Host Hotels,2014-06-27,1,2
+"Pacitti, Chris",2014-12-23,1,1
+"Pacitti, Chris",2015-01-06,2,3
+"Pahala Ventures, LLC dba Austin Emergency Center",2015-07-21,1,1
+Pasta and Company,2011-08-17,1,1
+Pasta and Company,2012-08-16,-1,0
+Patterson Properties,2014-05-02,1,1
+Patterson Properties,2015-05-02,-1,0
+Paz Doty,2014-04-25,1,1
+Paz Doty,2014-06-27,1,2
+Paz Doty,2015-04-25,-1,1
+Paz Doty,2015-06-27,-1,0
+Pearson Place at Avery Ranch,2013-02-14,1,1
+Pecan Street Association,2013-10-28,1,1
+Pecan Street Association,2015-01-12,1,2
+Pecan Street Association,2015-11-07,1,3
+Pegalo Properties,2014-10-09,1,1
+Pegalo Properties,2015-01-12,1,2
+Pegalo Properties,2015-11-07,1,3
+Permit Partners,2013-04-29,1,1
+Permit Partners,2014-04-29,-1,0
+Perry Estates,2013-10-07,2,2
+Perry Estates,2014-04-24,1,3
+Perry Estates,2015-10-15,-2,1
+Peter T. Martin and Kevin McNeil Martin and Martin Law,2011-08-17,1,1
+Peter T. Martin and Kevin McNeil Martin and Martin Law,2012-08-16,-1,0
+"Petty, Stephen",2010-06-24,1,1
+"Petty, Stephen",2011-06-24,-1,0
+Peyton Riley No. 3,2013-10-07,2,2
+Peyton Riley No. 3,2015-10-15,-2,0
+Pfizer,2016-02-05,1,1
+"Pinkston, Lica",2013-01-03,2,2
+"Pinkston, Lica",2014-01-03,1,3
+"Pinkston, Lica",2016-02-02,-1,2
+Pitney Bowes,2013-06-18,1,1
+Pitney Bowes,2015-06-09,-1,0
+Plaza Lofts,2014-04-25,1,1
+Plaza Lofts,2015-04-25,-1,0
+Pohl Partners,2014-03-10,1,1
+Pohl Partners,2015-03-10,-1,0
+Pohl Partners,2016-01-12,1,1
+Post Paggi,2013-07-09,1,1
+Post Paggi,2014-01-09,3,4
+Post Paggi,2014-07-09,-1,3
+Post Paggi,2015-01-09,-1,2
+Post Paggi,2016-01-12,-2,0
+PowerFin Texas Solar Projects,2015-01-12,1,1
+PowerFin Texas Solar Projects,2016-01-12,-1,0
+Powerfin Partners,2015-01-16,1,1
+Powerfin Partners,2015-01-20,1,2
+Premier Parking Enforcement,2015-04-24,1,1
+Premier Parking Enforcement,2015-06-27,1,2
+Presidio Pictures,2013-01-03,2,2
+Presidio Pictures,2014-01-03,-2,0
+Presidium Group,2013-10-07,1,1
+Presidium Group,2014-10-07,-1,0
+Preston General Contractors,2016-01-12,1,1
+Prevarian Hospital Partners,2011-08-17,1,1
+Prevarian Hospital Partners,2012-08-16,-1,0
+Prevarian Hospital Partners,2014-04-25,1,1
+Prevarian Hospital Partners,2014-06-27,1,2
+Prism,2015-01-06,1,1
+Prism,2016-01-06,-1,0
+Provident Realty Advisors,2015-01-08,1,1
+Provident Realty Advisors,2016-01-08,-1,0
+Public Citizen,2012-04-17,1,1
+Public Citizen,2013-04-17,-1,0
+Pulte Homes of Texas,2014-08-01,1,1
+Pyramis Global Advisors Holdings,2013-11-07,1,1
+Pyramis Global Advisors Holdings,2015-02-19,-1,0
+Qualico,2013-12-20,1,1
+Qualico,2014-01-07,2,3
+Quest Tower View,2014-03-31,1,1
+R and R Limousine and Bus,2013-06-28,1,1
+R and R Limousine and Bus,2014-06-28,-1,0
+RDE Assets,2015-07-21,1,1
+REIT Management and Research,2013-12-20,1,1
+REIT Management and Research,2014-01-07,2,3
+REIT Management and Research,2014-01-16,1,4
+REIT Management and Research,2015-01-16,-1,3
+RFD and Associates,2014-06-09,1,1
+RFD and Associates,2015-06-09,-1,0
+RIP Esselsttyn,2013-04-29,1,1
+RIP Esselsttyn,2014-04-29,-1,0
+RJMadden,2014-10-09,1,1
+RJMadden,2015-01-12,1,2
+RJMadden,2015-11-07,1,3
+RKS Texas Investments,2013-07-18,1,1
+RKS Texas Investments,2013-09-05,1,2
+ROI Entertainment,2014-01-09,1,1
+ROI Entertainment,2015-01-09,-1,0
+Radec Management,2011-08-17,1,1
+Radec Management,2012-08-16,-1,0
+Radec Management,2014-04-25,1,1
+Radec Management,2014-06-27,1,2
+Radisson Hotel,2013-12-20,1,1
+Radisson Hotel,2014-01-07,2,3
+Radisson Hotel,2014-01-16,1,4
+"Radtke, Lorin",2014-07-09,1,1
+"Radtke, Lorin",2015-01-12,1,2
+"Radtke, Lorin",2016-01-12,-1,1
+Rancho Garza,2012-09-27,1,1
+Rancho Garza,2012-10-19,1,2
+Rancho Garza,2013-09-27,-1,1
+Rancho Garza,2013-10-19,-1,0
+Randy Wilson,2013-12-20,1,1
+Randy Wilson,2014-01-07,2,3
+Ranger Excavating,2014-03-13,1,1
+Rathgeber Investment Co.,2015-01-13,1,1
+Rathgeber Investment Co.,2016-01-13,-1,0
+Reagan National Advertising,2011-08-17,1,1
+Reagan National Advertising,2012-08-16,-1,0
+Reagan National Advertising,2013-10-01,1,1
+Reagan National Advertising,2014-04-25,1,2
+Reagan National Advertising,2014-06-27,1,3
+Reagan National Advertising,2014-10-01,-1,2
+Reagan National Advertising,2015-01-08,1,3
+Reagan National Advertising,2015-09-29,3,6
+Reagan National Advertising,2016-01-08,-1,5
+Recurrent Energy,2015-04-24,1,1
+Recurrent Energy,2015-06-27,1,2
+Red Bluff Partners,2014-09-04,1,1
+Red Bluff Partners,2015-09-04,-1,0
+Red Stone Construction,2015-06-13,1,1
+RedLeaf Properties,2012-03-09,1,1
+RedLeaf Properties,2013-03-09,-1,0
+RedLeaf Properties,2013-04-29,1,1
+RedLeaf Properties,2014-04-24,1,2
+RedLeaf Properties,2014-04-29,-1,1
+RedLeaf Properties,2016-01-09,1,2
+Redflex Traffic Systems,2013-03-21,1,1
+Redflex Traffic Systems,2014-03-21,-1,0
+Redflex Traffic Systems,2014-04-21,1,1
+Redflex Traffic Systems,2015-04-21,-1,0
+Regents School of Austin,2013-01-10,1,1
+Regents School of Austin,2013-10-01,1,2
+Regents School of Austin,2014-01-10,-1,1
+Regents School of Austin,2015-10-02,-1,0
+Republic Services,2014-02-03,1,1
+Republic Services,2016-01-29,-1,0
+Republic Services of Austin,2014-01-09,1,1
+Republic Services of Austin,2014-07-09,1,2
+Republic Services of Austin,2014-08-29,1,3
+Republic Services of Austin,2015-01-12,2,5
+Republic Services of Austin,2015-07-09,-1,4
+Republic Services of Austin,2015-08-29,-1,3
+Republic Services of Austin,2016-01-12,-3,0
+Republic Services of Austin,2016-02-23,1,1
+"Rice, Robert",2013-12-20,1,1
+"Rice, Robert",2014-01-07,2,3
+Richard Hardin,2013-02-14,1,1
+Richard Hardin,2015-08-01,-1,0
+Rick Sheldon Real Estate,2014-03-31,1,1
+Riddell Family,2013-12-20,1,1
+Riddell Family,2014-01-07,2,3
+Rio Equity,2015-07-21,1,1
+Rip Miller,2014-01-09,1,1
+Rip Miller,2015-01-09,-1,0
+River Place Municipal Utility District,2013-07-01,1,1
+River Place Municipal Utility District,2014-07-01,-1,0
+Riverside Homes/Scott Turner,2014-03-31,1,1
+"Riverside Resources Investments, Limited",2011-08-17,1,1
+"Riverside Resources Investments, Limited",2012-08-16,-1,0
+"Riverside Resources Investments, Limited",2013-01-03,2,2
+"Riverside Resources Investments, Limited",2013-12-20,1,3
+"Riverside Resources Investments, Limited",2014-01-03,0,3
+"Riverside Resources Investments, Limited",2014-01-07,2,5
+"Riverside Resources Investments, Limited",2014-04-25,1,6
+"Riverside Resources Investments, Limited",2014-06-27,1,7
+"Riverside Resources Investments, Limited",2015-01-20,1,8
+"Riverside Resources Investments, Limited",2016-01-13,-1,7
+Rob Roy Homeowners Association,2011-08-17,1,1
+Rob Roy Homeowners Association,2012-08-16,-1,0
+Rob Roy Homeowners Association,2013-09-05,1,1
+Rob Roy Homeowners Association,2014-09-05,-1,0
+"Robbins, Freddie H.",2013-01-03,2,2
+"Robbins, Freddie H.",2014-01-03,-2,0
+"Robbins, Stuart B.",2010-06-24,1,1
+"Robbins, Stuart B.",2011-06-24,-1,0
+"Robbins, Stuart B.",2013-01-03,2,2
+"Robbins, Stuart B.",2014-01-03,-2,0
+Robert Ehrlich,2011-08-17,2,2
+Robert Ehrlich,2012-08-16,-2,0
+Robert H. Theriot,2011-05-10,2,2
+Robert H. Theriot,2012-05-09,-2,0
+Robert P. Wills,2015-04-25,1,1
+Robert Rock,2014-04-25,1,1
+Robert Rock,2015-04-25,-1,0
+Robert Ross,2011-08-17,2,2
+Robert Ross,2012-08-16,-2,0
+Robert Schmidt,2013-12-20,1,1
+Robert Schmidt,2014-01-07,2,3
+Robert Turner,2015-03-24,1,1
+Robert Turner,2015-07-21,1,2
+Robert Turner,2015-09-12,1,3
+Roberts Resorts,2015-06-27,1,1
+Robinson Ranch,2013-12-20,1,1
+Robinson Ranch,2014-01-07,2,3
+Robinson Ranch,2014-01-16,1,4
+Robinson Ranch,2016-01-06,-1,3
+"Rodriguez, Robert A.",2013-01-03,2,2
+"Rodriguez, Robert A.",2014-01-03,1,3
+"Rodriguez, Robert A.",2016-02-02,-1,2
+Ron White Garza Estate,2015-01-28,1,1
+Ron White Garza Estate,2016-01-28,-1,0
+Round Rock ISD,2015-01-13,1,1
+Round Rock ISD,2016-01-13,-1,0
+Roy Cavanaugh,2013-09-05,1,1
+Roy Cavanaugh,2014-09-05,-1,0
+Roy Cavanaugh,2015-01-12,2,2
+Roy Cavanaugh,2015-08-18,1,3
+Roy Cavanaugh,2016-01-12,-2,1
+Russell's Bakery,2011-08-17,1,1
+Russell's Bakery,2012-08-16,-1,0
+Russell's Bistro,2011-08-17,1,1
+Russell's Bistro,2012-08-16,-1,0
+Ryan Companies,2014-04-24,2,2
+Ryan Companies,2014-12-23,1,3
+Ryan Companies,2015-01-06,2,5
+Ryan Companies,2015-04-24,-1,4
+Ryan Street and Associates,2013-12-20,1,1
+Ryan Street and Associates,2014-01-07,2,3
+S.H. 130-71 Holdings,2015-10-06,1,1
+S.H. 130-71 Holdings,2016-01-09,1,2
+SC Lantana Investors,2013-07-18,1,1
+SC Lantana Investors,2013-09-05,1,2
+SC Lantana Investors,2014-07-18,-1,1
+SC Lantana Investors,2014-09-05,-1,0
+SELTEX,2014-04-24,1,1
+SFSV Hill,2014-03-31,1,1
+SFSV Hill,2015-03-31,-1,0
+SNAP Set,2014-08-20,1,1
+SNAP Set,2015-08-20,-1,0
+SXSW,2013-01-03,2,2
+SXSW,2014-01-03,2,4
+SXSW,2016-02-02,-1,3
+Sackmann Enterprises,2013-10-07,2,2
+Sackmann Enterprises,2014-07-01,1,3
+Sackmann Enterprises,2015-04-25,1,4
+Sackmann Enterprises,2015-07-01,-1,3
+Sackmann Enterprises,2015-10-15,-2,1
+Safeway,2013-12-20,1,1
+Safeway,2014-01-07,2,3
+Sage South Shore,2013-01-10,1,1
+Sage South Shore,2013-10-01,1,2
+Sage South Shore,2014-01-10,-1,1
+Sage South Shore,2014-10-01,-1,0
+Saint Edward's University,2011-08-17,1,1
+Saint Edward's University,2012-08-16,-1,0
+Saint Edward's University,2013-01-03,2,2
+Saint Edward's University,2014-01-03,-2,0
+Saleem Tawill,2014-04-25,1,1
+Saleem Tawill,2015-04-25,-1,0
+Sam Kumar 9th and Red River,2014-08-20,1,1
+Sam Kumar 9th and Red River,2015-08-20,-1,0
+Samsung,2014-10-16,2,2
+Samsung,2015-10-16,-1,1
+Sandstone Ventures,2014-04-25,1,1
+Sandstone Ventures,2014-06-27,1,2
+Save Austin,2013-03-04,1,1
+Save Austin,2014-03-04,-1,0
+Save Our Springs Alliance,2014-06-01,1,1
+Save Our Springs Alliance,2016-01-26,-1,0
+Sawtooth Development Group,2013-10-01,1,1
+Sawtooth Development Group,2014-10-01,-1,0
+Scarbrough Ventures,2013-01-03,2,2
+Scarbrough Ventures,2014-01-03,-1,1
+Scarbrough Ventures,2015-01-03,-1,0
+Scenic Austin,2015-10-15,1,1
+Scenic Austin,2015-11-07,1,2
+Scenic Austin,2016-01-12,1,3
+"Scenic Austin, a Chapter of Scenic Texas",2016-01-16,1,1
+Schlosser Development,2014-04-29,1,1
+"Schriber, Michael",2010-06-24,1,1
+"Schriber, Michael",2011-06-24,-1,0
+Schwab,2015-10-06,1,1
+Scot Van Den Berg,2013-04-29,1,1
+Scot Van Den Berg,2014-04-29,-1,0
+Scotia Western States Housing,2013-07-16,1,1
+Scotia Western States Housing,2014-07-16,-1,0
+Scott Airport Property,2014-01-13,1,1
+Scott Airport Property,2016-01-09,-1,0
+Scott Sayers,2013-12-20,1,1
+Scott Sayers,2014-01-07,2,3
+"Scott, John",2014-12-23,1,1
+"Scott, John",2015-01-06,2,3
+Seaman Development,2015-07-21,1,1
+"Second Congress, Limited",2011-08-17,1,1
+"Second Congress, Limited",2012-08-16,-1,0
+Senior Quality Lifestyles,2014-07-09,1,1
+Senior Quality Lifestyles,2014-08-29,1,2
+Senior Quality Lifestyles,2015-01-12,3,5
+Senior Quality Lifestyles,2015-07-09,-1,4
+Senior Quality Lifestyles,2015-08-29,-1,3
+Senior Quality Lifestyles,2016-01-12,-3,0
+Seton Healthcare,2012-07-05,4,4
+Seton Healthcare,2013-04-29,1,5
+Seton Healthcare,2013-07-05,-4,1
+Seton Healthcare,2013-12-20,1,2
+Seton Healthcare,2014-01-07,2,4
+Seton Healthcare,2014-01-16,1,5
+Seton Healthcare,2014-04-29,-1,4
+Seton Healthcare,2015-05-16,3,7
+Seton Healthcare,2015-10-23,1,8
+Shady Hollow MUD,2013-07-01,1,1
+Shady Hollow MUD,2014-07-01,-1,0
+"Shapiro, Bobby and Jim",2013-12-20,1,1
+"Shapiro, Bobby and Jim",2014-01-07,2,3
+Sheahan Business Center,2014-03-31,1,1
+Sheffield Partners,2013-02-14,1,1
+Sheffield Partners,2015-08-01,-1,0
+Shirley Vega,2014-08-20,1,1
+Shirley Vega,2015-08-20,-1,0
+Shoal Creek Saloon,2011-08-17,1,1
+Shoal Creek Saloon,2012-08-16,-1,0
+Shoreline Christian Center,2011-05-10,1,1
+Shoreline Christian Center,2012-05-09,-1,0
+"Sifuentes, Marina",2015-03-24,1,1
+Simmons Vedder Partners,2014-01-09,2,2
+Simmons Vedder Partners,2014-08-01,1,3
+Simmons Vedder Partners,2015-01-09,-1,2
+Simmons Vedder Partners,2016-01-12,-1,1
+Simon Property Group,2013-10-08,1,1
+Simon Property Group,2014-01-09,2,3
+Simon Property Group,2014-01-16,1,4
+Simon Property Group,2014-10-08,-1,3
+Simon Property Group,2014-12-23,1,4
+Simon Property Group,2015-01-06,2,6
+Simon Property Group,2015-01-09,-1,5
+Simon Property Group,2016-01-12,-1,4
+Skanska,2013-10-08,1,1
+Skanska,2014-10-08,-1,0
+"Skelton, Karen, Texas Realty Partners",2015-02-13,1,1
+Ski Shores Properties,2015-07-21,1,1
+Snappy Snacks Mobile Catering,2013-03-04,1,1
+Snappy Snacks Mobile Catering,2014-03-04,-1,0
+Sohil Momin,2014-04-25,1,1
+Sohil Momin,2014-06-27,1,2
+Solair Direct,2013-10-08,1,1
+Solair Direct,2014-10-08,-1,0
+Solar Austin Foundation,2012-01-19,1,1
+Solar Austin Foundation,2013-01-18,-1,0
+SolarCity,2014-05-02,1,1
+Songhai Ventures,2014-01-09,1,1
+Songhai Ventures,2015-12-21,-1,0
+Sophie Wiman,2011-08-17,2,2
+Sophie Wiman,2012-08-16,-2,0
+South Austin Interests,2015-07-21,1,1
+South IH-35 Investors,2013-01-03,2,2
+South IH-35 Investors,2014-01-03,1,3
+South IH-35 Investors,2016-02-02,-1,2
+South Llano Strategies,2014-05-02,1,1
+South Llano Strategies,2015-05-02,-1,0
+South River City Citizens Associations,2014-04-25,1,1
+South River City Citizens Associations,2015-06-27,1,2
+Southern Company,2014-01-16,1,1
+Southside Wrecker,2013-10-08,1,1
+Southside Wrecker,2015-10-16,-1,0
+Southwest Key/ East Austin College Prep Academy,2013-03-04,1,1
+Southwest Key/ East Austin College Prep Academy,2014-03-04,-1,0
+Southwest Parkway Partners,2013-01-03,2,2
+Southwest Parkway Partners,2014-01-03,-2,0
+Southwest Securities,2013-10-08,1,1
+Southwest Securities,2014-10-08,-1,0
+Southwest Strategies Group,2014-02-03,1,1
+Southwest Strategies Group,2016-01-29,-1,0
+Spansion,2014-10-16,1,1
+Spansion,2015-10-16,-1,0
+Speakeasy,2013-12-20,1,1
+Speakeasy,2014-01-07,2,3
+Spear Street Capital,2014-01-09,1,1
+Spear Street Capital,2016-01-12,-1,0
+Speedy Cash,2015-07-21,1,1
+Speedy Stop,2013-12-20,1,1
+Speedy Stop,2014-01-07,2,3
+Spire Realty,2014-05-04,1,1
+Spire Realty,2014-07-09,1,2
+Spire Realty,2014-08-29,1,3
+Spire Realty,2014-12-21,1,4
+Spire Realty,2015-01-12,3,7
+Spire Realty,2015-05-04,-1,6
+Spire Realty,2015-07-09,-1,5
+Spire Realty,2015-12-21,-1,4
+Spire Realty,2016-01-05,1,5
+Spire Realty,2016-01-12,-3,2
+Sportsman's Barbershop,2011-08-17,1,1
+Sportsman's Barbershop,2012-08-16,-1,0
+Springdale Farms,2014-10-02,1,1
+Springdale Farms,2015-01-08,1,2
+Springdale Farms,2016-01-08,-1,1
+Spurs Sports and Entertainment,2012-10-22,1,1
+Spurs Sports and Entertainment,2013-10-22,-1,0
+St. Andrew's Episcopal School,2013-12-20,1,1
+St. Andrew's Episcopal School,2014-01-07,2,3
+St. Catherine of Siena,2015-01-08,1,1
+St. David's Foundation,2013-01-03,4,4
+St. David's Foundation,2013-07-16,1,5
+St. David's Foundation,2014-01-03,-3,2
+St. David's Foundation,2014-07-16,-1,1
+St. Mark's Episcopal Church,2015-01-12,1,1
+St. Mark's Episcopal Church,2016-01-12,-1,0
+St. Michael's Episcopal Church,2013-10-01,1,1
+St. Michael's Episcopal Church,2014-10-01,-1,0
+Stahl Bernal and Davies,2010-06-24,1,1
+Stahl Bernal and Davies,2011-06-24,-1,0
+Standard Pacific of Texas,2013-10-01,1,1
+Standard Pacific of Texas,2015-10-02,-1,0
+Starwood Capital Group,2014-01-09,1,1
+Starwood Capital Group,2016-01-12,-1,0
+Stephen Melchiode,2014-04-25,1,1
+Stephen Melchiode,2014-06-27,1,2
+Stephen Melchiode,2015-04-25,-1,1
+Stephen Melchiode,2015-06-27,-1,0
+Steve Greenberg,2011-08-17,1,1
+Steve Greenberg,2012-08-16,-1,0
+Steve Greenberg,2014-04-25,1,1
+Steve Greenberg,2014-06-27,1,2
+Steve Pagura,2015-10-06,1,1
+Steve Pagura,2016-01-09,1,2
+Steve and Michelle Turnquist,2013-09-05,1,1
+Steve and Michelle Turnquist,2014-09-05,-1,0
+Stoltz Management,2014-07-09,1,1
+Stone Systems of Central Texas,2015-04-25,1,1
+Stonelake Capital Partners,2013-10-01,1,1
+Stonelake Capital Partners,2014-10-01,-1,0
+Stratagem Development.,2013-01-03,2,2
+Stratagem Development.,2014-01-03,-2,0
+Strategic Partnerships,2012-04-16,1,1
+Strategic Partnerships,2013-04-16,-1,0
+Strategic Partnerships,2013-04-29,1,1
+Strategic Partnerships,2015-06-25,-1,0
+Stratus Properties,2014-01-03,1,1
+Stratus Properties,2014-01-09,2,3
+Stratus Properties,2014-02-03,1,4
+Stratus Properties,2014-08-29,1,5
+Stratus Properties,2015-08-29,-1,4
+Stratus Properties,2016-01-12,-2,2
+"Straughan, George",2015-01-20,1,1
+Stream Realty,2013-12-20,1,1
+Stream Realty,2014-01-07,2,3
+Streamline Commercial Contractors,2014-08-20,1,1
+Streamline Commercial Contractors,2015-08-20,-1,0
+Street Lights Residential,2013-10-01,1,1
+Street Lights Residential,2014-10-09,1,2
+Street Lights Residential,2015-01-12,1,3
+Street Lights Residential,2015-10-02,-1,2
+Street Lights Residential,2015-11-07,1,3
+Stuart Thomajan,2014-04-25,1,1
+Stuart Thomajan,2014-06-27,1,2
+Stuart Thomajan,2015-04-25,-1,1
+Stuart Thomajan,2015-06-27,-1,0
+Stubb's Austin Restaurant Company,2013-12-20,1,1
+Stubb's Austin Restaurant Company,2014-01-07,2,3
+"Stutzman, Bromberg, Esserman and Plifka",2013-10-01,1,1
+"Stutzman, Bromberg, Esserman and Plifka",2014-10-01,-1,0
+Subway,2011-08-17,1,1
+Subway,2012-08-16,-1,0
+"Success Foods Management, LLC/DBA Torcy's Tacos",2014-12-23,1,1
+"Success Foods Management, LLC/DBA Torcy's Tacos",2015-01-06,2,3
+"Success Foods Management, LLC/DBA Torcy's Tacos",2015-01-29,1,4
+Sutton Company,2013-10-01,1,1
+Suzanne Snyder,2014-08-01,1,1
+Synagro-WWT,2014-04-25,1,1
+Synagro-WWT,2015-06-27,1,2
+TCAS Global Investments,2015-08-01,1,1
+TCMUD #4,2014-01-09,1,1
+TCMUD #4,2015-01-09,-1,0
+TR Vista Preserve,2013-12-20,1,1
+TR Vista Preserve,2014-01-07,2,3
+TRC Solutions,2013-03-04,1,1
+TRC Solutions,2014-03-04,-1,0
+TRT Holdings,2014-01-16,1,1
+TX RR620 Apartments,2014-04-25,1,1
+Tabernacle Apostolic Church,2014-08-20,1,1
+Tabernacle Apostolic Church,2015-08-20,-1,0
+Tacala dba Taco Bell,2013-08-20,1,1
+Tan Min Ho,2014-03-31,1,1
+Tan Min Ho,2015-03-31,-1,0
+Tanglewood Forest Limited District,2013-12-20,1,1
+Tanglewood Forest Limited District,2014-01-07,2,3
+Tantallon Austin Hotel,2014-01-03,3,3
+Tantallon Austin Hotel,2016-01-05,1,4
+Tantallon Austin Hotel,2016-02-02,-1,3
+Taurus of Texas GP,2013-10-01,1,1
+Taurus of Texas GP,2015-10-23,1,2
+Taurus of Texas GP,2016-01-09,1,3
+"Tawill, Saleem",2015-04-25,1,1
+Taylor Morrison,2013-12-20,1,1
+Taylor Morrison,2015-01-06,2,3
+Taylor Morrison of Texas,2013-01-03,2,2
+Taylor Morrison of Texas,2014-01-03,-1,1
+Taylor Morrison of Texas,2014-01-07,2,3
+Taylor Morrison of Texas,2016-01-06,-2,1
+Taylor Morrison of Texas,2016-01-13,-1,0
+Taylor Woodrow Communities/Steiner Ranch,2014-04-25,1,1
+Taylor Woodrow Communities/Steiner Ranch,2014-06-27,1,2
+Taylor Woodrow Communities/Steiner Ranch,2015-04-25,-1,1
+Taylor Woodrow Communities/Steiner Ranch,2015-06-27,-1,0
+Techridge Spectrum B.C.,2013-10-07,2,2
+Techridge Spectrum B.C.,2015-10-15,-1,1
+Televending,2014-04-25,1,1
+Televending,2014-06-27,1,2
+Televending,2014-08-20,1,3
+Televending,2015-08-20,-1,2
+Terrell Gates,2014-10-09,1,1
+Terrell Gates,2015-01-12,1,2
+Terrell Gates,2015-11-07,1,3
+Terry Laney,2014-08-20,1,1
+Terry Laney,2015-08-20,-1,0
+Terry Mathney,2015-07-21,1,1
+Texas 1836 -- EB5,2014-01-16,1,1
+Texas 1836 -- EB5,2015-01-16,-1,0
+Texas Aggregates and Concrete Association,2014-12-17,1,1
+Texas Aggregates and Concrete Association,2015-03-26,1,2
+Texas Association of Counties Risk Management Pool,2015-09-01,1,1
+Texas Bar and Nightclub Alliance,2013-10-01,1,1
+Texas Bar and Nightclub Alliance,2014-10-01,-1,0
+Texas Capital Bank,2011-08-17,1,1
+Texas Capital Bank,2012-08-16,-1,0
+Texas Capital Bank,2014-04-25,1,1
+Texas Capital Bank,2014-06-27,1,2
+Texas Construction,2014-08-20,1,1
+Texas Construction,2015-08-20,-1,0
+Texas Disposal Systems,2013-01-04,1,1
+Texas Disposal Systems,2013-12-20,1,2
+Texas Disposal Systems,2014-01-03,1,3
+Texas Disposal Systems,2014-01-04,-1,2
+Texas Disposal Systems,2014-01-07,2,4
+Texas Disposal Systems,2014-01-08,1,5
+Texas Research International,2013-10-07,2,2
+Texas Research International,2015-10-15,-1,1
+Texas Retailers Association,2012-01-12,1,1
+Texas Retailers Association,2013-01-11,-1,0
+Texas Special Events Alliance,2013-10-08,1,1
+Texas Special Events Alliance,2014-10-08,-1,0
+Texas Star Brands,2013-02-14,1,1
+The Brohn Group,2013-07-18,1,1
+The Brohn Group,2013-09-05,1,2
+The Brohn Group,2013-12-20,1,3
+The Brohn Group,2014-01-07,2,5
+The Brohn Group,2014-07-18,-1,4
+The Brohn Group,2015-08-01,1,5
+The Brohn Group,2015-09-04,-1,4
+The Charter School Fund,2013-12-20,1,1
+The Charter School Fund,2014-01-07,2,3
+The City School,2014-08-01,1,1
+The Dinerstein Companies,2013-01-10,1,1
+The Dinerstein Companies,2013-10-01,1,2
+The Dinerstein Companies,2014-01-10,-1,1
+The Dinerstein Companies,2015-01-08,1,2
+The Dinerstein Companies,2015-10-02,-1,1
+The Dinerstein Companies,2016-01-08,-1,0
+The Dovetail Companies,2013-12-20,1,1
+The Dovetail Companies,2014-01-07,2,3
+The First Tee Greater Austin,2014-09-25,1,1
+The First Tee Greater Austin,2014-10-02,1,2
+The First Tee Greater Austin,2015-09-25,-1,1
+The First Tee Greater Austin,2015-10-02,-1,0
+The Gottesman Company,2013-12-20,1,1
+The Gottesman Company,2014-01-07,2,3
+The Gottesman Company,2016-01-06,-1,2
+The Greystone Group,2014-04-25,1,1
+The Greystone Group,2014-06-27,1,2
+The Greystone Group,2015-04-25,-1,1
+The Greystone Group,2015-06-27,-1,0
+The Hanover Company,2014-10-02,1,1
+The Hanover Company,2015-01-08,1,2
+The Hanover Company,2016-01-08,-1,1
+The Kucera Companies,2013-12-20,1,1
+The Kucera Companies,2014-01-07,2,3
+The Menagerie,2011-08-17,1,1
+The Menagerie,2012-08-16,-1,0
+The Mulholland Group,2013-03-04,1,1
+The Mulholland Group,2014-03-04,-1,0
+The Muskin Company,2013-01-03,2,2
+The Muskin Company,2014-01-03,-2,0
+The NRP Group,2013-12-20,1,1
+The NRP Group,2014-01-07,2,3
+The NRP Group,2014-04-25,1,4
+The NRP Group,2014-06-27,1,5
+The NRP Group,2015-10-15,1,6
+The NRP Group,2015-11-07,1,7
+The NRP Group,2016-01-16,1,8
+The Park at Travis Country COA,2014-04-25,1,1
+The Park at Travis Country COA,2014-06-27,1,2
+The RK Group,2011-05-10,1,1
+The RK Group,2012-05-09,-1,0
+"The Real Estate Council of Austin, Inc.",2012-03-05,1,1
+"The Real Estate Council of Austin, Inc.",2013-03-05,-1,0
+"The Real Estate Council of Austin, Inc.",2014-01-31,2,2
+"The Real Estate Council of Austin, Inc.",2014-12-11,1,3
+"The Real Estate Council of Austin, Inc.",2015-01-31,-2,1
+"The Real Estate Council of Austin, Inc.",2015-12-11,-1,0
+The Samuel Group Architects,2011-08-17,1,1
+The Samuel Group Architects,2012-08-16,-1,0
+The Stratford Company,2013-01-10,1,1
+The Stratford Company,2013-10-01,1,2
+The Stratford Company,2014-01-10,-1,1
+The Stratford Company,2014-08-01,1,2
+The Stratford Company,2015-01-08,1,3
+The University of Texas System,2013-12-20,1,1
+The University of Texas System,2014-01-07,2,3
+The University of Texas System,2015-02-02,3,6
+The University of Texas System,2016-02-02,-1,5
+Thinkery,2014-04-24,1,1
+Thomas Southwest,2013-02-14,1,1
+Tierra Concepts,2013-12-20,1,1
+Tierra Concepts,2014-01-07,2,3
+Titan Capital Investment Group,2014-01-16,1,1
+Tokyo Electron America,2013-10-08,1,1
+Tokyo Electron America,2014-10-08,-1,0
+Tokyo Electron America,2015-10-23,1,1
+Tomlinson's Feed and Pets,2014-03-31,1,1
+Tomlinson's Feed and Pets,2015-03-31,-1,0
+Torchy's Tacos,2015-10-23,1,1
+Toria and Blake English,2014-08-01,1,1
+Total Wine and More,2014-12-23,1,1
+Total Wine and More,2015-01-06,2,3
+Trail Foundation,2014-04-24,1,1
+Trammell Crow Company,2013-03-04,1,1
+Trammell Crow Company,2014-03-04,-1,0
+Trammell Crow Company,2014-12-23,1,1
+Trammell Crow Company,2015-01-06,2,3
+Transmission Events,2015-01-29,1,1
+Transmission Events,2016-01-29,-1,0
+Transwestern Commercial,2014-01-09,2,2
+Transwestern Commercial,2014-07-09,1,3
+Transwestern Commercial,2014-08-29,1,4
+Transwestern Commercial,2015-08-29,-1,3
+Transwestern Commercial,2015-12-21,-1,2
+Travis County Emergency Services District No. 11,2013-08-15,1,1
+Travis County Emergency Services District No. 11,2014-08-15,-1,0
+Travis Entitlements,2010-12-16,1,1
+Travis Entitlements,2011-12-16,-1,0
+Travis Hotel Group,2014-04-25,1,1
+Travis Hotel Group,2014-06-27,1,2
+Treaty Oak Bank,2013-01-03,2,2
+Treaty Oak Bank,2014-01-03,-2,0
+Tri Recycling,2011-08-17,1,1
+Tri Recycling,2012-08-16,-1,0
+Trilogy Enterprises,2011-08-17,1,1
+Trilogy Enterprises,2012-08-16,-1,0
+Trilogy Enterprises,2014-04-25,1,1
+Trilogy Enterprises,2014-06-27,1,2
+Trinity Insurance Group,2014-03-13,1,1
+Trinsic Residential Group,2013-07-09,1,1
+Trinsic Residential Group,2014-01-09,1,2
+Trinsic Residential Group,2014-05-04,1,3
+Trinsic Residential Group,2015-01-09,-1,2
+Trinsic Residential Group,2015-07-09,-1,1
+Trinsic Residential Group,2016-01-12,-1,0
+Triton Receivership,2013-03-07,1,1
+Triton Receivership,2014-03-07,-1,0
+Troublemaker Studios,2013-01-03,2,2
+Troublemaker Studios,2014-01-03,1,3
+Troublemaker Studios,2016-02-02,-1,2
+Trudy's Texas Star,2013-12-20,1,1
+Trudy's Texas Star,2014-01-07,2,3
+"Turner, Ben",2013-01-03,2,2
+"Turner, Ben",2014-01-03,-2,0
+Turnkey Cap. Group,2014-08-20,1,1
+Turnkey Cap. Group,2015-08-20,-1,0
+Twelve Lakes,2015-02-02,1,1
+Twelve Lakes,2016-01-05,1,2
+Twelve Lakes,2016-01-13,2,4
+Twelve Lakes,2016-02-02,-1,3
+Twin Liquors,2014-03-31,1,1
+Twin Oaks Associates,2012-01-17,1,1
+Twin Oaks Associates,2013-01-03,2,3
+Twin Oaks Associates,2013-01-16,-1,2
+Twin Oaks Associates,2014-01-03,1,3
+Twin Oaks Associates,2016-02-02,-1,2
+"Tynberg, Alex and Elisabeth",2013-01-03,2,2
+"Tynberg, Alex and Elisabeth",2014-01-03,-2,0
+U.S. Hispanic Contractors Association,2013-03-04,1,1
+U.S. Hispanic Contractors Association,2014-03-04,-1,0
+UMLAUF Sculpture Gardens and Museum,2014-03-10,1,1
+UMLAUF Sculpture Gardens and Museum,2015-03-10,-1,0
+UMLAUF Sculpture Gardens and Museum,2016-01-12,1,1
+URSTCO GP,2013-01-03,2,2
+URSTCO GP,2014-01-03,-2,0
+Uber Technologies,2013-09-12,1,1
+Uber Technologies,2014-05-15,2,3
+Uber Technologies,2015-05-08,-1,2
+Uber Technologies,2015-05-15,-1,1
+Uber Technologies,2016-02-27,1,2
+UniSite,2014-04-29,1,1
+United Cab,2012-01-07,2,2
+United Cab,2013-01-06,-2,0
+United Road Towing dba UR Vehicle Management Solutions,2014-06-09,2,2
+Universal Health Services,2011-05-10,1,1
+Universal Health Services,2012-05-09,-1,0
+Urban Outfitters,2013-12-20,1,1
+Urban Outfitters,2014-01-07,2,3
+V and S Enterprises,2010-06-24,1,1
+V and S Enterprises,2011-06-24,-1,0
+V and S Enterprises,2011-08-17,1,1
+V and S Enterprises,2012-08-16,-1,0
+V and S Enterprises,2014-04-25,1,1
+V and S Enterprises,2014-06-27,1,2
+VIA Motors,2011-04-14,1,1
+VIA Motors,2012-04-13,-1,0
+Vargas Properties I,2014-03-31,1,1
+Velocity Park I,2014-08-01,1,1
+Verbena Design Studio,2011-08-17,1,1
+Verbena Design Studio,2012-08-16,-1,0
+Versa Development,2010-06-24,1,1
+Versa Development,2011-06-24,-1,0
+Versa Development,2011-08-17,1,1
+Versa Development,2012-08-16,-1,0
+Versa Development,2014-04-25,1,1
+Versa Development,2014-06-27,1,2
+Vert Cab,2015-05-19,1,1
+Vijay Patel,2014-03-31,1,1
+Vineyard Management,2013-09-05,1,1
+Vineyard Management,2014-09-05,-1,0
+Vinson Radke Investments,2014-08-01,1,1
+Vista Property Company,2014-01-09,1,1
+Vista Property Company,2015-01-09,-1,0
+Vivo Hospitality,2013-12-20,1,1
+Vivo Hospitality,2014-01-07,2,3
+W and G Partnership,2013-12-20,1,1
+W and G Partnership,2014-01-07,2,3
+WEHBE Properties,2013-04-30,1,1
+WEHBE Properties,2015-08-20,-1,0
+WJP Swede Hill,2015-02-02,2,2
+WJP Swede Hill,2016-01-13,1,3
+WJP Swede Hill,2016-02-02,-1,2
+WLP Architect Bill Perkins,2014-08-20,1,1
+WLP Architect Bill Perkins,2015-08-20,-1,0
+Wagwater Partners,2014-03-31,1,1
+Wal-Mart,2011-04-21,1,1
+Wal-Mart,2012-04-20,-1,0
+Wal-Mart,2013-10-08,1,1
+Wal-Mart,2014-07-01,1,2
+Wal-Mart,2015-07-01,-1,1
+Waller Creek Conservancy,2012-01-06,1,1
+Waller Creek Conservancy,2013-01-05,-1,0
+Walter A. DeRoeck,2013-10-08,1,1
+Walter B. Eads,2014-04-25,1,1
+Walter B. Eads,2014-06-27,1,2
+Walter B. Eads,2015-04-25,-1,1
+Walter B. Eads,2015-06-27,-1,0
+Walters Southwest,2013-07-09,1,1
+Walters Southwest,2014-01-09,2,3
+Walters Southwest,2014-08-29,1,4
+Walters Southwest,2015-07-09,-1,3
+Walters Southwest,2015-12-21,-1,2
+Walton Development,2015-10-23,1,1
+Walton International Group,2013-12-20,1,1
+Walton International Group,2014-01-07,2,3
+Walton International Group,2014-01-08,1,4
+Walton Stacy Partners,2013-12-20,1,1
+Walton Stacy Partners,2014-01-07,2,3
+"Warshaw, Larry",2013-01-03,2,2
+"Warshaw, Larry",2014-01-03,1,3
+"Warshaw, Larry",2016-02-02,-1,2
+Water Control Irrigation District # 10,2013-10-08,1,1
+Waterloo Development,2014-08-01,1,1
+Wayside Schools,2016-01-20,1,1
+Weekley Homes,2014-01-03,3,3
+Weekley Homes,2016-02-02,-1,2
+Wells Branch MUD,2013-10-08,1,1
+Wells Fargo,2014-10-09,1,1
+Wells Fargo,2015-01-12,1,2
+Wells Fargo,2015-11-07,1,3
+Wendow,2011-08-17,1,1
+Wendow,2012-08-16,-1,0
+Wes Peoples Homes,2015-02-02,2,2
+Wes Peoples Homes,2016-01-13,1,3
+Wes Peoples Homes,2016-02-02,-1,2
+West Austin Youth Association,2013-10-08,1,1
+Westbank Community Library District,2013-12-20,1,1
+Westbank Community Library District,2014-01-07,2,3
+Western Rim Investment Advisors,2014-10-09,2,2
+Western Rim Investment Advisors,2015-01-12,2,4
+Western Rim Investment Advisors,2015-10-09,-1,3
+Western Rim Investment Advisors,2015-11-07,1,4
+Western Rim Investment Advisors,2016-01-12,-1,3
+Whataburger,2013-08-20,1,1
+White Lodging Services,2013-12-20,1,1
+White Lodging Services,2014-01-07,2,3
+White Lodging Services,2014-10-16,1,4
+"Whitman, Requardt and Associates",2015-07-15,1,1
+Wilfred Naddef,2011-05-10,2,2
+Wilfred Naddef,2012-05-09,-2,0
+"Wilkerson, Eric",2013-12-20,1,1
+"Wilkerson, Eric",2014-01-07,2,3
+"Wilkinson, Julia Matthews",2013-12-20,1,1
+"Wilkinson, Julia Matthews",2014-01-07,2,3
+Will Bridges,2014-08-20,2,2
+Will Bridges,2015-08-20,-2,0
+William Archer,2013-10-01,1,1
+William Archer,2014-10-01,-1,0
+Winding Prairie Grass Trails,2015-04-18,1,1
+Winstead,2014-02-03,1,1
+Winstead,2015-02-03,-1,0
+Wolfpack Group,2015-07-15,2,2
+"Wong, M.D., Mitchel",2013-01-03,2,2
+"Wong, M.D., Mitchel",2014-01-03,1,3
+"Wong, M.D., Mitchel",2016-02-02,-1,2
+Workers Defense Project,2013-05-01,1,1
+Workers Defense Project,2013-07-23,1,2
+Workers Defense Project,2014-05-01,-1,1
+Workers Defense Project,2014-06-04,1,2
+Workers Defense Project,2014-07-23,-1,1
+Workers Defense Project,2015-02-18,1,2
+Workers Defense Project,2015-06-04,-1,1
+Workers Defense Project,2015-09-16,1,2
+Xerox,2014-06-09,1,1
+"Yacktman, Stephen and Ellyn",2012-01-06,1,1
+"Yacktman, Stephen and Ellyn",2013-01-05,-1,0
+ZFB,2013-02-14,1,1
+ZIR Investments,2014-05-02,1,1
+Zachary Scott Theatre,2011-08-17,1,1
+Zachary Scott Theatre,2012-08-16,-1,0
+Zapalac/Reed Construction Company,2013-01-03,2,2
+Zapalac/Reed Construction Company,2014-01-03,-2,0
+Zilker Park Residences Partners,2011-08-17,1,1
+Zilker Park Residences Partners,2012-08-16,-1,0
+Zilker Park Residences Partners,2014-04-25,1,1
+Zilker Park Residences Partners,2014-06-27,1,2
+"Zuniga, Diana",2016-01-09,1,1
+Zydeco Development,2013-01-03,2,2
+Zydeco Development,2014-01-03,1,3
+Zydeco Development,2014-03-31,1,4
+Zydeco Development,2016-02-02,-1,3
+bella-mi Children's Store,2011-08-17,1,1
+bella-mi Children's Store,2012-08-16,-1,0
+thinkEAST,2013-10-01,1,1
+thinkEAST,2014-10-01,-1,0
