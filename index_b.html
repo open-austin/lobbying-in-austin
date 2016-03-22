@@ -63,23 +63,42 @@ var pie = d3.layout.pie()
   .sort(null);
 
 
-
+var color = d3.scale.category10();
 
 // Getting data 
 
-d3.csv("lobby.csv", function(error, data) {
+d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
 
-    console.log(data);
-    
-    // data.forEach(function (d) {
-    //     d.cost_per_spn_apply = +d.cost_per_spn_apply;
-    //     d.avg_cpc = +d.avg_cpc;
-    //     d.est_28_day_org_apply = +d.est_28_day_org_apply;
-    //     d.sample_size = +d.sample_size;
-    //     d.model_num = +d.model_num;
+  // change string (from CSV) into number format
+  data.forEach(function(d) {
+    d.month_of_hire = +d.month_of_hire;
+    d.year_of_hire = +d.year_of_hire;
+    d.clients = +d.clients;
+    console.log(d);
+  });
 
-    //     console.log(d);
-    // });
+  svg.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 3.5)
+      .attr("cx", 50)
+      .attr("cy", 50)
+      .style("fill", function(d) { return color(cValue(d));}) 
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", .9);
+          tooltip.html(d.industry + "<br/> (" + xValue(d) 
+          + ", " + yValue(d) + ")")
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
 
     // svg.selectAll("circle")
     //     .data(data)
