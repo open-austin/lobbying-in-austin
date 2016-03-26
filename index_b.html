@@ -18,8 +18,31 @@ div.tooltip {
 
 svg {
     background-color: blue;
+    font-size: 12px;
+
 }
 
+.x_axis text {
+  stroke: #666;
+  stroke-width: 1.5px;  
+
+}
+
+.x_axis line {
+  stroke-width: 2px;
+  stroke: red;
+  shape-rendering: crispEdges
+}
+
+.x_axis path {
+  fill: none;
+  stroke: red;
+  shape-rendering: crispEdges
+}
+
+.dot {
+  shape-rendering: geometricPrecision;
+}
 
 </style>
 
@@ -38,18 +61,12 @@ svg {
 
 <script type="text/javascript">
 
-// (function(d3) {
-// 'use strict';
 
-// REMOVED var data = ...
-
-var width = 600;
-var height = 250;
-var buffer_width = 15;
+var width = 800;
+var height = 300;
+var buffer_width = 30;
 var plot_w = width - 2*buffer_width
 var plot_h = height - 2*buffer_width
-//var radius = Math.min(width, height) / 2;
-//var donutWidth = 75;
 var legendRectSize = 18;
 var legendSpacing = 4;
 var max_x_val = -Infinity
@@ -57,65 +74,26 @@ var min_x_val = Infinity
 var max_y_val = -Infinity
 var min_y_val = 0
 
-var color = d3.scale.category20b();
+var color = d3.scale.category20();
 
-
-  // .attr('transform', 'translate(' + (width / 2) + 
-  //   ',' + (height / 2) + ')');
-
-// var arc = d3.svg.arc()
-//   .innerRadius(radius - donutWidth)
-//   .outerRadius(radius);
 
 var div = d3.select("body").append("div")   
     .attr("class", "tooltip")               
     .style("opacity", 0);
 
 
-var x_cor = function(year, month) {
-  total_years = max_x_val - min_x_val
-  total_sections = total_years*12
-  section = (year-min_x_val-1)*12 + month
-  xloc = buffer_width + (section / total_sections)*(plot_w)
-  //console.log(xloc)
-  return xloc
-};
+var timeFormat = d3.time.format('%Y-%m');
 
-var y_cor = function(clients) {
-  yloc = (height - buffer_width) - (clients / max_y_val)*plot_h
-  //console.log(yloc)
-  return yloc
-};
+var time_domain = [];
 
-// var get_tooltip_height = function(len_of_string) {
+var x_scale = d3.time.scale();
 
+var y_scale = d3.scale.linear();
 
-//   // var test = document.getElementById("Test");
-//   // test.style.fontSize = fontSize;
-//   // var height = (test.clientHeight + 1) + "px";
-//   // var width = (test.clientWidth + 1) + "px";
+var x_axis = d3.svg.axis();
 
-//   div_width = div.clientWidth
+var y_axis = d3.svg.axis().orient("right");
 
-
-//   // div_width = +div.style("width").match('[0-9]*(?=px)')
-//   // char_width = +div.style("font").match('[0-9]*(?=px)')
-  
-
-//   console.log(div_width);
-
-//   // if (len_of_string*char_width > div_width) {
-//   //   return +div.style("height").match('[0-9]*(?=px)')*2
-//   // }
-
-//   // else {
-//   //   return +div.style("height").match('[0-9]*(?=px)')
-//   // }
-// };
-
-
-var color = d3.scale.category10();
-var xAxis = d3.svg.axis();
 
 // Getting data 
 
@@ -128,33 +106,61 @@ var svg = d3.select('body')
 
 d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
 
+  var times = []
   // change string (from CSV) into number format
   data.forEach(function(d) {
     d.month_of_hire = +d.month_of_hire;
     d.year_of_hire = +d.year_of_hire;
-    if (d.year_of_hire > max_x_val) {
-      max_x_val = d.year_of_hire
-    };
-    if (d.year_of_hire < min_x_val) {
-      min_x_val = d.year_of_hire
-    };
     d.clients = +d.clients;
     if (d.clients > max_y_val) {
       max_y_val = d.clients
     };
+
+    times.push(timeFormat.parse(d.year_of_hire + "-" + d.month_of_hire))
+
   });
 
+////////////////////////////////////////////////////////////////////
+  y_scale.domain([0,max_y_val])
+    .range([height-buffer_width, buffer_width])
+  
+  y_axis.scale(y_scale)
 
-  var color_domain = d3.map(data, function(d){return d.industry;}).keys()
+  svg.append("g")
+    .attr("class", "y_axis")
+    .attr("transform", "translate(" + (width-buffer_width) + ",0)")
+    .call(y_axis);
+  /// building scale and axis
+  var max_date = new Date(Math.max.apply(null, times))
+  var min_date = new Date(Math.min.apply(null, times))
+
+  time_domain.push(min_date,max_date)
+
+  x_scale.domain(time_domain)
+            .rangeRound([buffer_width,buffer_width+plot_w])
+            //.nice()
+            //.ticks(d3.time.month, 3)
+
+  x_axis.scale(x_scale)
+
+  svg.append("g")
+    .attr("class", "x_axis")
+    .attr("transform", "translate(0," + (height-buffer_width+3) + ")")
+    .call(x_axis);
+////////////////////////////////////////////////////////////////////
+
+  //console.log(time_domain)
+
+  var color_domain = d3.map(data, function(d){return d.industry;}).keys()  //gets unique values for industry
   color.domain(color_domain)
 
   svg.selectAll(".dot")
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
-      .attr("r", 3.5)
-      .attr("cx", function(d) {return x_cor(d.year_of_hire,d.month_of_hire)})
-      .attr("cy", function(d) {return y_cor(d.clients)})
+      .attr("r", 4)
+      .attr("cx", function(d,i) {return x_scale(times[i])})
+      .attr("cy", function(d) {return y_scale(d.clients)})
       .style("fill", function(d){return color(d.industry)})
       .on("mouseover", function(d) {
           div.transition()
