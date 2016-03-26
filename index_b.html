@@ -10,16 +10,27 @@ div.tooltip {
   height: 15px;                 
   padding: 2px;             
   font: 12px sans-serif;        
-  background: lightsteelblue;   
+  background: purple;   
   border: 0px;      
   border-radius: 8px;           
   pointer-events: none;         
 }
 
 svg {
-    background-color: blue;
+    background-color: white;
     font-size: 12px;
 
+}
+
+.y_axis path {
+  stroke-width:1.5px;
+  fill:none;
+  stroke:red;
+}
+
+.y_axis text {
+  stroke: #666;
+  stroke-width: 1.5px;  
 }
 
 .x_axis text {
@@ -50,10 +61,14 @@ svg {
 
 <body>
 
-<!-- <div class='poop'>FU</div>
+    <div id="btns">
+      <div id="startdiv"><button id="startbtn">Start</button></div>
+      <div id="stopdiv"><button id="stopbtn">Stop</button></div>
+    </div>
 
-<div class='poop'> YAYAYSYYS</div> -->
 
+<div id='viz'>
+</div>
 </body>
 
 
@@ -74,10 +89,10 @@ var min_x_val = Infinity
 var max_y_val = -Infinity
 var min_y_val = 0
 
-var color = d3.scale.category20();
+var color = d3.scale.category20c();
 
 
-var div = d3.select("body").append("div")   
+var div = d3.select("#viz").append("div")   
     .attr("class", "tooltip")               
     .style("opacity", 0);
 
@@ -101,8 +116,8 @@ var svg = d3.select('body')
   .append('svg')
   .attr('width', width)
   .attr('height', height)
- .style("background-color", 'purple')
-  .append('g')
+  ///.style("background-color", 'purple')
+  //.append('g')
 
 d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
 
@@ -120,7 +135,7 @@ d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
 
   });
 
-////////////////////////////////////////////////////////////////////
+  ////////////////////////////////////////////////////////////////////
   y_scale.domain([0,max_y_val])
     .range([height-buffer_width, buffer_width])
   
@@ -154,11 +169,12 @@ d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
   var color_domain = d3.map(data, function(d){return d.industry;}).keys()  //gets unique values for industry
   color.domain(color_domain)
 
-  svg.selectAll(".dot")
+  x = svg.selectAll(".dot")
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
       .attr("r", 4)
+      .attr('industry',function(d) {return d.industry})
       .attr("cx", function(d,i) {return x_scale(times[i])})
       .attr("cy", function(d) {return y_scale(d.clients)})
       .style("fill", function(d){return color(d.industry)})
@@ -170,15 +186,52 @@ d3.csv("./data/clients_by_time_industry.csv", function(error, data) {
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
                //.style("height", (get_tooltip_height(d.industry.length)));
-
-
-
-
-
       });
 
+  x.on('click', function() {
+    var ind = d3.select(this).attr('industry')
+
+    d3.selectAll("[industry='" + String(ind) + "']").transition()
+    .attr('r',8)
+    .attr('opacity',1)
+    .duration(300)
+
+    x.filter(function(d,i) {
+      return d.industry != ind})
+    .transition()
+    .attr('r',4)
+    .attr('opacity',.5)
+    .duration(300)
+  });
 
 
+
+});
+
+svg.on('dblclick',function() {
+  d3.selectAll('circle').transition()
+  .attr('r',4)
+  .attr('opacity',1)
+  .duration(300)
+
+});
+
+// These two buttons don't stop the timer, 
+// just set flags to indicate that these two elements should stop/start:
+// var startbtn=d3.select("#startbtn");
+// startbtn.on("click", function() {
+
+//   }
+
+// });
+
+
+// var stopbtn=d3.select("#stopbtn");
+// stopbtn.on("click", function()  {
+
+//   }
+
+// });
 
 
 </script>
