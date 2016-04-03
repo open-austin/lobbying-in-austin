@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<style>
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 75px;
+  height: 75px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: beige;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+svg {
+    padding: 20px;
+    background-color: white;
+    font-size: 12px;
+
+}
+
+.y_axis path {
+  stroke-width:1.5px;
+  fill:none;
+  stroke:red;
+}
+
+.y_axis text {
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.x_axis text {
+  stroke: #666;
+  stroke-width: 1.5px;
+
+}
+
+.x_axis line {
+  stroke-width: 2px;
+  stroke: red;
+  shape-rendering: crispEdges
+}
+
+.x_axis path {
+  fill: none;
+  stroke: red;
+  shape-rendering: crispEdges
+}
+
+.dot {
+  shape-rendering: geometricPrecision;
+  stroke: black;
+  stroke-width: 1px;
+}
+
+</style>
+
+<header></header>
+
+<body>
+
+
+<div id='viz'>
+</div>
+</body>
+
+
+<script src="./d3/d3.js"></script>
+
+<script type="text/javascript">
+
+
+var width = 1200;
+var height = 300;
+var buffer_width = 30;
+var plot_w = width - 2*buffer_width
+var plot_h = height - 2*buffer_width
+var legendRectSize = 18;
+var legendSpacing = 4;
+var max_x_val = -Infinity
+var min_x_val = Infinity
+var max_y_val = -Infinity
+var min_y_val = 0
+
+var color = d3.scale.category20();
+
+
+var div = d3.select("#viz").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+
+var timeFormat = d3.time.format('%Y-%m-%d');
+
+var time_domain = [];
+
+var x_scale = d3.time.scale();
+
+var y_scale = d3.scale.linear();
+
+var x_axis = d3.svg.axis();
+
+var y_axis = d3.svg.axis().orient("right");
+
+
+// Getting data
+
+var svg = d3.select('body')
+  .append('svg')
+  .attr('width', width)
+  .attr('height', height)
+  ///.style("background-color", 'purple')
+  //.append('g')
+
+d3.csv("./data/lobbyistByClient.csv", function(error, data) {
+
+  var times = []
+  // change string (from CSV) into number format
+  data.forEach(function(d) {
+      d.hiredDate = timeFormat.parse(d.Date); // returns a Date
+      d.client = d.Client;
+      d.cumulative = +d.Cumulative;
+      if (d.cumulative > max_y_val) {
+        max_y_val = d.cumulative
+      };
+
+      times.push(d.hiredDate)
+
+  });
+
+  ////////////////////////////////////////////////////////////////////
+  y_scale.domain([0,max_y_val])
+    .range([height-buffer_width, buffer_width])
+
+  y_axis.scale(y_scale)
+
+  svg.append("g")
+    .attr("class", "y_axis")
+    .attr("transform", "translate(" + (width-buffer_width) + ",0)")
+    .call(y_axis);
+  /// building scale and axis
+  var max_date = new Date(Math.max.apply(null, times))
+  var min_date = new Date(Math.min.apply(null, times))
+
+  time_domain.push(min_date,max_date)
+
+  x_scale.domain(time_domain)
+            .rangeRound([buffer_width,buffer_width+plot_w])
+            //.nice()
+            //.ticks(d3.time.month, 3)
+
+  x_axis.scale(x_scale)
+
+  svg.append("g")
+    .attr("class", "x_axis")
+    .attr("transform", "translate(0," + (height-buffer_width+3) + ")")
+    .call(x_axis);
+////////////////////////////////////////////////////////////////////
+
+  //console.log(time_domain)
+
+  var color_domain = d3.map(data, function(d){return d.client;}).keys()  //gets unique values for industry
+  color.domain(color_domain)
+
+  x = svg.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 4)
+      .attr('client',function(d) {return d.client})
+      .attr("cx", function(d,i) {return x_scale(times[i])})
+      .attr("cy", function(d) {return y_scale(d.cumulative)})
+      .style("fill", function(d){return color(d.client)})
+      .on("mouseover", function(d) {
+          div.transition()
+               .duration(100)
+               .style("opacity", .9);
+          div.html(d.Date + "\n" + d.client)
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px")})
+      .on("mouseout", function(d) {
+          div.transition()
+                .duration(200)
+                .style("opacity", .0);
+           //div.html(d.Date + "\n" + d.client)
+            //    .style("opacity", 0);
+               //.style("height", (get_tooltip_height(d.industry.length)));
+      });
+
+  x.on('click', function() {
+    var ind = d3.select(this).attr('client')
+
+    d3.selectAll("[client='" + String(ind) + "']").transition()
+    .attr('r',8)
+    .attr('opacity',1)
+    .duration(300)
+
+    x.filter(function(d,i) {
+      return d.client != ind})
+    .transition()
+    .attr('r',4)
+    .attr('opacity',.5)
+    .duration(300)
+  });
+
+
+
+});
+
+
+
+// These two buttons don't stop the timer,
+// just set flags to indicate that these two elements should stop/start:
+// var startbtn=d3.select("#startbtn");
+// startbtn.on("click", function() {
+
+//   }
+
+// });
+
+
+// var stopbtn=d3.select("#stopbtn");
+// stopbtn.on("click", function()  {
+
+//   }
+
+// });
+
+
+</script>
