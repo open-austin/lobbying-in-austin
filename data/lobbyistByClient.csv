@@ -7,9 +7,11 @@ Client,Date,Change,Cumulative
 183 BLW,2013-12-20,1,1
 183 BLW,2014-01-07,2,3
 183 BLW,2014-12-20,-1,2
-183 BLW,2015-01-07,-2,0
-183 BLW,2015-01-20,1,1
-183 BLW,2016-01-07,2,3
+183 BLW,2015-01-06,1,3
+183 BLW,2015-01-07,-1,2
+183 BLW,2015-01-20,1,3
+183 BLW,2016-01-06,-1,2
+183 BLW,2016-01-07,1,3
 183 BLW,2016-01-20,-1,2
 2208 Lake Austin,2014-06-27,1,1
 2208 Lake Austin,2014-07-09,1,2
@@ -22,28 +24,28 @@ Client,Date,Change,Cumulative
 408 Sterzing,2014-04-25,2,2
 408 Sterzing,2014-06-27,1,3
 408 Sterzing,2015-04-25,-2,1
-408 Sterzing,2015-06-27,-1,0
+408 Sterzing,2015-06-27,1,2
 4800 Friedrich Lane,2014-01-07,2,2
-4800 Friedrich Lane,2014-12-23,1,3
-4800 Friedrich Lane,2015-01-06,1,4
-4800 Friedrich Lane,2015-01-07,-1,3
-4800 Friedrich Lane,2016-01-06,-2,1
-4800 Friedrich Lane,2016-01-07,1,2
-5453 Burnet Park Venture,2015-01-13,2,2
-5453 Burnet Park Venture,2016-01-13,-2,0
+4800 Friedrich Lane,2014-12-23,2,4
+4800 Friedrich Lane,2015-01-06,1,5
+4800 Friedrich Lane,2015-01-07,-1,4
+4800 Friedrich Lane,2015-12-23,-2,2
+4800 Friedrich Lane,2016-01-06,-2,0
+4800 Friedrich Lane,2016-01-07,1,1
 620/183,2013-02-14,1,1
 620/183,2014-02-14,-1,0
 6ixth Street Austin,2013-10-28,1,1
 6ixth Street Austin,2014-10-09,1,2
 6ixth Street Austin,2015-10-09,-2,0
-735 Henna,2015-10-15,1,1
-735 Henna,2016-01-16,1,2
+6th Street Partners,2015-07-21,1,1
+735 Henna,2016-01-16,1,1
 93 Red River Investors,2014-10-09,1,1
 93 Red River Investors,2015-11-07,1,2
-A Stella Dog,2015-10-15,1,1
+A Stella Dog,2015-01-12,1,1
+A Stella Dog,2016-01-12,-1,0
 A and M Option 541,2013-09-05,1,1
 A and M Option 541,2015-07-21,1,2
-A and M Option 541,2015-09-04,-1,1
+A and M Option 541,2015-09-12,1,3
 A.J. Messer Construction Co.,2014-08-20,3,3
 A.J. Messer Construction Co.,2015-08-20,-3,0
 AETNA Sign Group,2015-10-15,1,1
@@ -54,23 +56,27 @@ AJHSCCM,2015-08-01,-1,0
 AMD,2013-10-08,1,1
 AMD,2014-10-16,1,2
 AMD,2015-10-16,-2,0
+AMS Commercial Real Estate,2015-10-15,2,2
+AMS Commercial Real Estate,2016-01-16,2,4
 APAC- Tecas,2013-09-05,1,1
 APAC- Tecas,2014-09-05,-1,0
+ARC Matthew McMahon,2014-08-20,2,2
+ARC Matthew McMahon,2015-08-20,-2,0
 ARG Bull Creek,2015-08-01,2,2
 AT&T,2013-06-18,1,1
-AT&T,2013-08-06,4,5
-AT&T,2013-08-07,1,6
-AT&T,2013-10-07,1,7
-AT&T,2013-10-08,1,8
-AT&T,2014-08-06,-4,4
-AT&T,2014-08-20,5,9
-AT&T,2014-10-16,1,10
-AT&T,2015-06-09,-1,9
-AT&T,2015-08-20,-6,3
-AT&T,2015-10-15,-1,2
-AT&T,2015-10-16,-2,0
-AT&T,2016-03-04,1,1
-AT&T,2016-04-01,1,2
+AT&T,2013-08-06,3,4
+AT&T,2013-10-07,1,5
+AT&T,2014-08-06,-3,2
+AT&T,2014-08-20,3,5
+AT&T,2014-10-16,2,7
+AT&T,2015-06-09,-1,6
+AT&T,2015-08-05,1,7
+AT&T,2015-08-20,-2,5
+AT&T,2015-09-19,2,7
+AT&T,2015-10-15,-1,6
+AT&T,2015-10-16,-2,4
+AT&T,2016-03-04,2,6
+AT&T,2016-04-01,1,7
 ATC Outdoor DAS,2014-04-29,2,2
 ATC Outdoor DAS,2015-04-29,-2,0
 AVG Partners,2014-08-01,1,1
@@ -87,11 +93,7 @@ Accelerator Holdings,2016-01-06,-2,0
 Aetna Sign Group,2014-10-09,1,1
 Aetna Sign Group,2015-01-12,1,2
 Aetna Sign Group,2015-10-09,-1,1
-Aetna Sign Group,2015-11-07,2,3
-Aetna Sign Group,2016-01-12,-1,2
-"Aguirre, Antolin",2011-08-17,2,2
-"Aguirre, Antolin",2012-08-16,-2,0
-Airbnb,2016-02-27,1,1
+Aetna Sign Group,2016-01-12,-1,0
 Airport Fast Park,2015-01-30,1,1
 Airport Fast Park,2016-01-30,-1,0
 Alexa Management,2014-07-09,1,1
@@ -110,17 +112,13 @@ American Campus Communities,2014-10-09,2,2
 American Campus Communities,2015-10-09,-2,0
 American Heart Association,2012-03-23,2,2
 American Heart Association,2013-03-23,-2,0
-American Heart Association,2014-10-14,2,2
-American Heart Association,2015-07-29,2,4
-American Heart Association,2015-10-14,-2,2
 Amplify Federal Credit Union,2014-10-09,1,1
 Amplify Federal Credit Union,2015-01-12,1,2
 Amplify Federal Credit Union,2015-11-07,1,3
 Amstar Group,2013-12-20,1,1
 Amstar Group,2014-01-07,1,2
-Amstar Group,2014-12-20,-1,1
-Amstar Group,2015-01-07,-1,0
-Amstar Group,2015-12-24,2,2
+Amstar Group,2014-12-23,1,3
+Amstar Group,2015-01-07,-1,2
 Anthony George,2015-06-27,1,1
 Antolin Aguirre,2011-08-17,2,2
 Antolin Aguirre,2012-08-16,-2,0
@@ -128,13 +126,12 @@ Antolin Aguirre,2014-04-25,2,2
 Antolin Aguirre,2014-06-27,1,3
 Antolin Aguirre,2015-04-25,-2,1
 Antolin Aguirre,2015-06-27,-1,0
-Apex Bethel Energy Center,2015-10-23,2,2
 "Archer, Cara Jean",2015-03-24,2,2
 "Archer, Cara Jean",2016-03-23,-2,0
-Ardent Residential,2015-01-30,1,1
-Ardent Residential,2015-02-02,1,2
-Ardent Residential,2016-01-05,1,3
-Ardent Residential,2016-02-02,-1,2
+Ardent Residential,2015-01-30,2,2
+Ardent Residential,2015-02-02,1,3
+Ardent Residential,2016-01-30,-2,1
+Ardent Residential,2016-02-02,-1,0
 Art at Bratton's Edge,2014-08-01,1,1
 Artesia Real Estate,2014-07-09,1,1
 Artesia Real Estate,2015-01-12,2,3
@@ -142,7 +139,7 @@ Artesia Real Estate,2015-07-09,-1,2
 Artesia Real Estate,2016-01-12,-2,0
 Ashton Woods Homes,2014-01-03,2,2
 Ashton Woods Homes,2015-01-03,-2,0
-Asian American Cultural Arts Center,2015-01-12,1,1
+Asian American Cultural Arts Center,2014-12-21,1,1
 Asian American Cultural Arts Center,2016-01-12,-1,0
 Aspen Heights,2014-01-09,1,1
 Aspen Heights,2014-12-21,1,2
@@ -151,14 +148,14 @@ Aspen Heights,2015-01-09,-1,2
 Aspen Heights,2015-07-21,1,3
 Aspen Heights,2015-12-21,-1,2
 Aspen Heights,2015-12-23,-1,1
-Aspen Heights,2016-03-14,1,2
 Aspen Properties,2014-01-07,1,1
 Aspen Properties,2014-12-23,1,2
-Aspen Properties,2015-01-06,1,3
-Aspen Properties,2015-12-23,-1,2
-Aspen Properties,2016-01-07,2,4
+Aspen Properties,2015-01-07,-1,1
+Aspen Properties,2015-12-23,-1,0
+Aspen Properties,2016-01-07,4,4
 Atlantic Housing Foundation,2014-06-27,1,1
-Atlantic Housing Foundation,2015-06-27,1,2
+Atlantic Housing Foundation,2015-04-24,2,3
+Atlantic Housing Foundation,2015-06-27,-1,2
 Austin Achieve,2013-12-20,1,1
 Austin Achieve,2014-01-07,1,2
 Austin Achieve,2014-01-16,1,3
@@ -166,9 +163,8 @@ Austin Achieve,2014-12-23,1,4
 Austin Achieve,2015-01-06,1,5
 Austin Achieve,2015-01-07,-1,4
 Austin Achieve,2015-01-16,-1,3
-Austin Achieve,2015-12-23,-2,1
-Austin Achieve,2016-01-07,3,4
-Austin Achieve,2016-01-20,2,6
+Austin Achieve,2016-01-07,3,6
+Austin Achieve,2016-01-20,2,8
 "Austin American-Statesman,",2014-01-03,2,2
 "Austin American-Statesman,",2015-01-03,-2,0
 "Austin American-Statesman,",2015-02-02,1,1
@@ -200,8 +196,7 @@ Austin Chronicle,2016-02-02,-1,1
 Austin City Builders,2014-10-09,1,1
 Austin City Builders,2015-01-12,1,2
 Austin City Builders,2015-10-09,-1,1
-Austin City Builders,2015-11-07,2,3
-Austin City Builders,2016-01-16,1,4
+Austin City Builders,2016-01-16,1,2
 Austin Convention Enterprises,2015-06-27,1,1
 Austin Diagnostic Clinic,2014-01-09,3,3
 Austin Diagnostic Clinic,2014-07-09,1,4
@@ -215,7 +210,6 @@ Austin Film Studios,2015-01-29,2,2
 Austin Film Studios,2016-01-29,-2,0
 Austin Flower Co.,2011-08-17,2,2
 Austin Flower Co.,2012-08-16,-2,0
-Austin Lakeside Hotel Owner,2015-10-15,1,1
 Austin Park,2015-01-06,2,2
 Austin Park,2015-01-12,1,3
 Austin Park,2015-12-24,1,4
@@ -225,18 +219,19 @@ Austin Presbetyrian Theological Seminary,2013-09-05,1,2
 Austin Presbetyrian Theological Seminary,2014-07-18,-1,1
 Austin Presbetyrian Theological Seminary,2014-09-05,-1,0
 Austin Quality Schools Collaborative,2013-12-20,1,1
-Austin Quality Schools Collaborative,2014-12-20,-1,0
-Austin Quality Schools Collaborative,2015-01-20,2,2
+Austin Quality Schools Collaborative,2014-12-23,1,2
+Austin Quality Schools Collaborative,2015-01-20,2,4
+Austin Quality Schools Collaborative,2015-12-23,-2,2
 Austin Quality Schools Collaborative,2016-01-07,2,4
 Austin Quality Schools Collaborative,2016-01-20,-2,2
 Austin Renaissance,2014-04-25,2,2
 Austin Renaissance,2015-04-25,-2,0
 Austin Renaissance,2015-06-27,1,1
 Austin Restaurant Association,2014-01-07,1,1
-Austin Restaurant Association,2014-12-23,1,2
-Austin Restaurant Association,2015-01-07,-1,1
-Austin Restaurant Association,2015-12-24,1,2
-Austin Restaurant Association,2016-01-07,4,6
+Austin Restaurant Association,2014-12-23,2,3
+Austin Restaurant Association,2015-01-07,-1,2
+Austin Restaurant Association,2015-12-23,-2,0
+Austin Restaurant Association,2016-01-07,2,2
 Austin Sonic,2016-02-04,1,1
 AustinSeventyOne,2013-10-01,1,1
 AustinSeventyOne,2014-10-01,-1,0
@@ -250,16 +245,14 @@ AvalonPark Texas,2013-12-20,1,1
 AvalonPark Texas,2014-01-07,1,2
 AvalonPark Texas,2014-12-23,1,3
 AvalonPark Texas,2015-01-06,2,5
-AvalonPark Texas,2015-01-07,-1,4
-AvalonPark Texas,2015-12-23,-2,2
-AvalonPark Texas,2016-01-06,-2,0
-AvalonPark Texas,2016-01-07,2,2
+AvalonPark Texas,2015-12-23,-2,3
+AvalonPark Texas,2016-01-07,1,4
 Avion Park,2015-09-12,2,2
+Avis Rent-A-Car,2011-08-17,4,4
+Avis Rent-A-Car,2012-08-16,-4,0
 "Ayers, Robert A.",2015-02-02,1,1
-"Ayers, Robert A.",2016-01-13,2,3
-"Ayers, Robert A.",2016-02-02,-1,2
+"Ayers, Robert A.",2016-02-02,-1,0
 BDB Ventures,2015-07-15,1,1
-BDB Ventures,2016-03-14,1,2
 Balcones Club Management,2015-09-12,1,1
 Balcones Country Club Membership Association,2013-09-05,1,1
 Balcones Country Club Membership Association,2014-09-05,-1,0
@@ -272,10 +265,13 @@ Balcones Resources,2015-10-23,1,4
 "Barlin, Peter",2015-08-20,-1,0
 Barshop and Oles Company,2014-01-16,1,1
 Barshop and Oles Company,2015-01-16,-1,0
-Barshop and Oles Company,2016-01-20,2,2
+Behringer Harvard,2014-10-02,2,2
+Behringer Harvard,2015-10-02,-2,0
 Benchmark Development/Goodnight Ranch,2015-09-01,2,2
 Beneplace,2014-06-09,1,1
 Beneplace,2015-06-09,-1,0
+Berns Commercial Properties,2010-06-24,4,4
+Berns Commercial Properties,2011-06-24,-4,0
 Berns Commercial Properties,2014-04-25,1,1
 Berns Commercial Properties,2015-04-24,1,2
 Blenheim,2013-12-20,1,1
@@ -304,17 +300,19 @@ Brady Ohman,2013-09-05,1,1
 Brady Ohman,2015-09-04,-1,0
 Braker Valley,2013-09-05,1,1
 Braker Valley,2015-09-04,-1,0
-Brandywine Realty Trust,2015-11-07,2,2
-Brandywine Realty Trust,2016-01-16,2,4
+Brandywine Realty Trust,2015-10-23,2,2
+Brandywine Realty Trust,2015-11-07,2,4
+Brandywine Realty Trust,2016-01-16,2,6
 Bread and Circus,2013-01-03,4,4
 Bread and Circus,2014-01-03,-4,0
-Bread and Circus,2015-02-02,1,1
-Bread and Circus,2016-02-02,-1,0
+Bread and Circus,2015-02-02,3,3
+Bread and Circus,2016-02-02,-3,0
 Brian Follett,2014-10-21,2,2
 Brian Follett,2015-10-21,-2,0
 Brock Consulting Group,2014-01-07,1,1
-Brock Consulting Group,2015-01-07,-1,0
-Brock Consulting Group,2016-01-07,2,2
+Brock Consulting Group,2015-01-06,1,2
+Brock Consulting Group,2016-01-06,-1,1
+Brock Consulting Group,2016-01-07,1,2
 Buffalo Equities,2014-09-04,1,1
 Buffalo Equities,2015-09-04,-1,0
 "Bullard, Michael",2015-06-27,1,1
@@ -334,7 +332,9 @@ CBL and Associates Management,2014-07-18,-1,0
 CCARE,2014-10-16,1,1
 CCARE,2015-10-23,1,2
 CMST Development,2015-06-27,2,2
-CP II Wild Basin,2015-12-24,1,1
+CP II Wild Basin,2015-01-06,2,2
+CP II Wild Basin,2015-12-24,1,3
+CP II Wild Basin,2016-01-06,-2,1
 CP II Wild Basin,2016-01-07,1,2
 CPS Human Resource Services,2015-06-13,2,2
 CRV Shoreline,2013-12-20,1,1
@@ -346,16 +346,13 @@ CRV Shoreline,2016-01-07,1,2
 CST Brands,2013-12-20,1,1
 CST Brands,2014-01-07,1,2
 CST Brands,2014-12-20,-1,1
-CST Brands,2015-01-06,1,2
-CST Brands,2016-01-06,-2,0
+CST Brands,2015-01-07,-1,0
 CST Brands,2016-01-07,2,2
 CWS Capital Partners,2014-01-07,1,1
 CWS Capital Partners,2014-01-09,1,2
 CWS Capital Partners,2015-01-07,-1,1
 CWS Capital Partners,2015-01-09,-1,0
 CWS Capital Partners,2015-12-24,2,2
-CWS Capital Partners,2016-01-07,2,4
-Caledonia Properties,2015-11-07,2,2
 Cameron and Killingsworth- Pflugerville 292,2013-10-01,1,1
 Cameron and Killingsworth- Pflugerville 292,2014-10-01,-1,0
 Canchola and Hyde Productions,2014-08-01,1,1
@@ -367,10 +364,9 @@ Capital Commercial Investments,2016-01-07,1,4
 Capital Metro,2014-10-09,1,1
 Capital Metro,2015-01-12,1,2
 Capital Metro,2016-01-12,-1,1
-Capitol City Partners,2014-12-23,2,2
-Capitol City Partners,2015-01-06,2,4
-Capitol City Partners,2015-12-23,-2,2
+Capitol City Partners,2015-01-06,2,2
 Capitol City Partners,2016-01-06,-2,0
+Capitol City Partners,2016-01-07,2,2
 Capridge Partners,2014-01-07,2,2
 Capridge Partners,2015-01-06,1,3
 Capridge Partners,2015-01-07,-1,2
@@ -383,7 +379,7 @@ Carma Texas,2015-01-07,-2,2
 Carma Texas,2015-12-23,-2,0
 Carma Texas,2016-01-07,1,1
 Carollo Engineers,2014-06-27,1,1
-Carollo Engineers,2015-06-27,1,2
+Carollo Engineers,2015-06-27,-1,0
 Cary and Cynthia Reynolds,2015-06-27,2,2
 Castle Hill Management,2014-08-01,1,1
 Catalyst Acquisitions and Development Grp,2014-07-09,1,1
@@ -394,8 +390,6 @@ Catalyst Acquisitions and Development Grp,2016-01-12,-1,0
 "Catanoia, Ginny",2015-10-21,-2,0
 Catellus Commercial Group,2012-01-06,3,3
 Catellus Commercial Group,2013-01-05,-3,0
-Cathedral of Junk,2011-08-17,4,4
-Cathedral of Junk,2012-08-16,-4,0
 "Cedar Park, TX",2014-10-16,2,2
 "Cedar Park, TX",2015-10-16,-2,0
 "Champion, Josie, Juanita Meier and Mary Margaret Roberson",2013-01-03,3,3
@@ -410,6 +404,8 @@ Chereen Fisher,2015-04-24,1,3
 Chereen Fisher,2015-06-27,-1,2
 Chris Pacitti,2015-01-06,1,1
 Chris Pacitti,2016-01-06,-1,0
+Christopher Commercial,2013-01-03,4,4
+Christopher Commercial,2014-01-03,-4,0
 Christopher Slover,2015-12-24,1,1
 Churchill Forge,2013-01-03,4,4
 Churchill Forge,2014-01-03,-4,0
@@ -428,12 +424,13 @@ Circuit of the Americas,2016-01-06,-1,2
 Circuit of the Americas,2016-01-07,1,3
 Circular Energy,2015-07-15,1,1
 "Cirrus Logic, Inc.",2013-02-14,1,1
-"Cirrus Logic, Inc.",2015-08-01,-1,0
-"Cirrus Logic, Inc.",2015-10-23,1,1
-"Cirrus Logic, Inc.",2015-12-24,1,2
+"Cirrus Logic, Inc.",2015-01-06,2,3
+"Cirrus Logic, Inc.",2015-08-01,-1,2
+"Cirrus Logic, Inc.",2015-10-23,1,3
+"Cirrus Logic, Inc.",2015-12-24,1,4
+"Cirrus Logic, Inc.",2016-01-06,-2,2
 Cisco Systems,2014-06-09,1,1
 Cisco Systems,2015-06-09,-1,0
-Clear Channel,2015-04-25,2,2
 "Coats, Rose, Yale, Ryman and Lee",2013-09-05,1,1
 "Coats, Rose, Yale, Ryman and Lee",2014-07-18,1,2
 "Coats, Rose, Yale, Ryman and Lee",2015-07-18,-1,1
@@ -455,6 +452,14 @@ Conley Sports,2014-04-24,1,1
 Conley Sports,2015-04-25,1,2
 Connecticut General Life Insurance Company,2011-11-18,3,3
 Connecticut General Life Insurance Company,2012-11-17,-3,0
+Conor Commercial Real Estate,2013-08-06,2,2
+Conor Commercial Real Estate,2013-08-07,1,3
+Conor Commercial Real Estate,2013-08-13,1,4
+Conor Commercial Real Estate,2013-10-08,1,5
+Conor Commercial Real Estate,2014-08-06,-2,3
+Conor Commercial Real Estate,2014-08-07,-1,2
+Conor Commercial Real Estate,2014-08-13,-1,1
+Conor Commercial Real Estate,2014-10-08,-1,0
 Constructive Ventures,2014-01-03,2,2
 Constructive Ventures,2015-02-02,1,3
 Constructive Ventures,2016-02-02,-3,0
@@ -465,7 +470,6 @@ Continental Cars,2015-06-27,-1,0
 "Coover, David M. Jr.",2015-01-03,-2,0
 Coppell Building,2015-10-15,2,2
 Coppell Building,2015-11-07,2,4
-Coppell Building,2016-01-16,2,6
 Cornerbrook Development,2012-10-19,3,3
 Cornerbrook Development,2013-10-19,-3,0
 Cornerstone Patriot Holdings,2016-01-13,4,4
@@ -474,6 +478,7 @@ Cottonwood Holdings,2014-01-03,-3,0
 County Line,2014-10-02,1,1
 County Line,2015-02-13,1,2
 County Line,2015-10-02,-1,1
+County Line,2016-02-13,-1,0
 Cousins Properties,2013-07-09,1,1
 Cousins Properties,2014-01-09,1,2
 Cousins Properties,2014-07-09,-1,1
@@ -489,6 +494,7 @@ Creek 620,2015-01-06,1,2
 Crescent 210 Barton Springs,2014-01-07,1,1
 Crescent 210 Barton Springs,2015-01-06,1,2
 Crescent 210 Barton Springs,2016-01-06,-2,0
+Crescent 210 Barton Springs,2016-01-07,2,2
 Crescent Recourses,2010-06-24,4,4
 Crescent Recourses,2011-06-24,-4,0
 Crescent Recourses,2013-10-01,1,1
@@ -501,7 +507,8 @@ Crossroads Events,2014-03-04,-4,0
 "Cullen, John",2014-01-07,1,2
 "Cullen, John",2014-12-23,1,3
 "Cullen, John",2015-01-06,3,6
-"Cullen, John",2016-01-06,-4,2
+"Cullen, John",2015-12-23,-2,4
+"Cullen, John",2016-01-06,-4,0
 Cummings-Baccus,2013-02-14,1,1
 Cummings-Baccus,2015-08-01,-1,0
 Cypress Realty,2013-10-08,1,1
@@ -515,7 +522,7 @@ Cypress Realty,2016-01-07,1,4
 Cypress Semiconductor,2015-10-23,1,1
 Dalton Mueller,2014-03-31,1,1
 Dalton Mueller,2015-03-31,-1,0
-Dan Byrne,2016-01-07,1,1
+Dan Byrne,2015-01-06,1,1
 Davenport Ranch Neighborhood Assoc.,2014-06-27,1,1
 Davenport Ranch Neighborhood Assoc.,2015-04-24,2,3
 Davenport Ranch Neighborhood Assoc.,2015-06-27,-1,2
@@ -535,10 +542,12 @@ David and Suzanne Booth,2014-01-16,1,4
 David and Suzanne Booth,2014-12-23,1,5
 David and Suzanne Booth,2015-01-07,-2,3
 David and Suzanne Booth,2015-12-23,-2,1
-David and Suzanne Booth,2016-01-20,2,3
+David and Suzanne Booth,2016-01-07,2,3
+David and Suzanne Booth,2016-01-20,-1,2
 "Dawlett, Haythem",2010-06-24,4,4
 "Dawlett, Haythem",2011-06-24,-4,0
-"Dawlett, Haythem",2016-03-14,1,1
+"Dawlett, Haythem",2016-01-09,2,2
+"Dawlett, Haythem",2016-03-14,1,3
 Dean and Andrea McWilliams,2014-01-09,1,1
 Dean and Andrea McWilliams,2015-01-09,-1,0
 Deborah Dunn,2013-07-16,1,1
@@ -549,61 +558,61 @@ Deborah and Gary Attal,2015-12-24,1,5
 Deborah and Gary Attal,2016-01-06,-3,2
 Delaware North Companies/Travel Hospitality Services,2014-01-13,1,1
 Delaware North Companies/Travel Hospitality Services,2015-01-13,-1,0
-Diversified Real Estate Group,2014-12-21,2,2
-Diversified Real Estate Group,2015-12-21,-2,0
 Dobie Austin (Howard Michaels),2014-04-29,2,2
 Dobie Austin (Howard Michaels),2015-04-29,-2,0
-Downtown Austin Alliance,2015-01-06,1,1
-Downtown Austin Alliance,2016-01-06,-1,0
 Dr. Pejman Khosravian,2014-08-20,1,1
 Dr. Pejman Khosravian,2015-08-20,-1,0
 Drenner Group,2015-01-29,1,1
 Drenner Group,2016-01-29,-1,0
 Driveway Austin,2015-09-12,1,1
-Duckworth Property Holdings,2015-10-15,2,2
-Duckworth Property Holdings,2015-11-07,2,4
+Duckworth Property Holdings,2015-01-12,1,1
+Duckworth Property Holdings,2015-10-15,2,3
+Duckworth Property Holdings,2015-11-07,2,5
+Duckworth Property Holdings,2016-01-12,-1,4
 Dwyer Realty Companies,2015-01-06,1,1
-Dwyer Realty Companies,2015-01-20,2,3
-Dwyer Realty Companies,2016-01-07,1,4
-Dwyer Realty Companies,2016-01-20,-2,2
+Dwyer Realty Companies,2016-01-07,1,2
 ECC Commercial,2014-07-09,1,1
 ECC Commercial,2015-07-09,-1,0
-ECC Commercial,2015-07-15,2,2
 EHB Companies,2013-12-20,1,1
 EHB Companies,2014-01-07,2,3
 EHB Companies,2014-12-23,1,4
 EHB Companies,2015-01-07,-2,2
-EHB Companies,2015-12-23,-2,0
 EMSO Partners Limited,2014-01-08,1,1
 EMSO Partners Limited,2016-01-08,-1,0
 EZ,2015-07-21,2,2
 "Eads, Ralph, III",2015-08-01,1,1
 Eanes Community Alliance,2014-06-27,1,1
 Eanes Community Alliance,2015-06-27,-1,0
+East Side Tree House Erik Olson,2014-08-20,3,3
+East Side Tree House Erik Olson,2015-08-20,-3,0
 Edward Lopez,2014-04-25,1,1
 Edward Lopez,2015-04-25,-1,0
 Edward Lopez,2015-06-27,2,2
-Elan Hair Salon,2011-08-17,4,4
-Elan Hair Salon,2012-08-16,-4,0
+"Ehrlich, Robert",2011-08-17,2,2
+"Ehrlich, Robert",2012-08-16,-2,0
 Embree Asset Group,2014-10-09,1,1
-Embree Asset Group,2015-01-12,1,2
-Emmis Radio Broadcasting Co.,2015-01-12,1,1
-Emmis Radio Broadcasting Co.,2015-11-07,1,2
+Embree Asset Group,2015-10-09,-1,0
+Embree Asset Group,2016-01-16,1,1
+Embrey Partners,2015-04-25,2,2
+Emmis Radio Broadcasting Co.,2015-11-07,1,1
+Emmis Radio Broadcasting Co.,2016-01-16,1,2
 Endeavor Real Estate Group,2013-10-08,1,1
 Endeavor Real Estate Group,2013-12-20,1,2
 Endeavor Real Estate Group,2014-01-07,1,3
 Endeavor Real Estate Group,2014-10-08,-1,2
 Endeavor Real Estate Group,2014-12-20,-1,1
-Endeavor Real Estate Group,2015-01-07,-1,0
-Endeavor Real Estate Group,2016-01-07,2,2
+Endeavor Real Estate Group,2015-01-06,1,2
+Endeavor Real Estate Group,2016-01-06,-1,1
+Endeavor Real Estate Group,2016-01-07,1,2
 Episcopal Theological Seminary of the Southwest,2014-01-07,1,1
 Episcopal Theological Seminary of the Southwest,2015-01-06,2,3
 Episcopal Theological Seminary of the Southwest,2015-01-07,-1,2
 Episcopal Theological Seminary of the Southwest,2015-12-24,1,3
 Episcopal Theological Seminary of the Southwest,2016-01-06,-2,1
+Episcopal Theological Seminary of the Southwest,2016-01-07,1,2
 Equinox,2014-10-09,1,1
-Equinox,2015-10-09,-1,0
-Equinox,2015-11-07,2,2
+Equinox,2015-10-15,1,2
+Equinox,2015-11-07,2,4
 Eric Reddehase,2014-01-07,1,1
 Eric Reddehase,2015-01-07,-1,0
 Eric Reddehase,2015-12-24,1,1
@@ -613,8 +622,7 @@ Eureka Holdings,2014-06-27,1,1
 Eureka Holdings,2015-06-27,-1,0
 ExeNet Systems,2015-04-17,1,1
 Falcon Southwest Development Co,2015-04-24,2,2
-Falkin/Platnick Realty Group,2013-01-03,4,4
-Falkin/Platnick Realty Group,2014-01-03,-4,0
+Fiesta Restaruant Group,2015-07-21,2,2
 Fifth Generation Tasting,2013-10-01,1,1
 Fifth Generation Tasting,2014-10-01,-1,0
 Film Society of Austin,2013-01-03,4,4
@@ -634,12 +642,15 @@ First Hartford Realty,2014-01-10,-1,1
 First Hartford Realty,2014-10-02,1,2
 First Hartford Realty,2015-10-02,-1,1
 Flemtex Properties,2014-06-27,1,1
-Flemtex Properties,2015-06-27,1,2
+Flemtex Properties,2015-04-24,2,3
+Flemtex Properties,2015-06-27,-1,2
 Flextronics,2015-01-06,1,1
-Flextronics,2016-01-07,1,2
-Flux Factory,2014-12-23,1,1
+Flextronics,2016-01-07,3,4
+Flux Factory,2015-12-24,1,1
 Flux Factory,2016-01-07,1,2
 Force Multiplier Solutions,2016-02-23,1,1
+Ford Smith Jr.,2014-08-20,3,3
+Ford Smith Jr.,2015-08-20,-3,0
 Forestar Real Estate Group,2014-01-07,1,1
 Forestar Real Estate Group,2015-01-07,-1,0
 Forestar Real Estate Group,2015-01-12,1,1
@@ -650,9 +661,10 @@ Forestar Real Estate Group,2016-01-12,-1,3
 Forestar Real Estate Group,2016-01-20,1,4
 Four Seasons Hotel,2013-12-20,1,1
 Four Seasons Hotel,2014-01-07,2,3
-Four Seasons Hotel,2014-12-20,-1,2
-Four Seasons Hotel,2015-01-06,1,3
-Four Seasons Hotel,2015-01-07,-1,2
+Four Seasons Hotel,2014-12-23,1,4
+Four Seasons Hotel,2015-01-06,1,5
+Four Seasons Hotel,2015-01-07,-1,4
+Four Seasons Hotel,2015-12-23,-2,2
 Four Seasons Hotel,2016-01-06,-2,0
 Four Seasons Hotel,2016-01-07,1,1
 Freedom Carwash,2014-06-27,1,1
@@ -662,8 +674,6 @@ Freescale,2015-10-23,1,2
 Fremont Holdings,2014-07-01,2,2
 Fremont Holdings,2015-07-01,-2,0
 Fremont Holdings,2015-10-06,1,1
-Freytag Florist,2014-08-20,3,3
-Freytag Florist,2015-08-20,-3,0
 G5 Investments,2014-01-07,1,1
 G5 Investments,2015-01-06,1,2
 G5 Investments,2015-01-07,-1,1
@@ -677,23 +687,17 @@ GST Hermanas Land and Cattle,2016-03-31,-2,0
 Gables Residential,2014-01-07,1,1
 Gables Residential,2015-01-07,-1,0
 Gables Residential,2015-12-24,1,1
-"Gallegos, Jim",2014-12-23,1,1
-"Gallegos, Jim",2015-01-06,2,3
-"Gallegos, Jim",2015-12-23,-1,2
-"Gallegos, Jim",2016-01-06,-2,0
+"Gallegos, Jim",2015-12-24,2,2
 "Garvey, Jeffery C.",2014-12-23,1,1
 "Garvey, Jeffery C.",2015-01-06,1,2
 "Garvey, Jeffery C.",2015-12-23,-1,1
-"Garvey, Jeffery C.",2016-01-07,1,2
-"Gates, Terrell",2015-01-12,1,1
-"Gates, Terrell",2016-01-12,-1,0
+"Garvey, Jeffery C.",2016-01-06,-1,0
 Gemini Solar Development,2014-06-27,1,1
 Gemini Solar Development,2015-06-27,-1,0
 Gene Burris,2014-01-07,2,2
 Gene Burris,2015-01-06,2,4
 Gene Burris,2016-01-06,-2,2
-Gene Schneider,2015-11-07,1,1
-Gene Schneider,2016-01-16,1,2
+Gene Schneider,2015-10-15,1,1
 "General Aviation Avenue, LLc",2014-01-13,1,1
 "General Aviation Avenue, LLc",2015-01-13,-1,0
 Generational Commercial Properties,2015-10-06,1,1
@@ -705,21 +709,31 @@ Glenn Jackson,2015-01-06,1,3
 Glenn Jackson,2015-01-07,-1,2
 Glenn Jackson,2016-01-06,-1,1
 Goodstone,2014-01-07,2,2
-Goodstone,2015-01-07,-2,0
-Goodstone,2016-01-07,2,2
-Google,2014-01-07,2,2
-Google,2014-01-09,1,3
-Google,2015-01-06,1,4
-Google,2015-01-07,-1,3
-Google,2015-01-09,1,4
-Google,2016-01-09,-1,3
-Google,2016-01-13,-1,2
-Goveia Commercial Real Estate,2016-01-20,2,2
+Goodstone,2015-01-06,1,3
+Goodstone,2015-01-07,-1,2
+Goodstone,2016-01-06,-1,1
+Goodstone,2016-01-07,1,2
+Google,2013-06-18,1,1
+Google,2014-01-07,2,3
+Google,2014-01-09,1,4
+Google,2015-01-06,1,5
+Google,2015-01-07,-1,4
+Google,2015-01-09,1,5
+Google,2015-01-16,2,7
+Google,2015-06-09,-1,6
+Google,2016-01-06,-2,4
+Google,2016-01-07,2,6
+Google,2016-01-09,-1,5
+Google,2016-01-13,-1,4
+Google,2016-01-16,-2,2
+Goveia Commercial Real Estate,2015-01-20,2,2
+Goveia Commercial Real Estate,2016-01-20,-2,0
 Grayco Partners,2014-01-09,2,2
 Grayco Partners,2014-08-29,1,3
 Grayco Partners,2015-01-09,-1,2
-Grayco Partners,2015-08-29,-1,1
-Grayco Partners,2016-01-12,-1,0
+Grayco Partners,2015-07-21,1,3
+Grayco Partners,2015-08-29,-1,2
+Grayco Partners,2016-01-12,-1,1
 Greater Austin Transportation,2013-06-28,1,1
 Greater Austin Transportation,2014-06-28,-1,0
 Greater Austin Transportation,2015-04-25,1,1
@@ -753,18 +767,18 @@ HDR,2014-10-08,-1,0
 HDR,2015-04-25,2,2
 HNTB,2013-09-03,1,1
 HNTB,2014-09-03,-1,0
-HNTB,2015-08-29,3,3
 HPI Real Estate and Services Investment,2013-12-20,1,1
 HPI Real Estate and Services Investment,2014-01-07,1,2
 HPI Real Estate and Services Investment,2014-12-20,-1,1
 HPI Real Estate and Services Investment,2015-01-06,1,2
-HPI Real Estate and Services Investment,2016-01-07,2,4
+HPI Real Estate and Services Investment,2016-01-06,-2,0
+HPI Real Estate and Services Investment,2016-01-07,2,2
 HSD Lakeway Holdings,2015-01-06,2,2
 HSD Lakeway Holdings,2015-12-24,2,4
 HSD Lakeway Holdings,2016-01-06,-2,2
 Halff Associates,2014-06-09,1,1
 Halff Associates,2015-06-13,1,2
-Harmony Public Schools,2014-12-23,1,1
+Harmony Public Schools,2015-12-24,1,1
 Harmony Public Schools,2016-01-07,1,2
 Harmony Public Schools,2016-01-20,1,3
 Harrod Properties,2013-10-01,1,1
@@ -773,29 +787,28 @@ Heiser Development,2013-10-01,1,1
 Heiser Development,2014-10-01,-1,0
 Henry S. Miller Realtors,2016-02-04,1,1
 Highland Management,2014-01-07,1,1
-Highland Management,2015-01-07,-1,0
-Highland Management,2015-02-02,1,1
-Highland Management,2016-01-07,2,3
+Highland Management,2015-01-06,1,2
+Highland Management,2015-01-07,-1,1
+Highland Management,2015-02-02,1,2
+Highland Management,2016-01-07,1,3
 Highland Management,2016-01-13,1,4
 "Highland Park West, Limited",2014-04-25,2,2
 "Highland Park West, Limited",2014-06-27,1,3
 "Highland Park West, Limited",2015-04-25,-2,1
 "Highland Park West, Limited",2015-06-27,-1,0
 Hill Country Estates Homeowners Association,2015-08-18,1,1
-"Hillin Jr., Robert",2014-01-03,1,1
-"Hillin Jr., Robert",2015-02-02,3,4
+"Hillin Jr., Robert",2015-02-02,4,4
 "Hillin Jr., Robert",2016-02-02,-4,0
 Hixon Properties,2013-07-09,1,1
 Hixon Properties,2014-01-09,1,2
 Hixon Properties,2014-07-09,-1,1
-Hixon Properties,2016-01-12,-1,0
-Hixon Properties,2016-03-14,1,1
+Hixon Properties,2016-01-09,2,3
+Hixon Properties,2016-01-12,-1,2
+Hixon Properties,2016-03-14,1,3
 Hoar Construction,2014-06-09,1,1
 Hoar Construction,2015-06-09,-1,0
-Home Away,2014-12-23,1,1
-Home Away,2015-12-23,-1,0
 Home Builders Association of Greater Austin,2015-06-10,1,1
-Home Builders Association of Greater Austin,2016-01-12,3,4
+Home Builders Association of Greater Austin,2016-01-12,2,3
 Home Slice Pizza,2014-10-09,1,1
 Home Slice Pizza,2015-10-09,-1,0
 Home Slice Pizza,2016-03-14,1,1
@@ -817,6 +830,7 @@ Hudgins Apartment Development,2015-04-25,-2,0
 Hughes Capital Management,2014-01-07,1,1
 Hughes Capital Management,2015-01-06,3,4
 Hughes Capital Management,2016-01-06,-2,2
+Hughes Capital Management,2016-01-07,2,4
 Husch Blackwell,2014-04-25,1,1
 Husch Blackwell,2015-04-25,-1,0
 Hyde Park Baptist Church,2013-12-20,1,1
@@ -824,7 +838,6 @@ Hyde Park Baptist Church,2014-01-07,2,3
 Hyde Park Baptist Church,2014-12-20,-1,2
 Hyde Park Baptist Church,2015-01-07,-2,0
 Hyde Park Baptist Church,2015-12-24,2,2
-Hyde Park Baptist Church,2016-01-07,2,4
 IBC Bank,2013-03-04,4,4
 IBC Bank,2014-03-04,-4,0
 IDEA Public Schools,2014-01-07,1,1
@@ -832,8 +845,9 @@ IDEA Public Schools,2015-01-06,2,3
 IDEA Public Schools,2015-01-07,-1,2
 IDEA Public Schools,2015-12-24,2,4
 IDEA Public Schools,2016-01-06,-2,2
-INTCO Development of Texas,2013-01-03,6,6
-INTCO Development of Texas,2014-01-03,-6,0
+IDEA Public Schools,2016-01-20,2,4
+INTCO Development of Texas,2013-01-03,2,2
+INTCO Development of Texas,2014-01-03,-2,0
 InSinkErator,2013-10-08,1,1
 InSinkErator,2014-04-24,1,2
 InSinkErator,2014-10-08,-1,1
@@ -847,12 +861,10 @@ Inland Group,2016-01-06,-1,0
 Insurance Auto Auctions,2014-06-27,1,1
 Insurance Auto Auctions,2015-04-24,2,3
 Insurance Auto Auctions,2015-06-27,1,4
-"International Bank of Commerce, Laredo, Texas",2014-01-03,3,3
-"International Bank of Commerce, Laredo, Texas",2015-01-03,-2,1
-"International Bank of Commerce, Laredo, Texas",2015-01-13,2,3
-"International Bank of Commerce, Laredo, Texas",2015-02-02,1,4
-"International Bank of Commerce, Laredo, Texas",2016-01-13,2,6
-"International Bank of Commerce, Laredo, Texas",2016-02-02,-2,4
+"International Bank of Commerce, Laredo, Texas",2014-01-03,4,4
+"International Bank of Commerce, Laredo, Texas",2015-01-03,-4,0
+"International Bank of Commerce, Laredo, Texas",2015-01-13,2,2
+"International Bank of Commerce, Laredo, Texas",2016-01-13,2,4
 Iron Rock Ranch Apts. Owner,2015-07-21,1,1
 Iron Rock Ranch Apts. Owner,2016-01-09,1,2
 JBS Holdings,2015-09-01,1,1
@@ -868,16 +880,17 @@ JSTrain,2016-01-09,1,1
 Jack Brown Family III,2014-01-03,1,1
 Jack Brown Family III,2016-02-02,-1,0
 Jack W. Gullahorn P.C.,2015-10-28,1,1
-James Jard,2014-04-25,2,2
-James Jard,2015-04-25,-2,0
 James Schneider,2013-12-20,1,1
 James Schneider,2014-12-20,-1,0
 James Schneider,2015-12-24,1,1
 James Schneider,2016-01-07,1,2
-James Schoenbaum,2015-12-24,2,2
+James Schoenbaum,2014-12-23,1,1
+James Schoenbaum,2015-12-24,1,2
 James Schoenbaum,2016-01-07,2,4
 Jeff Alderson,2013-03-07,1,1
 Jeff Alderson,2014-03-07,-1,0
+Jeff Blatt,2015-04-01,2,2
+Jeff Blatt,2016-03-31,-2,0
 Jeffery C. Garvey,2013-12-20,1,1
 Jeffery C. Garvey,2014-01-07,1,2
 Jeffery C. Garvey,2015-01-06,1,3
@@ -903,15 +916,14 @@ Jim Gallegos,2015-12-23,-1,1
 Jim Gallegos,2016-01-06,-1,0
 John Mayes,2013-04-29,1,1
 John Mayes,2014-04-29,-1,0
-Johnson Development,2015-01-20,2,2
-Johnson Development,2016-01-20,-2,0
+Johnson Development,2015-01-20,1,1
+Johnson Development,2016-01-20,1,2
 Johnson Four Corners,2014-08-01,1,1
 Johnson Four Corners,2015-08-01,-1,0
 "Joseph Liemandt, Andra Liemandt",2014-06-27,1,1
 "Joseph Liemandt, Andra Liemandt",2015-06-27,-1,0
 Journeyman Construction,2013-04-30,1,1
-Journeyman Construction,2014-08-20,2,3
-Journeyman Construction,2015-08-20,-3,0
+Journeyman Construction,2014-04-30,-1,0
 KB Home Central Texas Division,2015-09-12,2,2
 KB Home Lone Star,2014-01-03,2,2
 KB Home Lone Star,2015-01-03,-2,0
@@ -927,31 +939,27 @@ KEEP Real Estate,2015-12-21,-1,0
 KIPP Austin Public School,2013-12-20,1,1
 KIPP Austin Public School,2014-01-07,1,2
 KIPP Austin Public School,2014-12-23,1,3
-KIPP Austin Public School,2015-01-06,3,6
-KIPP Austin Public School,2015-12-23,-2,4
-KIPP Austin Public School,2016-01-06,-2,2
+KIPP Austin Public School,2015-01-06,1,4
+KIPP Austin Public School,2015-01-07,-1,3
+KIPP Austin Public School,2015-12-23,-2,1
+KIPP Austin Public School,2016-01-07,3,4
+KXAN,2013-01-03,4,4
+KXAN,2014-01-03,-4,0
 Kailey Development Partners,2014-06-27,1,1
 Kailey Development Partners,2015-06-27,-1,0
 Kathy Kyrish,2013-04-29,1,1
 Kathy Kyrish,2014-04-29,-1,0
-"Keating, Pat",2016-01-20,1,1
 Kenneth Gorence,2014-08-20,2,2
 Kenneth Gorence,2015-08-20,-2,0
 Kerbey Lane Cafe,2011-08-17,2,2
 Kerbey Lane Cafe,2012-08-16,-2,0
 Kevin Tarr,2014-06-27,1,1
 Kevin Tarr,2015-06-27,-1,0
-"Keyes, Mary Alice",2011-08-17,3,3
-"Keyes, Mary Alice",2012-08-16,-3,0
-"Khosravian, Dr. Pejman",2014-08-20,1,1
-"Khosravian, Dr. Pejman",2015-08-20,-1,0
 Kitchell Development,2013-01-03,8,8
 Kitchell Development,2014-01-03,-7,1
 Kitchell Development,2015-02-02,2,3
 Kitchell Development,2016-01-13,1,4
 Kitchell Development,2016-02-02,-2,2
-Koontz-McCombs,2011-05-10,4,4
-Koontz-McCombs,2012-05-09,-4,0
 Kronos,2015-06-13,2,2
 LTBS 2222,2014-08-01,1,1
 LYND,2015-10-15,1,1
@@ -963,17 +971,17 @@ Lakeline Corner Partners,2016-01-20,1,1
 Lampros Moumouris,2014-06-27,1,1
 Lampros Moumouris,2015-06-27,-1,0
 Lampting,2015-02-02,3,3
-Lampting,2016-01-13,2,5
-Lampting,2016-02-02,-3,2
+Lampting,2016-01-13,1,4
+Lampting,2016-02-02,-2,2
 Ledcor Properties Company,2013-10-07,1,1
 Ledcor Properties Company,2014-10-15,3,4
 Ledcor Properties Company,2015-10-10,1,5
 Ledcor Properties Company,2015-10-15,-3,2
-Legend Communities,2014-12-21,2,2
-Legend Communities,2015-07-15,1,3
-Legend Communities,2015-12-21,-2,1
+Legend Communities,2015-07-15,1,1
 Lennar Homes,2014-01-16,1,1
 Lennar Homes,2015-01-16,-1,0
+Lewis Sign Builders,2014-08-20,2,2
+Lewis Sign Builders,2015-08-20,-2,0
 Lica Pinkston,2013-01-03,2,2
 Lica Pinkston,2014-01-03,-2,0
 "Liemandt, Joseph and Andra",2011-08-17,1,1
@@ -984,18 +992,18 @@ Life Austin,2016-01-09,2,2
 Lincoln Clean Energy,2015-10-23,2,2
 Lincoln Property Company,2013-10-07,1,1
 Lincoln Property Company,2014-10-07,-1,0
+Lincoln Property Company,2015-01-12,2,2
+Lincoln Property Company,2016-01-12,-2,0
 Linda Moody,2014-01-07,1,1
-Linda Moody,2015-01-06,1,2
-Linda Moody,2015-01-07,-1,1
-Linda Moody,2016-01-07,1,2
+Linda Moody,2015-01-07,-1,0
+Linda Moody,2016-01-07,2,2
 Lippincott Capital,2014-04-25,2,2
 Lippincott Capital,2015-04-25,-2,0
 Liz Lambert,2013-12-20,1,1
 Liz Lambert,2014-01-07,1,2
 Liz Lambert,2014-12-23,1,3
 Liz Lambert,2015-01-06,3,6
-Liz Lambert,2015-12-23,-2,4
-Liz Lambert,2016-01-06,-4,0
+Liz Lambert,2016-01-06,-4,2
 "Logan, Ellen Anderson",2013-01-03,3,3
 "Logan, Ellen Anderson",2014-01-03,-3,0
 "Logan, Ellen Anderson",2015-02-02,2,2
@@ -1004,65 +1012,64 @@ Lone Star Cab Company,2011-04-21,1,1
 Lone Star Cab Company,2012-04-20,-1,0
 Lone Star Rail District (Austin-San Antonio Commuter Rail District),2013-04-29,1,1
 Lone Star Rail District (Austin-San Antonio Commuter Rail District),2014-08-05,2,3
-Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-01-13,2,5
-Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-06-25,-1,4
-Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-08-05,-2,2
-Lone Star Rail District (Austin-San Antonio Commuter Rail District),2016-01-13,-2,0
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-06-25,-1,2
+Lone Star Rail District (Austin-San Antonio Commuter Rail District),2015-08-05,-2,0
 Lone Star Rail District (Austin-San Antonio Commuter Rail District),2016-02-04,1,1
 "Lorenz, Perry",2011-08-17,3,3
 "Lorenz, Perry",2012-08-16,-3,0
 "Lorenz, Perry",2015-02-02,1,1
 "Lorenz, Perry",2016-02-02,-1,0
 Lost Creek Neighborhood Assoc,2014-06-27,1,1
-Lost Creek Neighborhood Assoc,2015-06-27,-1,0
+Lost Creek Neighborhood Assoc,2015-06-27,1,2
 Lyda Family Trust,2013-01-10,1,1
 Lyda Family Trust,2014-01-10,-1,0
 Lyft,2014-04-24,2,2
 Lyft,2015-04-24,-2,0
+Lyft,2016-01-05,1,1
 M.J. Investments,2013-03-07,1,1
 M.J. Investments,2014-03-07,-1,0
 MBC Engineers,2013-10-28,1,1
-MBC Engineers,2014-10-28,-1,0
-MBC Engineers,2015-11-07,2,2
-MBC Engineers,2016-01-16,2,4
+MBC Engineers,2014-10-09,1,2
+MBC Engineers,2015-11-07,2,4
+MBC Engineers,2016-01-16,2,6
 MKKN Development,2013-04-29,1,1
 MKKN Development,2014-04-29,-1,0
 MTG Management,2014-04-25,1,1
 MTG Management,2015-06-27,1,2
-MU 13,2010-12-16,5,5
-MU 13,2011-12-16,-5,0
+MVAA,2013-03-04,4,4
+MVAA,2014-03-04,-4,0
 MWH Constructors,2014-10-16,2,2
 MWH Constructors,2015-10-16,-1,1
 Maderone Ventures,2014-08-20,3,3
 Maderone Ventures,2015-08-20,-3,0
 Magellan Development Group,2013-12-20,1,1
 Magellan Development Group,2014-01-07,1,2
-Magellan Development Group,2014-12-23,1,3
-Magellan Development Group,2015-01-06,1,4
-Magellan Development Group,2015-12-23,-2,2
+Magellan Development Group,2014-12-20,-1,1
+Magellan Development Group,2015-01-06,1,2
 Magellan Development Group,2016-01-06,-1,1
 Magellan Development Group,2016-01-07,1,2
 Magnolia Montessori for all,2014-01-07,2,2
 Magnolia Montessori for all,2015-01-06,2,4
-Magnolia Montessori for all,2015-01-20,2,6
-Magnolia Montessori for all,2016-01-06,-4,2
-Magnolia Montessori for all,2016-01-20,-2,0
+Magnolia Montessori for all,2016-01-06,-4,0
+Majestic Realty,2015-12-24,2,2
 Makar Development - Waters Edge,2014-08-01,1,1
 Makar Development - Waters Edge,2015-01-06,1,2
 Makar Development - Waters Edge,2015-08-01,-1,1
 Makar Development - Waters Edge,2016-01-06,-1,0
+Makar Development - Waters Edge,2016-01-07,2,2
 Makar Properties,2015-01-06,1,1
 Makar Properties,2016-01-06,-1,0
 Manchester Financial Group,2014-01-09,1,1
 Manchester Financial Group,2014-08-29,1,2
-Manchester Financial Group,2015-01-09,-1,1
-Manchester Financial Group,2015-07-15,1,2
-Manchester Financial Group,2015-08-29,-1,1
-Manchester Financial Group,2016-01-09,1,2
+Manchester Financial Group,2015-01-12,1,3
+Manchester Financial Group,2015-07-15,1,4
+Manchester Financial Group,2015-08-29,-1,3
+Manchester Financial Group,2016-01-12,-1,2
 Manchester Texas Financial Group,2016-01-12,1,1
 Manoj Saxena,2015-01-06,2,2
 Manoj Saxena,2015-12-24,2,4
 Manoj Saxena,2016-01-06,-2,2
+Manoj Saxena,2016-01-07,2,4
 Marcus Whitfield,2015-06-27,2,2
 Margaret Scarbrough Wilson,2013-01-03,2,2
 Margaret Scarbrough Wilson,2014-01-03,-2,0
@@ -1076,7 +1083,6 @@ Marval Property Investments,2014-03-31,1,1
 Marval Property Investments,2015-03-31,-1,0
 Marvin Petzolt,2013-07-23,1,1
 Marvin Petzolt,2014-07-23,-1,0
-Masterplan,2015-09-05,2,2
 "McCullough, Todd",2014-01-07,1,1
 "McCullough, Todd",2015-01-06,1,2
 "McCullough, Todd",2015-12-24,2,4
@@ -1090,9 +1096,9 @@ Megabus Southwest,2015-10-15,1,1
 Megabus Southwest,2015-11-07,1,2
 Meredith Family Revocable Trust,2013-12-20,1,1
 Meredith Family Revocable Trust,2014-01-07,1,2
-Meredith Family Revocable Trust,2014-12-20,-1,1
-Meredith Family Revocable Trust,2015-01-06,2,3
-Meredith Family Revocable Trust,2015-12-24,1,4
+Meredith Family Revocable Trust,2014-12-23,1,3
+Meredith Family Revocable Trust,2015-01-06,2,5
+Meredith Family Revocable Trust,2015-12-23,-1,4
 Meredith Family Revocable Trust,2016-01-06,-2,2
 "Messier, David M.",2015-04-25,2,2
 Met Center,2013-01-03,2,2
@@ -1103,22 +1109,21 @@ Met Center,2015-03-31,-2,0
 Michael J. McGinnis,2013-02-14,1,1
 Michael J. McGinnis,2015-08-01,-1,0
 "Middleton, David",2014-12-23,1,1
-"Middleton, David",2015-12-24,1,2
-"Middleton, David",2016-01-07,2,4
+"Middleton, David",2015-12-23,-1,0
+"Middleton, David",2016-01-07,2,2
 Milestone Community Builders,2014-03-31,2,2
 Milestone Community Builders,2015-03-31,-2,0
 Mill Creek Residential Trust,2014-06-27,1,1
 Mill Creek Residential Trust,2015-06-27,-1,0
 Miller Uniform,2014-08-20,3,3
 Miller Uniform,2015-08-20,-3,0
-"Miller, John Calhoun",2011-08-17,2,2
-"Miller, John Calhoun",2012-08-16,-2,0
 Mission Homes,2013-04-29,1,1
 Mission Homes,2014-04-29,-1,0
 Morgan Group,2013-01-10,1,1
 Morgan Group,2013-10-01,1,2
 Morgan Group,2014-01-10,-1,1
 Morgan Group,2014-10-01,-1,0
+"Moumouris, Lampros",2015-04-24,2,2
 Mr. Irish Properties,2015-07-21,1,1
 Mr. Tramps Bar and Tavern,2014-05-02,2,2
 Mr. Tramps Bar and Tavern,2015-05-02,-2,0
@@ -1136,8 +1141,7 @@ Neans Investments,2014-08-01,1,1
 Neans Investments,2015-08-01,-1,0
 "Nelsen, Brad",2014-12-23,1,1
 "Nelsen, Brad",2015-01-06,1,2
-"Nelsen, Brad",2015-12-23,-1,1
-"Nelsen, Brad",2015-12-24,2,3
+"Nelsen, Brad",2015-12-24,1,3
 "Nelsen, Brad",2016-01-06,-1,2
 "Nelson, Brad",2014-01-07,1,1
 "Nelson, Brad",2014-12-23,1,2
@@ -1153,7 +1157,8 @@ North Austin MUD No. 1,2015-01-06,2,6
 North Austin MUD No. 1,2015-01-07,-1,5
 North Austin MUD No. 1,2015-10-16,-2,3
 North Austin MUD No. 1,2015-12-23,-1,2
-North Austin MUD No. 1,2016-01-06,-2,0
+North Austin MUD No. 1,2016-01-06,-1,1
+North Austin MUD No. 1,2016-01-07,1,2
 North Austin Municipal Utility District No. 1,2014-12-23,1,1
 North Austin Municipal Utility District No. 1,2015-12-24,1,2
 Northrop Grumman,2013-06-18,1,1
@@ -1161,31 +1166,31 @@ Northrop Grumman,2014-06-18,-1,0
 Northrop Grumman,2015-06-13,1,1
 Northtown MUD,2014-10-16,1,1
 Northtown MUD,2015-10-23,1,2
+NuRock Development,2011-08-17,4,4
+NuRock Development,2012-08-16,-4,0
 Oden Hughes,2013-10-07,1,1
 Oden Hughes,2014-10-15,2,3
-Oden Hughes,2015-01-12,2,5
-Oden Hughes,2015-07-15,1,6
-Oden Hughes,2015-10-15,-2,4
-Oden Hughes,2016-01-12,-2,2
+Oden Hughes,2015-01-12,1,4
+Oden Hughes,2015-07-15,1,5
+Oden Hughes,2015-10-15,-2,3
+Oden Hughes,2016-01-12,-1,2
 Onion Associates,2014-01-07,1,1
 Onion Associates,2015-01-07,-1,0
 Onion Associates,2016-01-07,2,2
-Oportun,2015-07-21,2,2
-Oracle America,2013-06-18,1,1
-Oracle America,2015-06-09,-1,0
-Oracle America,2015-12-24,1,1
 Orangestone Bluegrass,2013-12-20,1,1
 Orangestone Bluegrass,2014-01-07,1,2
 Orangestone Bluegrass,2014-12-20,-1,1
-Orangestone Bluegrass,2015-01-06,1,2
-Orangestone Bluegrass,2016-01-06,-2,0
+Orangestone Bluegrass,2015-01-07,-1,0
+Orangestone Bluegrass,2015-12-24,2,2
 Osten Hall,2015-01-12,2,2
 Osten Hall,2015-10-15,1,3
 Osten Hall,2015-11-07,1,4
 Osten Hall,2016-01-12,-1,3
+Oxford Alliance Investments,2015-04-24,2,2
+P and H Medical Solutions,2011-08-17,4,4
+P and H Medical Solutions,2012-08-16,-4,0
 P&S Investments I,2013-12-20,1,1
-P&S Investments I,2014-12-23,1,2
-P&S Investments I,2015-12-23,-2,0
+P&S Investments I,2014-12-20,-1,0
 P&S Investments I,2016-01-07,4,4
 PPF AMLI Covered Bridge Drive,2015-04-01,2,2
 PPF AMLI Covered Bridge Drive,2016-03-31,-2,0
@@ -1197,9 +1202,9 @@ PSW Real Estate,2015-05-02,-2,3
 PSW Real Estate,2015-07-23,-3,0
 Pacifica Host Hotels,2014-04-25,2,2
 Pacifica Host Hotels,2015-04-25,-2,0
-"Pacitti, Chris",2014-12-23,1,1
-"Pacitti, Chris",2015-01-06,1,2
-"Pacitti, Chris",2015-12-23,-1,1
+"Pacitti, Chris",2015-01-06,2,2
+"Pacitti, Chris",2016-01-06,-2,0
+"Pacitti, Chris",2016-01-07,1,1
 "Pahala Ventures, LLC dba Austin Emergency Center",2015-07-21,2,2
 Paz Doty,2014-04-25,1,1
 Paz Doty,2015-04-25,-1,0
@@ -1234,6 +1239,8 @@ Post Paggi,2015-01-09,-1,1
 Post Paggi,2016-01-12,-1,0
 PowerFin Texas Solar Projects,2015-01-12,1,1
 PowerFin Texas Solar Projects,2016-01-12,-1,0
+Powerfin Partners,2015-01-16,1,1
+Powerfin Partners,2016-01-16,-1,0
 Premier Parking Enforcement,2015-04-24,1,1
 Prevarian Hospital Partners,2011-08-17,3,3
 Prevarian Hospital Partners,2012-08-16,-3,0
@@ -1256,24 +1263,26 @@ Radec Management,2015-04-25,-1,1
 Radisson Hotel,2014-01-16,1,1
 Radisson Hotel,2015-01-06,3,4
 Radisson Hotel,2015-01-16,-1,3
-Radisson Hotel,2016-01-06,-2,1
-Radisson Hotel,2016-01-07,1,2
-Radisson Hotel,2016-01-20,2,4
+Radisson Hotel,2015-12-24,2,5
+Radisson Hotel,2016-01-06,-2,3
+Radisson Hotel,2016-01-07,1,4
+Radisson Hotel,2016-01-20,2,6
 "Radtke, Lorin",2014-07-09,1,1
 "Radtke, Lorin",2015-07-09,-1,0
 Ralph McElroy Company,2016-03-14,1,1
+Rancho Garza,2012-09-27,4,4
+Rancho Garza,2013-09-27,-4,0
 Randy Wilson,2013-12-20,1,1
 Randy Wilson,2014-12-20,-1,0
-Randy Wilson,2015-01-06,2,2
-Randy Wilson,2015-12-24,2,4
-Randy Wilson,2016-01-06,-2,2
+Randy Wilson,2015-12-24,2,2
 Reagan National Advertising,2013-10-01,1,1
 Reagan National Advertising,2014-06-27,1,2
 Reagan National Advertising,2014-10-01,-1,1
 Reagan National Advertising,2015-01-08,2,3
 Reagan National Advertising,2015-04-24,2,5
 Reagan National Advertising,2015-06-27,-1,4
-Reagan National Advertising,2016-01-08,-2,2
+Reagan National Advertising,2015-09-29,2,6
+Reagan National Advertising,2016-01-08,-2,4
 Recurrent Energy,2015-04-24,1,1
 Red Bluff Partners,2014-09-04,1,1
 Red Bluff Partners,2015-09-04,-1,0
@@ -1286,7 +1295,8 @@ RedLeaf Properties,2016-01-09,1,1
 Regents School of Austin,2013-01-10,1,1
 Regents School of Austin,2013-10-01,1,2
 Regents School of Austin,2014-01-10,-1,1
-Regents School of Austin,2014-10-01,-1,0
+Regents School of Austin,2014-10-02,1,2
+Regents School of Austin,2015-10-02,-2,0
 Republic Services,2014-02-03,1,1
 Republic Services,2015-02-03,-1,0
 Republic Services of Austin,2014-08-29,1,1
@@ -1303,11 +1313,8 @@ Rick Sheldon Real Estate,2015-03-31,-2,0
 Riddell Family,2014-01-07,1,1
 Riddell Family,2015-01-06,1,2
 Riddell Family,2016-01-06,-2,0
-River Place Municipal Utility District,2013-07-01,4,4
-River Place Municipal Utility District,2014-07-01,-4,0
-Riverside Homes/Scott Turner,2014-03-31,1,1
-Riverside Homes/Scott Turner,2015-04-01,1,2
-Riverside Homes/Scott Turner,2016-03-31,-2,0
+Riverside Homes/Scott Turner,2014-03-31,2,2
+Riverside Homes/Scott Turner,2015-03-31,-2,0
 Riverside Resources,2013-01-03,2,2
 Riverside Resources,2014-01-03,-2,0
 Riverside Resources,2014-06-27,1,1
@@ -1316,9 +1323,9 @@ Riverside Resources,2015-02-02,1,4
 Riverside Resources,2015-04-24,2,6
 Riverside Resources,2015-06-27,1,7
 Riverside Resources,2015-12-24,2,9
-Riverside Resources,2016-01-07,2,11
-Riverside Resources,2016-01-30,-2,9
-Riverside Resources,2016-02-02,-1,8
+Riverside Resources,2016-01-07,4,13
+Riverside Resources,2016-01-30,-2,11
+Riverside Resources,2016-02-02,-1,10
 Rob Roy Homeowners Association,2013-09-05,1,1
 Rob Roy Homeowners Association,2014-09-05,-1,0
 "Robbins, Freddie H.",2013-01-03,3,3
@@ -1330,16 +1337,18 @@ Robert Rock,2015-04-25,-1,0
 Robert Schmidt,2014-01-07,2,2
 Robert Schmidt,2015-01-06,1,3
 Robert Schmidt,2015-01-07,-1,2
-Robert Schmidt,2016-01-06,-2,0
-Robert Schmidt,2016-01-07,2,2
-Robert Turner,2015-03-24,2,2
-Robert Turner,2016-03-23,-2,0
+Robert Schmidt,2016-01-06,-1,1
+Robert Schmidt,2016-01-07,3,4
+Roberts Resorts,2015-06-27,2,2
 Robinson Ranch,2013-12-20,1,1
 Robinson Ranch,2014-12-23,1,2
-Robinson Ranch,2015-01-06,1,3
-Robinson Ranch,2015-12-23,-1,2
-Robinson Ranch,2016-01-06,-1,1
-"Rodriguez, Robert A.",2014-01-03,1,1
+Robinson Ranch,2015-01-06,3,5
+Robinson Ranch,2015-01-20,2,7
+Robinson Ranch,2015-12-23,-1,6
+Robinson Ranch,2016-01-06,-3,3
+Robinson Ranch,2016-01-20,-2,1
+"Rodriguez, Robert A.",2013-01-03,4,4
+"Rodriguez, Robert A.",2014-01-03,-3,1
 "Rodriguez, Robert A.",2015-02-02,1,2
 "Rodriguez, Robert A.",2016-02-02,-2,0
 "Ross, Robert",2011-08-17,2,2
@@ -1353,6 +1362,7 @@ Ryan Companies,2014-04-24,2,2
 Ryan Companies,2015-01-06,2,4
 Ryan Companies,2015-04-24,-2,2
 Ryan Companies,2016-01-06,-2,0
+Ryan Companies,2016-01-07,2,2
 Ryan Street and Associates,2013-12-20,1,1
 Ryan Street and Associates,2014-01-07,2,3
 Ryan Street and Associates,2014-12-23,1,4
@@ -1395,10 +1405,11 @@ Scott Sayers,2014-01-07,1,2
 Scott Sayers,2014-12-20,-1,1
 Scott Sayers,2015-01-06,2,3
 Scott Sayers,2015-01-07,-1,2
-Scott Sayers,2015-12-24,2,4
-Scott Sayers,2016-01-06,-2,2
+Scott Sayers,2016-01-06,-2,0
 "Scott, John",2014-12-23,1,1
 "Scott, John",2015-01-06,2,3
+"Second Congress, Limited",2011-08-17,4,4
+"Second Congress, Limited",2012-08-16,-4,0
 Senior Quality Lifestyles,2014-07-09,1,1
 Senior Quality Lifestyles,2014-08-29,1,2
 Senior Quality Lifestyles,2015-07-09,-1,1
@@ -1414,9 +1425,8 @@ Seton Healthcare,2015-10-23,2,8
 Seton Healthcare,2016-01-20,-2,6
 "Shapiro, Bobby and Jim",2013-12-20,1,1
 "Shapiro, Bobby and Jim",2014-01-07,1,2
-"Shapiro, Bobby and Jim",2014-12-20,-1,1
-"Shapiro, Bobby and Jim",2015-01-07,-1,0
-"Shapiro, Bobby and Jim",2015-12-24,2,2
+"Shapiro, Bobby and Jim",2014-12-23,1,3
+"Shapiro, Bobby and Jim",2015-01-07,-1,2
 "Shapiro, Bobby and Jim",2016-01-07,4,6
 Sheahan Business Center,2014-03-31,1,1
 Sheahan Business Center,2015-04-01,1,2
@@ -1426,8 +1436,8 @@ Shirley Vega,2015-08-20,-3,0
 Simmons Vedder Partners,2014-01-09,2,2
 Simmons Vedder Partners,2014-08-01,1,3
 Simmons Vedder Partners,2015-01-09,-1,2
-Simmons Vedder Partners,2015-08-01,-1,1
-Simmons Vedder Partners,2016-01-12,-1,0
+Simmons Vedder Partners,2015-08-01,1,3
+Simmons Vedder Partners,2016-01-12,-1,2
 Simon Property Group,2013-10-08,1,1
 Simon Property Group,2014-01-09,2,3
 Simon Property Group,2014-01-16,1,4
@@ -1443,7 +1453,6 @@ Simon Property Group,2016-01-20,-2,1
 Ski Shores Properties,2015-07-21,2,2
 Sohil Momin,2014-04-25,2,2
 Sohil Momin,2015-04-25,-2,0
-Sohil Momin,2015-06-27,2,2
 SolarCity,2015-06-16,1,1
 South IH-35 Investors,2014-01-03,2,2
 South IH-35 Investors,2015-01-03,-2,0
@@ -1454,8 +1463,6 @@ South River City Citizens Associations,2015-06-27,1,1
 Southern Company,2016-01-20,1,1
 Southside Wrecker,2013-10-08,1,1
 Southside Wrecker,2014-10-08,-1,0
-Southwest Parkway Partners,2013-01-03,4,4
-Southwest Parkway Partners,2014-01-03,-4,0
 Southwest Securities,2013-10-08,1,1
 Southwest Securities,2014-10-08,-1,0
 Southwest Strategies Group,2015-01-29,1,1
@@ -1469,7 +1476,6 @@ Speakeasy,2015-01-07,-1,2
 Speakeasy,2015-12-23,-2,0
 Spear Street Capital,2015-01-12,2,2
 Spear Street Capital,2016-01-12,-2,0
-Speedy Cash,2015-07-21,2,2
 Speedy Stop,2013-12-20,1,1
 Speedy Stop,2014-01-07,2,3
 Speedy Stop,2014-12-23,1,4
@@ -1477,20 +1483,16 @@ Speedy Stop,2015-01-07,-2,2
 Speedy Stop,2015-12-23,-1,1
 Speedy Stop,2016-01-07,1,2
 Spire Realty,2014-08-29,1,1
-Spire Realty,2015-01-12,2,3
+Spire Realty,2014-12-21,2,3
 Spire Realty,2015-08-29,-1,2
 Spire Realty,2016-01-12,-2,0
-Springdale Farms,2014-10-02,2,2
-Springdale Farms,2015-10-02,-2,0
 St. Andrew's Episcopal School,2014-01-07,1,1
-St. Andrew's Episcopal School,2015-01-06,1,2
-St. Andrew's Episcopal School,2015-01-07,-1,1
-St. Andrew's Episcopal School,2016-01-07,1,2
-St. Catherine of Siena,2015-01-08,2,2
-St. Catherine of Siena,2016-01-08,-2,0
+St. Andrew's Episcopal School,2015-01-07,-1,0
+St. Andrew's Episcopal School,2016-01-07,2,2
+St. Catherine of Siena,2015-01-08,1,1
+St. Catherine of Siena,2016-01-09,1,2
 St. David's Foundation,2015-01-30,4,4
 St. David's Foundation,2016-01-30,-4,0
-Stantec,2016-03-14,1,1
 Starwood Capital Group,2014-01-09,1,1
 Starwood Capital Group,2016-01-12,-1,0
 Stephen Melchiode,2014-04-25,2,2
@@ -1500,7 +1502,6 @@ Stephen Melchiode,2015-06-27,-1,0
 Steve Greenberg,2014-06-27,1,1
 Steve Greenberg,2015-06-27,-1,0
 Steve Pagura,2015-10-06,1,1
-Stoltz Management,2015-07-21,2,2
 Strategic Partnerships,2012-04-16,1,1
 Strategic Partnerships,2013-04-16,-1,0
 Stratus Properties,2014-01-03,1,1
@@ -1510,16 +1511,12 @@ Stratus Properties,2015-01-12,1,2
 Stratus Properties,2015-02-03,-1,1
 Stratus Properties,2016-01-05,1,2
 Stratus Properties,2016-01-12,-1,1
-"Straughan, George",2015-01-20,2,2
-"Straughan, George",2016-01-20,-2,0
+Stratus Properties,2016-02-23,1,2
+"Straughan, George",2016-01-20,2,2
 Stream Realty,2013-12-20,1,1
 Stream Realty,2014-12-20,-1,0
-Stream Realty,2015-01-06,2,2
-Stream Realty,2015-12-24,1,3
-Stream Realty,2016-01-06,-2,1
+Stream Realty,2015-12-24,1,1
 Stream Realty,2016-01-07,1,2
-Streamline Commercial Contractors,2014-08-20,3,3
-Streamline Commercial Contractors,2015-08-20,-3,0
 Street Lights Residential,2014-10-02,2,2
 Street Lights Residential,2015-01-12,1,3
 Street Lights Residential,2015-10-02,-2,1
@@ -1537,7 +1534,8 @@ Subway,2012-08-16,-3,0
 "Success Foods Management, LLC/DBA Torcy's Tacos",2016-01-06,-3,0
 "Success Foods Management, LLC/DBA Torcy's Tacos",2016-02-23,1,1
 Sutton Company,2013-10-01,1,1
-Sutton Company,2014-10-02,1,2
+Sutton Company,2014-10-01,-1,0
+Sutton Company,2015-10-06,2,2
 Synagro-WWT,2014-04-25,1,1
 Synagro-WWT,2015-06-27,1,2
 T. Stacy and Associates,2013-12-20,1,1
@@ -1550,9 +1548,9 @@ TCAS Global Investments,2015-08-01,1,1
 TCMUD #4,2014-01-09,1,1
 TCMUD #4,2015-01-09,-1,0
 TR Vista Preserve,2014-01-07,1,1
-TR Vista Preserve,2015-01-06,2,3
-TR Vista Preserve,2015-01-07,-1,2
-TR Vista Preserve,2016-01-06,-2,0
+TR Vista Preserve,2015-01-06,1,2
+TR Vista Preserve,2015-01-07,-1,1
+TR Vista Preserve,2016-01-07,1,2
 TRT Holdings,2016-01-20,2,2
 "TSVF I, Pecan Park",2015-12-24,1,1
 "TSVF I, Pecan Park",2016-01-07,1,2
@@ -1562,13 +1560,13 @@ Tanglewood Forest Limited District,2014-01-07,1,1
 Tanglewood Forest Limited District,2015-01-06,1,2
 Tanglewood Forest Limited District,2015-12-24,2,4
 Tanglewood Forest Limited District,2016-01-06,-2,2
-Tanglewood Forest Limited District,2016-01-07,2,4
 Tantallon Austin Hotel,2014-01-03,2,2
 Tantallon Austin Hotel,2015-01-03,-2,0
 Tantallon Austin Hotel,2015-02-02,1,1
 Tantallon Austin Hotel,2016-02-02,-1,0
 Taurus of Texas GP,2013-10-01,1,1
-Taurus of Texas GP,2014-10-02,1,2
+Taurus of Texas GP,2014-10-01,-1,0
+Taurus of Texas GP,2015-10-06,2,2
 Taurus of Texas GP,2016-01-09,2,4
 "Tawill, Saleem",2015-04-25,2,2
 Taylor Morrison,2013-12-20,1,1
@@ -1596,11 +1594,10 @@ Texas Capital Bank,2015-06-27,1,1
 Texas Credit Union Association,2016-03-23,2,2
 Texas Disposal Systems,2014-01-08,1,1
 Texas Disposal Systems,2015-01-06,2,3
-Texas Disposal Systems,2015-01-16,1,4
-Texas Disposal Systems,2015-01-30,1,5
-Texas Disposal Systems,2015-12-24,1,6
-Texas Disposal Systems,2016-01-06,-2,4
-Texas Disposal Systems,2016-01-16,-2,2
+Texas Disposal Systems,2015-01-08,-1,2
+Texas Disposal Systems,2015-01-30,1,3
+Texas Disposal Systems,2015-12-24,1,4
+Texas Disposal Systems,2016-01-06,-2,2
 Texas Research International,2013-10-07,2,2
 Texas Research International,2014-10-07,-1,1
 Texas Star Brands,2013-02-14,1,1
@@ -1615,32 +1612,29 @@ The Brohn Group,2014-07-18,-1,2
 The Brohn Group,2014-12-23,1,3
 The Brohn Group,2015-01-06,2,5
 The Brohn Group,2015-01-07,-1,4
-The Brohn Group,2015-08-01,2,6
-The Brohn Group,2016-01-06,-2,4
+The Brohn Group,2016-01-06,-2,2
 The Charter School Fund,2013-12-20,1,1
 The Charter School Fund,2014-01-07,1,2
 The Charter School Fund,2014-12-20,-1,1
-The Charter School Fund,2015-01-06,1,2
-The Charter School Fund,2015-12-24,2,4
-The Charter School Fund,2016-01-06,-2,2
-The Charter School Fund,2016-01-07,2,4
+The Charter School Fund,2015-01-07,-1,0
+The Charter School Fund,2015-12-24,2,2
+The Charter School Fund,2016-01-07,4,6
 The City School,2014-08-01,1,1
 The City School,2015-08-01,-1,0
 The Dinerstein Companies,2013-10-01,1,1
-The Dinerstein Companies,2014-10-01,-1,0
-The Dinerstein Companies,2015-01-08,2,2
+The Dinerstein Companies,2014-10-02,1,2
+The Dinerstein Companies,2015-01-08,2,4
+The Dinerstein Companies,2015-10-02,-2,2
 The Dinerstein Companies,2016-01-08,-2,0
 The Dovetail Companies,2013-12-20,1,1
 The Dovetail Companies,2014-01-07,1,2
 The Dovetail Companies,2014-12-23,1,3
-The Dovetail Companies,2015-01-06,3,6
-The Dovetail Companies,2015-12-23,-2,4
-The Dovetail Companies,2016-01-06,-4,0
+The Dovetail Companies,2015-01-06,1,4
+The Dovetail Companies,2015-12-23,-2,2
+The Dovetail Companies,2016-01-06,-2,0
 The Gottesman Company,2016-01-07,1,1
 The Greystone Group,2014-04-25,2,2
 The Greystone Group,2015-04-25,-2,0
-The Hanover Company,2014-10-02,2,2
-The Hanover Company,2015-10-02,-2,0
 The Kucera Companies,2014-01-07,1,1
 The Kucera Companies,2015-01-06,1,2
 The Kucera Companies,2016-01-06,-2,0
@@ -1650,19 +1644,18 @@ The Muskin Company,2014-01-03,-4,0
 The NRP Group,2014-01-07,1,1
 The NRP Group,2014-06-27,1,2
 The NRP Group,2014-12-23,2,4
-The NRP Group,2015-01-06,1,5
+The NRP Group,2015-01-07,-1,3
+The NRP Group,2015-04-24,2,5
 The NRP Group,2015-06-27,1,6
 The NRP Group,2015-10-15,2,8
-The NRP Group,2015-12-23,-1,7
-The NRP Group,2015-12-24,1,8
-The NRP Group,2016-01-06,-2,6
-The NRP Group,2016-01-07,2,8
-The NRP Group,2016-01-16,2,10
+The NRP Group,2015-12-23,-2,6
+The NRP Group,2016-01-07,4,10
+The NRP Group,2016-01-16,2,12
 The University of Texas System,2014-01-07,1,1
 The University of Texas System,2014-12-23,1,2
-The University of Texas System,2015-01-07,-1,1
-The University of Texas System,2015-02-02,2,3
-The University of Texas System,2016-01-07,1,4
+The University of Texas System,2015-01-06,1,3
+The University of Texas System,2015-02-02,2,5
+The University of Texas System,2016-01-06,-1,4
 The University of Texas System,2016-02-02,-1,3
 Thinkery,2014-04-24,2,2
 Thinkery,2015-04-24,-2,0
@@ -1678,31 +1671,35 @@ Tokyo Electron America,2015-10-23,2,2
 Tomlinson's Feed and Pets,2014-03-31,2,2
 Tomlinson's Feed and Pets,2015-03-31,-2,0
 Toria and Blake English,2015-08-01,1,1
-Total Wine and More,2015-01-06,1,1
-Total Wine and More,2015-12-24,2,3
+Total Wine and More,2014-12-23,1,1
+Total Wine and More,2015-01-06,1,2
+Total Wine and More,2015-12-24,1,3
 Total Wine and More,2016-01-06,-1,2
-Trammell Crow Company,2015-01-06,2,2
+Trammell Crow Company,2014-12-23,2,2
+Trammell Crow Company,2015-01-06,2,4
+Trammell Crow Company,2015-12-23,-2,2
 Trammell Crow Company,2016-01-06,-2,0
 Transmission Events,2015-01-29,1,1
 Transmission Events,2016-01-29,-1,0
 Transwestern Commercial,2014-07-09,2,2
 Transwestern Commercial,2014-08-29,1,3
 Transwestern Commercial,2014-12-21,2,5
-Transwestern Commercial,2015-07-09,-2,3
-Transwestern Commercial,2015-08-29,-1,2
+Transwestern Commercial,2015-01-12,1,6
+Transwestern Commercial,2015-07-09,-2,4
+Transwestern Commercial,2015-08-29,-1,3
+Transwestern Commercial,2015-12-21,-1,2
 Transwestern Commercial,2016-01-09,2,4
 Transwestern Commercial,2016-01-12,-2,2
 Travis County Healthcare District,2014-06-25,1,1
 Travis County Healthcare District,2015-06-25,-1,0
 Travis County Healthcare District,2015-06-27,1,1
 Travis County Healthcare District,2016-01-12,2,3
+Travis Entitlements,2010-12-16,4,4
+Travis Entitlements,2011-12-16,-4,0
 Travis Hotel Group,2014-04-25,1,1
 Travis Hotel Group,2014-06-27,1,2
 Treaty Oak Bank,2013-01-03,4,4
 Treaty Oak Bank,2014-01-03,-4,0
-Trilogy Enterprises,2011-08-17,4,4
-Trilogy Enterprises,2012-08-16,-4,0
-Trilogy Enterprises,2015-04-24,2,2
 Trinity Insurance Group,2014-03-13,1,1
 Trinity Insurance Group,2015-03-13,-1,0
 Trinity Insurance Group,2015-03-17,1,1
@@ -1715,7 +1712,8 @@ Trinsic Residential Group,2015-01-09,-1,1
 Trinsic Residential Group,2016-01-12,-1,0
 Troublemaker Studios,2014-01-03,1,1
 Troublemaker Studios,2015-02-02,2,3
-Troublemaker Studios,2016-02-02,-3,0
+Troublemaker Studios,2016-01-13,2,5
+Troublemaker Studios,2016-02-02,-3,2
 Trudy's Texas Star,2013-12-20,1,1
 Trudy's Texas Star,2014-01-07,1,2
 Trudy's Texas Star,2014-12-20,-1,1
@@ -1725,14 +1723,16 @@ Turnkey Cap. Group,2015-08-20,-3,0
 Twelve Lakes,2015-02-02,2,2
 Twelve Lakes,2016-01-13,2,4
 Twelve Lakes,2016-02-02,-2,2
-Twin Liquors,2015-04-01,2,2
-Twin Liquors,2016-03-31,-2,0
 Twin Oaks Associates,2013-01-03,4,4
-Twin Oaks Associates,2014-01-03,-4,0
+Twin Oaks Associates,2014-01-03,-2,2
+Twin Oaks Associates,2015-01-03,-2,0
 Twin Oaks Associates,2016-01-13,4,4
 UMLAUF Sculpture Gardens and Museum,2016-01-12,1,1
 URSTCO GP,2013-01-03,2,2
 URSTCO GP,2014-01-03,-2,0
+Uber Technologies,2014-05-15,3,3
+Uber Technologies,2015-05-15,-3,0
+Uber Technologies,2016-02-27,1,1
 UniSite,2014-04-29,1,1
 UniSite,2015-04-29,-1,0
 United Road Towing dba UR Vehicle Management Solutions,2014-06-09,2,2
@@ -1747,8 +1747,7 @@ Urban Outfitters,2016-01-06,-1,2
 V and S Enterprises,2014-06-27,1,1
 V and S Enterprises,2015-04-24,1,2
 V and S Enterprises,2015-06-27,-1,1
-Vargas Properties I,2014-03-31,2,2
-Vargas Properties I,2015-03-31,-1,1
+Vargas Properties I,2014-03-31,1,1
 Vargas Properties I,2016-03-31,-1,0
 Velocity Park I,2014-08-01,1,1
 Velocity Park I,2015-08-01,1,2
@@ -1768,7 +1767,7 @@ W and G Partnership,2013-12-20,1,1
 W and G Partnership,2014-01-07,1,2
 W and G Partnership,2014-12-20,-1,1
 W and G Partnership,2015-01-07,-1,0
-W and G Partnership,2016-01-07,4,4
+W and G Partnership,2016-01-07,2,2
 WEHBE Properties,2013-04-30,1,1
 WEHBE Properties,2014-04-30,-1,0
 WJP Swede Hill,2015-02-02,2,2
@@ -1777,7 +1776,6 @@ Wal-Mart,2011-04-21,1,1
 Wal-Mart,2012-04-20,-1,0
 Wal-Mart,2013-10-08,1,1
 Wal-Mart,2014-10-08,-1,0
-Wal-Mart,2015-10-23,2,2
 Walter B. Eads,2014-06-27,1,1
 Walter B. Eads,2015-06-27,-1,0
 Walters Southwest,2014-01-09,1,1
@@ -1809,9 +1807,6 @@ Wells Branch MUD,2015-10-23,2,2
 Wells Fargo,2014-10-09,1,1
 Wells Fargo,2015-10-15,1,2
 Wells Fargo,2015-11-07,2,4
-Wells Fargo,2016-01-16,2,6
-Wendow,2011-08-17,3,3
-Wendow,2012-08-16,-3,0
 Wes Peoples Homes,2015-02-02,1,1
 Wes Peoples Homes,2016-02-02,-1,0
 West Austin Youth Association,2013-10-08,1,1
@@ -1820,9 +1815,8 @@ Westbank Community Library District,2013-12-20,1,1
 Westbank Community Library District,2014-01-07,1,2
 Westbank Community Library District,2014-12-20,-1,1
 Westbank Community Library District,2014-12-23,1,2
-Westbank Community Library District,2015-01-06,2,4
-Westbank Community Library District,2015-01-07,-1,3
-Westbank Community Library District,2016-01-06,-2,1
+Westbank Community Library District,2015-01-06,3,5
+Westbank Community Library District,2016-01-06,-4,1
 Western Rim Investment Advisors,2014-10-09,1,1
 Western Rim Investment Advisors,2015-11-07,1,2
 Western Rim Investment Advisors,2016-01-16,1,3
@@ -1831,8 +1825,6 @@ White Lodging Services,2015-01-06,2,3
 White Lodging Services,2015-10-23,2,5
 White Lodging Services,2016-01-07,1,6
 "Whitman, Requardt and Associates",2015-07-15,1,1
-Wilfred Naddef,2011-05-10,4,4
-Wilfred Naddef,2012-05-09,-4,0
 "Wilkerson, Eric",2013-12-20,1,1
 "Wilkerson, Eric",2014-01-07,1,2
 "Wilkerson, Eric",2014-12-20,-1,1
@@ -1841,10 +1833,9 @@ Wilfred Naddef,2012-05-09,-4,0
 "Wilkerson, Eric",2016-01-06,-2,1
 "Wilkinson, Julia Matthews",2014-01-07,1,1
 "Wilkinson, Julia Matthews",2014-12-23,2,3
-"Wilkinson, Julia Matthews",2015-01-06,1,4
-"Wilkinson, Julia Matthews",2015-01-07,-1,3
-"Wilkinson, Julia Matthews",2015-12-23,-2,1
-"Wilkinson, Julia Matthews",2016-01-07,1,2
+"Wilkinson, Julia Matthews",2015-01-07,-1,2
+"Wilkinson, Julia Matthews",2015-12-23,-2,0
+"Wilkinson, Julia Matthews",2016-01-07,2,2
 Will Bridges,2014-08-20,3,3
 Will Bridges,2015-08-20,-3,0
 "Wiman, Sophie",2011-08-17,2,2
@@ -1857,6 +1848,8 @@ Wolfpack Group,2015-07-15,1,1
 "Wong, M.D., Mitchel",2015-01-03,-2,0
 "Wong, M.D., Mitchel",2015-02-02,1,1
 "Wong, M.D., Mitchel",2016-02-02,-1,0
+Workers Defense Project,2013-07-23,2,2
+Workers Defense Project,2014-07-23,-2,0
 Workers Defense Project,2015-02-18,1,1
 Xerox,2015-06-13,2,2
 ZFB,2013-02-14,1,1
@@ -1871,8 +1864,6 @@ Zilker Park Residences Partners,2014-04-25,2,2
 Zilker Park Residences Partners,2014-06-27,1,3
 Zilker Park Residences Partners,2015-04-25,-2,1
 Zilker Park Residences Partners,2015-06-27,-1,0
-"Zuniga, Diana",2016-03-14,1,1
 Zydeco Development,2014-01-03,1,1
 Zydeco Development,2015-02-02,1,2
-Zydeco Development,2016-01-13,1,3
-Zydeco Development,2016-02-02,-1,2
+Zydeco Development,2016-02-02,-2,0
