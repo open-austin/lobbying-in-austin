@@ -1,0 +1,1079 @@
+CLIENT_ID,REPORT_ID,REGISTRANT_ID,CLIENTENTITY_CD,CLIENT_TITLE,CLIENT_FIRST_NAME,CLIENT_MI,CLIENT_LAST_NAME,CLIENT_SUFFIX,CLIENT_ADR1,CLIENT_ADR2,CLIENT_CITY,CLIENT_STATE,CLIENT_ZIP,BUSINESS_DESC,COMP_CATEGORY,COMP_EXACT_AMOUNT,COMP_COMMENT,Row_ID
+C0026,R20170721094806,RG0035,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20170721094806-C0026
+C0027,R20170721094806,RG0035,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20170721094806-C0027
+C0028,R20170721094806,RG0035,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20170721094806-C0028
+C0029,R20170721094806,RG0035,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20170721094806-C0029
+C0005,R20171130160530,RG0132,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171130160530-C0005
+C0008,R20170814103640,RG0081,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0008
+C0009,R20170814103640,RG0081,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0009
+C0001,R20170814104106,RG0081,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0001
+C0002,R20170814104106,RG0081,Entity,,,,"Cadence Ventures Fund, LLC",,11612 FM 2244,"Building 1, Suite 140",Austin,TX,78738,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0002
+C0032,R20170901150800,RG0039,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20170901150800-C0032
+C0033,R20170901150800,RG0039,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901150800-C0033
+C0034,R20170901150800,RG0039,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20170901150800-C0034
+C0035,R20170901150800,RG0039,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20170901150800-C0035
+C0033,R20170901170011,RG0035,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901170011-C0033
+C0077,R20170915102317,RG0061,Entity,,,,MANIFOLD REAL ESTATE,,PO Box 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170915102317-C0077
+C0024,R20171017094650,RG0039,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094650-C0024
+C0027,R20171101082615,RG0066,Entity,,,,Wells Branch MUD,,3000 Shoreline Dr.,,Austin,TX,78728,Utility District,,,,R20171101082615-C0027
+C0042,R20171122114728,RG0057,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0042
+C0043,R20171122114728,RG0057,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0043
+C0044,R20171122114728,RG0057,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0044
+C0045,R20171122114728,RG0057,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0045
+C0046,R20171122114728,RG0057,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0046
+C0047,R20171122114728,RG0057,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0047
+C0048,R20171122114728,RG0057,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171122114728-C0048
+C0049,R20171122114728,RG0057,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0049
+C0050,R20171122114728,RG0057,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171122114728-C0050
+C0051,R20171122114728,RG0057,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0051
+C0052,R20171122114728,RG0057,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0052
+C0053,R20171122114728,RG0057,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0053
+C0054,R20171122114728,RG0057,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0054
+C0055,R20171122114728,RG0057,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0055
+C0023,R20180221105850,RG0142,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0023
+C0024,R20180221105850,RG0142,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0024
+C0025,R20180221105850,RG0142,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0025
+C0033,R20180221105850,RG0142,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0033
+C0034,R20180221105850,RG0142,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0034
+C0035,R20180221105850,RG0142,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20180221105850-C0035
+C0036,R20180221105850,RG0142,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0036
+C0037,R20180221105850,RG0142,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0037
+C0030,R20170721094806,RG0035,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20170721094806-C0030
+C0036,R20170901150800,RG0039,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20170901150800-C0036
+C0030,R20170901170011,RG0035,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20170901170011-C0030
+C0087,R20171031124151,RG0052,Entity,,,,Villas of Town Lake,,80 Red River Street,,Austin,TX,78701,Homeowners Association,,,,R20171031124151-C0087
+C0003,R20171113152000,RG0061,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171113152000-C0003
+C0014,R20171122114728,RG0057,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0014
+C0015,R20171122114728,RG0057,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0015
+C0016,R20171122114728,RG0057,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0016
+C0017,R20171122114728,RG0057,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0017
+C0018,R20171122114728,RG0057,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0018
+C0019,R20171122114728,RG0057,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0019
+C0020,R20171122114728,RG0057,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171122114728-C0020
+C0021,R20171122114728,RG0057,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0021
+C0022,R20171122114728,RG0057,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0022
+C0023,R20171122114728,RG0057,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0023
+C0024,R20171122114728,RG0057,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0024
+C0025,R20171122114728,RG0057,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0025
+C0001,R20180108171250,RG0021,Entity,,,,"Wal-Mart Stores, Inc.",,708 SW 8th Street,,Bentonville,AR,72716,Retail,,,,R20180108171250-C0001
+C0044,R20180221105850,RG0142,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0044
+C0045,R20180221105850,RG0142,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0045
+C0046,R20180221105850,RG0142,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0046
+C0047,R20180221105850,RG0142,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0047
+C0048,R20180221105850,RG0142,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20180221105850-C0048
+C0049,R20180221105850,RG0142,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0049
+C0050,R20180221105850,RG0142,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20180221105850-C0050
+C0051,R20180221105850,RG0142,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0051
+C0031,R20170721094806,RG0035,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170721094806-C0031
+C0036,R20170901170011,RG0035,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20170901170011-C0036
+C0012,R20170913174741,RG0083,Entity,,,,LifeAustin,,1301 Capital of Texas Hwy.,#308,Austin,TX,78746,Church,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0012
+C0003,R20170915171255,RG0029,Entity,,,,Berkshire Hathaway Automotive,,8333 Royal Ridge Parkway,,Irving,TX,75063,Property Owner,,,,R20170915171255-C0003
+C0091,R20171031124151,RG0052,Entity,,,,"LDG Development, LLC",,1305 E. 6th Street,Suite #13,Austin,TX,78702,Developer,,,,R20171031124151-C0091
+C0025,R20171115161738,RG0070,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0025
+C0067,R20171122113731,RG0018,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171122113731-C0067
+C0068,R20171122113731,RG0018,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0068
+C0069,R20171122113731,RG0018,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171122113731-C0069
+C0070,R20171122113731,RG0018,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0070
+C0071,R20171122113731,RG0018,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171122113731-C0071
+C0072,R20171122113731,RG0018,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0072
+C0012,R20180131095309,RG0136,Entity,,,,"WYNDHAM VACATION RESORTS, INC.",,6277 Sea Harbor Drive,,Orlando,FL,32821,Property owner/timeshare,,,,R20180131095309-C0012
+C0013,R20180131095309,RG0136,Entity,,,,"Austin 3C Venture, LP",,100 Congress Avenue,Suite 1450,Austin,TX,78701,Property Owner,,,,R20180131095309-C0013
+C0001,R20180209084822,RG0013,Entity,,,,Pure Lodging Hospitality Three LLC,,4201 Galiceno Lane,,Cedar Park,TX,78613,Property owner,,,,R20180209084822-C0001
+C0001,R20180209085302,RG0086,Entity,,,,VisitAustin,,"111 Congress Ave., Suite 700",,Austin,TX,78701,Visitors' Bureau of Austin,,,,R20180209085302-C0001
+C0001,R20180213090129,RG0140,Entity,,,,The ERISA Industry Committee,,701 8th Street NW,610,Washington,DC,20001,"Advocacy, Government",,,,R20180213090129-C0001
+C0001,R20180213091712,RG0139,Entity,,,,"Adapt Pharma, Inc.",,"c/o Politicom Law LLP, 28 Liberty Ship Way",Suite 2815,Sausalito,CA,94965,Pharmaceuticals,,,,R20180213091712-C0001
+C0052,R20180221105850,RG0142,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0052
+C0008,R20180221105850,RG0142,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20180221105850-C0008
+C0009,R20180221105850,RG0142,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0009
+C0010,R20180221105850,RG0142,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20180221105850-C0010
+C0011,R20180221105850,RG0142,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0011
+C0012,R20180221105850,RG0142,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20180221105850-C0012
+C0013,R20180221105850,RG0142,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0013
+C0014,R20180221105850,RG0142,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0014
+C0015,R20180221105850,RG0142,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0015
+C0001,R20170718153602,RG0085,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0001
+C0002,R20170718153602,RG0085,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0002
+C0003,R20170718153602,RG0085,Entity,,,,Cielo Property Group,,823 Congress Avenue,Suite 600,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0003
+C0004,R20170718153602,RG0085,Entity,,,,"Guild Travel, LLC",,611 South Congress,#330,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0004
+C0005,R20170718153602,RG0085,Entity,,,,"Lot 973, LLC",,3303 Northland Drive,#214,Austin,TX,78731,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0005
+C0006,R20170718153602,RG0085,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0006
+C0007,R20170718153602,RG0085,Entity,,,,Opus Group,,7500 Rialto Boulavard,"Bldg. 1, #250",Austin,TX,78735,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170718153602-C0007
+C0007,R20170721094806,RG0035,Entity,,,,"720 Lamar Place, L.C.",,P.O. Box 6110,,Austin,TX,78761,Property Owner,,,,R20170721094806-C0007
+C0008,R20170721094806,RG0035,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20170721094806-C0008
+C0009,R20170721094806,RG0035,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170721094806-C0009
+C0010,R20170721094806,RG0035,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20170721094806-C0010
+C0011,R20170721094806,RG0035,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170721094806-C0011
+C0012,R20170721094806,RG0035,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20170721094806-C0012
+C0013,R20170721094806,RG0035,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20170721094806-C0013
+C0014,R20170721094806,RG0035,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20170721094806-C0014
+C0015,R20170721094806,RG0035,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20170721094806-C0015
+C0016,R20170721094806,RG0035,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20170721094806-C0016
+C0017,R20170721094806,RG0035,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20170721094806-C0017
+C0018,R20170721094806,RG0035,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20170721094806-C0018
+C0019,R20170721094806,RG0035,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20170721094806-C0019
+C0020,R20170721094806,RG0035,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170721094806-C0020
+C0021,R20170721094806,RG0035,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170721094806-C0021
+C0022,R20170721094806,RG0035,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20170721094806-C0022
+C0023,R20170721094806,RG0035,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170721094806-C0023
+C0024,R20170721094806,RG0035,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170721094806-C0024
+C0025,R20170721094806,RG0035,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20170721094806-C0025
+C0032,R20170721094806,RG0035,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20170721094806-C0032
+C0033,R20170721094806,RG0035,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170721094806-C0033
+C0034,R20170721094806,RG0035,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20170721094806-C0034
+C0035,R20170721094806,RG0035,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20170721094806-C0035
+C0036,R20170721094806,RG0035,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20170721094806-C0036
+C0001,R20170721113241,RG0062,Entity,,,,Investors Alliance,,300 Bowie Street,100A,Austin,TX,78703,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170721113241-C0001
+C0001,R20170724105720,RG0092,Entity,,,,SKINNY LABS,,435 CHINA BASIN ST,421,SAN FRANCISCO,CA,94158,"SOLID WASTE DISPOSAL, HAULING AND RECYCLING",,,,R20170724105720-C0001
+C0001,R20170803121422,RG0115,Entity,,,,Save Our Springs Alliance,,905 W. Oltorf,A,Austin,TX,78704,Environmental non-profit corporation,,,,R20170803121422-C0001
+C0002,R20170803121422,RG0115,Entity,,,,Save Our City Austin,,309 E. 11th Street,Suite 2,Austin,TX,78701,Social Justice nonprofit organization,,,,R20170803121422-C0002
+C0001,R20170814091805,RG0114,Entity,,,,Grant Thornton,,1016 La Posada #280,,Austin,TX,78752,"Independent audit, tax and advisory",,,,R20170814091805-C0001
+C0002,R20170814091805,RG0114,Entity,,,,HDI Solutions,,1510 Pumphrey Ave,,Alburn,AL,36832,Database solutions,,,,R20170814091805-C0002
+C0003,R20170814091805,RG0114,Entity,,,,LeFleur Transportation,,219 Industrial Dr.,,Ridgeland,MS,39157,Transportation services,,,,R20170814091805-C0003
+C0004,R20170814091805,RG0114,Entity,,,,McKinstry,,13465 Midway Rd #100,,Dallas,TX,75244,Facility services,,,,R20170814091805-C0004
+C0005,R20170814091805,RG0114,Entity,,,,Oracle America Inc.,,2350 Kerner Blvd #250,,San Rafael,CA,94901,Software applications,,,,R20170814091805-C0005
+C0001,R20170814094340,RG0112,Entity,,,,Home Builders Association of Greater Austin,,8140 Exchange Dr,,Austin,TX,78754,Trade association,,,,R20170814094340-C0001
+C0001,R20170814101404,RG0049,Entity,,,,"Martin Marietta Materials, Inc.",,1503 LBJ Freeway,400,Dallas,TX,75234,Development,,,"May lobbying - new ordinance not in effect until June 1, 2017.",R20170814101404-C0001
+C0001,R20170814103640,RG0081,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0001
+C0002,R20170814103640,RG0081,Entity,,,,"Cadence Ventures Fund, LLC",,11612 FM 2244,"Building 1, Suite 140",Austin,TX,78738,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0002
+C0003,R20170814103640,RG0081,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0003
+C0004,R20170814103640,RG0081,Entity,,,,Lennar,,12401 Research Blvd.,"Bldg 1, Ste. 300",Austin,TX,78759,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0004
+C0005,R20170814103640,RG0081,Entity,,,,LifeAustin,,1301 Capital of Texas Hwy.,#308,Austin,TX,78746,Church,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0005
+C0006,R20170814103640,RG0081,Entity,,,,"Maple Multifamily TX Land TX, LP",,3889 Maple Avenue,#200,Dallas,TX,75219,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0006
+C0007,R20170814103640,RG0081,Entity,,,,McCourt,,888 Seventh Avenue,43rd Floor,New York,NY,10106,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814103640-C0007
+C0003,R20170814104106,RG0081,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0003
+C0004,R20170814104106,RG0081,Entity,,,,Lennar,,12401 Research Blvd.,"Bldg 1, Ste. 300",Austin,TX,78759,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0004
+C0005,R20170814104106,RG0081,Entity,,,,LifeAustin,,1301 Capital of Texas Hwy.,#308,Austin,TX,78746,Church,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0005
+C0006,R20170814104106,RG0081,Entity,,,,"Maple Multifamily TX Land TX, LP",,3889 Maple Avenue,#200,Dallas,TX,75219,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0006
+C0007,R20170814104106,RG0081,Entity,,,,McCourt,,888 Seventh Avenue,43rd Floor,New York,NY,10106,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0007
+C0008,R20170814104106,RG0081,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0008
+C0009,R20170814104106,RG0081,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170814104106-C0009
+C0001,R20170814105522,RG0116,Entity,,,,SpawGlass,,1111 Smith Road,,Austin,TX,78721,"Construction Firm, Commercial Construction",,,,R20170814105522-C0001
+C0002,R20170814105522,RG0116,Entity,,,,McKissack & McKissack,,III Lincoln Center 5430 LBJ Freeway,Suite 1200,Dallas,TX,75240,"Program Management, Architectural, Engineering Firm",,,,R20170814105522-C0002
+C0003,R20170814105522,RG0116,Entity,,,,"Performance Services, Inc",,3010 LBJ Freeway,Suite #1200,Dallas,TX,75234,"Energy Savings Company, ESCO",,,,R20170814105522-C0003
+C0004,R20170814105522,RG0116,Entity,,,,KGA Architecture,,1701 Directors Boulevard,Suite 770,Austin,TN,78744,"Architecture, Design, Interior Design, Space Planning, Office Renovations",,,,R20170814105522-C0004
+C0005,R20170814105522,RG0116,Entity,,,,Sorcity,,13625 Pond Springs Road,Suite 202,Austin,TX,78729,e-Procurement Purchasing & Reverse Auction Company,,,,R20170814105522-C0005
+C0001,R20170814130828,RG0069,Individual,,Adam,,Vehik,,1408 Eva St,,Austin,TX,78704,CFO,,,No compensation from the client was received.,R20170814130828-C0001
+C0001,R20170815095043,RG0084,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0001
+C0002,R20170815095043,RG0084,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0002
+C0003,R20170815095043,RG0084,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0003
+C0004,R20170815095043,RG0084,Entity,,,,Casa Garcia's,,1901 West William Cannon,,Austin,TX,78748,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0004
+C0005,R20170815095043,RG0084,Entity,,,,CZ Properties,,400 Bowie Street,,Austin,TX,78703,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0005
+C0006,R20170815095043,RG0084,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815095043-C0006
+C0001,R20170815112255,RG0084,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0001
+C0002,R20170815112255,RG0084,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0002
+C0003,R20170815112255,RG0084,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0003
+C0004,R20170815112255,RG0084,Entity,,,,Casa Garcia's,,1901 West William Cannon,,Austin,TX,78748,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0004
+C0005,R20170815112255,RG0084,Entity,,,,CZ Properties,,400 Bowie Street,,Austin,TX,78703,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0005
+C0006,R20170815112255,RG0084,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170815112255-C0006
+C0001,R20170818121303,RG0082,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121303-C0001
+C0002,R20170818121303,RG0082,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121303-C0002
+C0003,R20170818121303,RG0082,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121303-C0003
+C0001,R20170818121512,RG0082,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121512-C0001
+C0002,R20170818121512,RG0082,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121512-C0002
+C0003,R20170818121512,RG0082,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170818121512-C0003
+C0001,R20170828102845,RG0091,Entity,,,,"6400 Riverside, LLC",,1115 Kinney,Unit 38,Austin,TX,78704,land development,,,,R20170828102845-C0001
+C0002,R20170828102845,RG0091,Entity,,,,"Sycamore Court, LLC",,11130 Jollyville Road,Suite 302,Austin,TX,78759,homebuilder,,,,R20170828102845-C0002
+C0007,R20170901095457,RG0052,Entity,,,,"720 Lamar Place, L.C.",,P.O. Box 6110,,Austin,TX,78761,Property Owner,,,,R20170901095457-C0007
+C0008,R20170901095457,RG0052,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20170901095457-C0008
+C0009,R20170901095457,RG0052,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901095457-C0009
+C0010,R20170901095457,RG0052,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20170901095457-C0010
+C0011,R20170901095457,RG0052,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901095457-C0011
+C0012,R20170901095457,RG0052,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20170901095457-C0012
+C0013,R20170901095457,RG0052,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20170901095457-C0013
+C0014,R20170901095457,RG0052,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20170901095457-C0014
+C0015,R20170901095457,RG0052,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20170901095457-C0015
+C0016,R20170901095457,RG0052,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20170901095457-C0016
+C0017,R20170901095457,RG0052,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20170901095457-C0017
+C0018,R20170901095457,RG0052,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20170901095457-C0018
+C0019,R20170901095457,RG0052,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20170901095457-C0019
+C0020,R20170901095457,RG0052,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901095457-C0020
+C0021,R20170901095457,RG0052,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901095457-C0021
+C0022,R20170901095457,RG0052,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20170901095457-C0022
+C0023,R20170901095457,RG0052,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901095457-C0023
+C0024,R20170901095457,RG0052,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901095457-C0024
+C0025,R20170901095457,RG0052,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20170901095457-C0025
+C0026,R20170901095457,RG0052,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20170901095457-C0026
+C0027,R20170901095457,RG0052,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20170901095457-C0027
+C0028,R20170901095457,RG0052,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20170901095457-C0028
+C0029,R20170901095457,RG0052,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20170901095457-C0029
+C0030,R20170901095457,RG0052,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20170901095457-C0030
+C0031,R20170901095457,RG0052,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901095457-C0031
+C0032,R20170901095457,RG0052,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20170901095457-C0032
+C0033,R20170901095457,RG0052,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901095457-C0033
+C0034,R20170901095457,RG0052,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20170901095457-C0034
+C0035,R20170901095457,RG0052,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20170901095457-C0035
+C0036,R20170901095457,RG0052,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20170901095457-C0036
+C0039,R20170901095457,RG0052,Entity,,,,69 Grandview LP,,8300 North FM 620,Bldg. K,Austin,TX,78726,Property Owner,,,,R20170901095457-C0039
+C0040,R20170901095457,RG0052,Entity,,,,"1715 G, LLC",,"755 Grand Blvd., B-105",Suite 236,Miramar Beach,FL,32550,Property Owner,,,,R20170901095457-C0040
+C0041,R20170901095457,RG0052,Entity,,,,"2208 Lake Austin, LLC",,2208 Lake Austin Blvd.,,Austin,TX,78703,Property Owner,,,,R20170901095457-C0041
+C0042,R20170901095457,RG0052,Entity,,,,AECOM,,400 West 15th Street,Suite 500,Austin,TX,78701,Engineers,,,,R20170901095457-C0042
+C0043,R20170901095457,RG0052,Entity,,,,"APC thinkEAST Development, LLC",,2950 SW 27th Avenue,Suite 200,Miami,FL,33133,Developer,,,,R20170901095457-C0043
+C0044,R20170901095457,RG0052,Entity,,,,"Atlantic Housing Foundation, Inc.",,1310 N. White Chapel Blvd.,Suite 100,Southlake,TX,76092,Developer,,,,R20170901095457-C0044
+C0045,R20170901095457,RG0052,Entity,,,,"Atlantic Pacific Communities, LLC",,2950 SW 27th Avenue,Suite 200,Miami,FL,33133,Developer,,,,R20170901095457-C0045
+C0046,R20170901095457,RG0052,Entity,,,,"Atlas Defense, LLC",,19500 Hwy. 29,,Liberty Hill,TX,76092,Law Enforcement Training,,,,R20170901095457-C0046
+C0047,R20170901095457,RG0052,Entity,,,,"ATX Film & Television Studios, Inc.",,750 Battery Street,Suite 430,San Francisco,CA,94111,Equipment Rental,,,,R20170901095457-C0047
+C0048,R20170901095457,RG0052,Entity,,,,"Austin Renaissance, Ltd.",,433 Camden Drive,Suite 1177,Beverly Hills,CA,90210,Property Owner,,,,R20170901095457-C0048
+C0049,R20170901095457,RG0052,Entity,,,,AXF Development,,3050 Aventura Blvd.,3rd Floor,Aventura,FL,33180,Property Owner,,,,R20170901095457-C0049
+C0050,R20170901095457,RG0052,Entity,,,,Berns Commercial Properties,,1515 Capital of Texas Hwy.,Suite 412,Austin,TX,78746,Real Property Owner,,,,R20170901095457-C0050
+C0051,R20170901095457,RG0052,Entity,,,,Bounce Marketing & Events,,336 S. Congress Avenue,Suite 512,Austin,TX,78704,Event Company,,,,R20170901095457-C0051
+C0052,R20170901095457,RG0052,Entity,,,,Carollo Engineers,,3033 N. 44th Street,Suite 101,Phoenix,AZ,85018,Engineers,,,,R20170901095457-C0052
+C0053,R20170901095457,RG0052,Entity,,,,CMST Development,,12007 Technology Blvd.,,Austin,TX,78727,Developer,,,,R20170901095457-C0053
+C0054,R20170901095457,RG0052,Entity,,,,"Continental Cars, Inc.",,6757 Airport Blvd.,,Austin,TX,78752,Car Dealership,,,,R20170901095457-C0054
+C0055,R20170901095457,RG0052,Entity,,,,D.R. Horton,,10700 Pecan Park Blvd.,4th Floor,Austin,TX,78750,Home Builder,,,,R20170901095457-C0055
+C0056,R20170901095457,RG0052,Entity,,,,Falcon Southwest Development Company,,7301 Burnet Road,Suite 102-291,Austin,TX,78757,Real Estate Development,,,,R20170901095457-C0056
+C0057,R20170901095457,RG0052,Entity,,,,Fine Line Diversified Development,,2001 Main Street,Suite 700,Ft. Worth,TX,76102,Property Owner,,,,R20170901095457-C0057
+C0058,R20170901095457,RG0052,Entity,,,,"Foundation Communities, Inc.",,3036 S. 1st Street,Suite 200,Austin,TX,78704,Property Owner,,,,R20170901095457-C0058
+C0059,R20170901095457,RG0052,Individual,,Anthony,,George,,1204 Wild Basin Ledge,,Austin,TX,78746,Property Owner,,,,R20170901095457-C0059
+C0060,R20170901095457,RG0052,Entity,,,,"Griffin School, Inc.",,5001 Evans Avenue,,Austin,TX,78751,Property Owner,,,,R20170901095457-C0060
+C0061,R20170901095457,RG0052,Entity,,,,"Grubb & Ellis Realty Investors, LLC",,4 Hutton Centre,Suite 700,South Coast Metro,CA,92707,Real Property Owner,,,,R20170901095457-C0061
+C0062,R20170901095457,RG0052,Individual,,Navid,,Hoomanrad,,P.O. Box 4903,,Austin,TX,78765,Property Owner,,,,R20170901095457-C0062
+C0063,R20170901095457,RG0052,Entity,,,,Insurance Auto Auctions,,1000 Dalton Lane,,Austin,TX,78742,Auto Salvage,,,,R20170901095457-C0063
+C0064,R20170901095457,RG0052,Entity,,,,"LDG Norwood, L.P.",,502 E. Highland Mall Blvd.,Suite 106-B,Austin,TX,78752,Property Owner,,,,R20170901095457-C0064
+C0065,R20170901095457,RG0052,Individual,,Andra,,Liemandt,,801 W. 5th Street,#2903,Austin,TX,78703,Real Property Owner,,,,R20170901095457-C0065
+C0066,R20170901095457,RG0052,Individual,,Joseph,,Liemandt,,801 W. 5th Street,#2903,Austin,TX,78703,Real Property Owner,,,,R20170901095457-C0066
+C0067,R20170901095457,RG0052,Entity,,,,"Mariposa Real Estate, LLC",,7809 Brodie Lane,,Austin,TX,78749,Montessori School,,,,R20170901095457-C0067
+C0068,R20170901095457,RG0052,Entity,,,,"McAdams Enterprises, LLC",,4511 Avenue D,,Austin,TX,78751,Property Owner,,,,R20170901095457-C0068
+C0069,R20170901095457,RG0052,Entity,,,,Mill Creek Residential Trust,,2001 Bryan Street,Suite 3275,Dallas,TX,75201,Developer,,,,R20170901095457-C0069
+C0070,R20170901095457,RG0052,Individual,,Lampros,,Moumouris,,8315 Lime Creek Road,,Leander,TX,78641,Property Owner,,,,R20170901095457-C0070
+C0071,R20170901095457,RG0052,Entity,,,,The NRP Group,,200 Concord Plaza,Suite 900,San Antonio,TX,78216,Developer,,,,R20170901095457-C0071
+C0075,R20170901095457,RG0052,Entity,,,,"Radec Management, Inc.",,P.O. Box 29837,,Austin,TX,78735,Property Management,,,,R20170901095457-C0075
+C0076,R20170901095457,RG0052,Individual,,Wayne,,Reaud,,801 Laurel Street,,Beaumont,TX,77701,Property Owner,,,,R20170901095457-C0076
+C0077,R20170901095457,RG0052,Entity,,,,"Sandstone Ventures, LLC",,148 Cibolo Ridge Trail,,Boerne,TX,78015,Developer,,,,R20170901095457-C0077
+C0078,R20170901095457,RG0052,Entity,,,,South River City Citizens Association,,1719 Deerfield Drive,,Austin,TX,78741,Neighborhood Association,,,,R20170901095457-C0078
+C0079,R20170901095457,RG0052,Entity,,,,"Synagro-WWT, Inc.",,435 Williams Court,Suite 100,Baltimore,MD,21220,Recycling Company,,,,R20170901095457-C0079
+C0080,R20170901095457,RG0052,Entity,,,,Texas Capital Bank,,114 West 7th Street,Suite 300,Austin,TX,78701,Banking Association,,,,R20170901095457-C0080
+C0081,R20170901095457,RG0052,Entity,,,,"Terrace at Walnut Creek, Ltd.",,700 Lavaca,Suite 1560,Austin,TX,78701,Developer,,,,R20170901095457-C0081
+C0082,R20170901095457,RG0052,Entity,,,,The Parke at Travis Country COA,,"c/o Alliance Association Mgmt., 115 Wild Basin Road",Suite 308,Austin,TX,78746,Condominium Owners Association,,,,R20170901095457-C0082
+C0083,R20170901095457,RG0052,Entity,,,,"Travis Hotel Group, LLC",,2711 N. Haskell,28th Floor,Dallas,TX,75204,Developer,,,,R20170901095457-C0083
+C0084,R20170901095457,RG0052,Entity,,,,"Trilogy Enterprises, Inc.",,6011 W. Courtyard Drive,,Austin,TX,78730,Property Owner,,,,R20170901095457-C0084
+C0085,R20170901095457,RG0052,Entity,,,,"TWC-1626, LLC",,901 S. MoPac Expressway,"Building 1, Suite 160",Austin,TX,78746,Developer,,,,R20170901095457-C0085
+C0086,R20170901095457,RG0052,Entity,,,,Versa Development,,4733 College Park,Suite 200,San Antonio,TX,78249,Property Owner,,,,R20170901095457-C0086
+C0087,R20170901095457,RG0052,Entity,,,,Villas of Town Lake,,80 Red River Street,,Austin,TX,78701,Homeowners Association,,,,R20170901095457-C0087
+C0088,R20170901095457,RG0052,Entity,,,,"Zilker Park Residences Partners, L.P.",,P.O. Box 684707,,Austin,TX,78768,Land Development Company,,,,R20170901095457-C0088
+C0001,R20170901144416,RG0122,Entity,,,,"Uber Technologies, Inc.",,1455 Market Street,Suite 400,San Francisco,CA,94103,"Transportation, Technology",,,,R20170901144416-C0001
+C0001,R20170901145659,RG0123,Entity,,,,Amazon Corporate LLC,,"601 New Jersey Avenue, NW",Suite 900,Washington,DC,20001,Information Technology,,,,R20170901145659-C0001
+C0008,R20170901150800,RG0039,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20170901150800-C0008
+C0009,R20170901150800,RG0039,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901150800-C0009
+C0010,R20170901150800,RG0039,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20170901150800-C0010
+C0011,R20170901150800,RG0039,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901150800-C0011
+C0012,R20170901150800,RG0039,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20170901150800-C0012
+C0013,R20170901150800,RG0039,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20170901150800-C0013
+C0014,R20170901150800,RG0039,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20170901150800-C0014
+C0015,R20170901150800,RG0039,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20170901150800-C0015
+C0016,R20170901150800,RG0039,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20170901150800-C0016
+C0017,R20170901150800,RG0039,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20170901150800-C0017
+C0018,R20170901150800,RG0039,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20170901150800-C0018
+C0019,R20170901150800,RG0039,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20170901150800-C0019
+C0020,R20170901150800,RG0039,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901150800-C0020
+C0021,R20170901150800,RG0039,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901150800-C0021
+C0022,R20170901150800,RG0039,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20170901150800-C0022
+C0023,R20170901150800,RG0039,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901150800-C0023
+C0024,R20170901150800,RG0039,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901150800-C0024
+C0025,R20170901150800,RG0039,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20170901150800-C0025
+C0026,R20170901150800,RG0039,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20170901150800-C0026
+C0027,R20170901150800,RG0039,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20170901150800-C0027
+C0028,R20170901150800,RG0039,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20170901150800-C0028
+C0029,R20170901150800,RG0039,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20170901150800-C0029
+C0030,R20170901150800,RG0039,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20170901150800-C0030
+C0031,R20170901150800,RG0039,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901150800-C0031
+C0075,R20170901163922,RG0018,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH Fl.,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20170901163922-C0075
+C0076,R20170901163922,RG0018,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170901163922-C0076
+C0077,R20170901163922,RG0018,Entity,,,,MANIFOLD REAL ESTATE,,PO Box 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170901163922-C0077
+C0001,R20170901165207,RG0121,Entity,,,,The Center for Public Policy Priorities,,7020 Easy Wind Drive,Suite 200,Austin,TX,78752,Nonprofit policy analysis and advocacy,,,,R20170901165207-C0001
+C0007,R20170901170011,RG0035,Entity,,,,"720 Lamar Place, L.C.",,P.O. Box 6110,,Austin,TX,78761,Property Owner,,,,R20170901170011-C0007
+C0008,R20170901170011,RG0035,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20170901170011-C0008
+C0009,R20170901170011,RG0035,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20170901170011-C0009
+C0010,R20170901170011,RG0035,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20170901170011-C0010
+C0011,R20170901170011,RG0035,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901170011-C0011
+C0012,R20170901170011,RG0035,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20170901170011-C0012
+C0013,R20170901170011,RG0035,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20170901170011-C0013
+C0014,R20170901170011,RG0035,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20170901170011-C0014
+C0015,R20170901170011,RG0035,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20170901170011-C0015
+C0016,R20170901170011,RG0035,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20170901170011-C0016
+C0017,R20170901170011,RG0035,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20170901170011-C0017
+C0018,R20170901170011,RG0035,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20170901170011-C0018
+C0019,R20170901170011,RG0035,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20170901170011-C0019
+C0020,R20170901170011,RG0035,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901170011-C0020
+C0021,R20170901170011,RG0035,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901170011-C0021
+C0022,R20170901170011,RG0035,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20170901170011-C0022
+C0023,R20170901170011,RG0035,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901170011-C0023
+C0024,R20170901170011,RG0035,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20170901170011-C0024
+C0025,R20170901170011,RG0035,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20170901170011-C0025
+C0026,R20170901170011,RG0035,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20170901170011-C0026
+C0027,R20170901170011,RG0035,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20170901170011-C0027
+C0028,R20170901170011,RG0035,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20170901170011-C0028
+C0029,R20170901170011,RG0035,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20170901170011-C0029
+C0031,R20170901170011,RG0035,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20170901170011-C0031
+C0032,R20170901170011,RG0035,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20170901170011-C0032
+C0034,R20170901170011,RG0035,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20170901170011-C0034
+C0035,R20170901170011,RG0035,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20170901170011-C0035
+C0075,R20170901170724,RG0057,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH Fl.,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20170901170724-C0075
+C0076,R20170901170724,RG0057,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170901170724-C0076
+C0077,R20170901170724,RG0057,Entity,,,,MANIFOLD REAL ESTATE,,PO Box 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170901170724-C0077
+C0075,R20170906101018,RG0070,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH Fl.,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20170906101018-C0075
+C0076,R20170906101018,RG0070,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170906101018-C0076
+C0077,R20170906101018,RG0070,Entity,,,,MANIFOLD REAL ESTATE,,PO Box 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170906101018-C0077
+C0001,R20170906160820,RG0120,Entity,,,,Grit & Grace,,4112 Medical Parkway,,Austin,TX,78756,Draught House Pub & Brewery,,,,R20170906160820-C0001
+C0001,R20170913084617,RG0119,Entity,,,,Flower Hill Foundation,,1316 W. 6th Street,,Austin,TX,78703,Museum - Smoot House,,,,R20170913084617-C0001
+C0075,R20170913093043,RG0065,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH Fl.,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20170913093043-C0075
+C0076,R20170913093043,RG0065,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170913093043-C0076
+C0001,R20170913095226,RG0086,Entity,,,,Austin Hotel & Lodging Association,,P. O. Box 82431,,Austin,TX,78701,Austin Hotel and Lodging Association,,,,R20170913095226-C0001
+C0001,R20170913174741,RG0083,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0001
+C0002,R20170913174741,RG0083,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0002
+C0003,R20170913174741,RG0083,Entity,,,,"Cadence Ventures Fund, LLC",,11612 FM 2244,"Building 1, Suite 140",Austin,TX,78738,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0003
+C0004,R20170913174741,RG0083,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0004
+C0005,R20170913174741,RG0083,Entity,,,,Casa Garcia's,,1901 West William Cannon,,Austin,TX,78748,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0005
+C0006,R20170913174741,RG0083,Entity,,,,Cielo Property Group,,823 Congress Avenue,Suite 600,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0006
+C0007,R20170913174741,RG0083,Entity,,,,CZ Properties,,400 Bowie Street,,Austin,TX,78703,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0007
+C0008,R20170913174741,RG0083,Entity,,,,"Guild Travel, LLC",,611 South Congress,#330,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0008
+C0009,R20170913174741,RG0083,Entity,,,,"Hotel Magdalena, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0009
+C0010,R20170913174741,RG0083,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0010
+C0011,R20170913174741,RG0083,Entity,,,,Lennar,,12401 Research Blvd.,"Bldg 1, Ste. 300",Austin,TX,78759,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0011
+C0013,R20170913174741,RG0083,Entity,,,,"Lot 973, LLC",,3303 Northland Drive,#214,Austin,TX,78731,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0013
+C0014,R20170913174741,RG0083,Entity,,,,"Maple Multifamily TX Land TX, LP",,3889 Maple Avenue,#200,Dallas,TX,75219,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0014
+C0015,R20170913174741,RG0083,Entity,,,,McCourt,,888 Seventh Avenue,43rd Floor,New York,NY,10106,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0015
+C0016,R20170913174741,RG0083,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0016
+C0017,R20170913174741,RG0083,Entity,,,,"NAPA, LLC",,921 West New Hope Drive,,Cedar Park,TX,78613,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0017
+C0018,R20170913174741,RG0083,Entity,,,,Opus Group,,7500 Rialto Boulavard,"Bldg. 1, #250",Austin,TX,78735,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0018
+C0019,R20170913174741,RG0083,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0019
+C0020,R20170913174741,RG0083,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913174741-C0020
+C0001,R20170913175151,RG0083,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0001
+C0002,R20170913175151,RG0083,Entity,,,,AllPoints Construction Services,,4401 Wallings Forge Drive,,Austin,TX,78727,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0002
+C0003,R20170913175151,RG0083,Entity,,,,"Cadence Ventures Fund, LLC",,11612 FM 2244,"Building 1, Suite 140",Austin,TX,78738,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0003
+C0004,R20170913175151,RG0083,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0004
+C0005,R20170913175151,RG0083,Entity,,,,Casa Garcia's,,1901 West William Cannon,,Austin,TX,78748,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0005
+C0006,R20170913175151,RG0083,Entity,,,,Cielo Property Group,,823 Congress Avenue,Suite 600,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0006
+C0007,R20170913175151,RG0083,Entity,,,,CZ Properties,,400 Bowie Street,,Austin,TX,78703,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0007
+C0008,R20170913175151,RG0083,Entity,,,,"Guild Travel, LLC",,611 South Congress,#330,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0008
+C0009,R20170913175151,RG0083,Entity,,,,"Hotel Magdalena, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0009
+C0010,R20170913175151,RG0083,Entity,,,,"The Jenkins Organization, Inc.",,2539 South Gessner,#13,Houston,TX,77063,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0010
+C0011,R20170913175151,RG0083,Entity,,,,Lennar,,12401 Research Blvd.,"Bldg 1, Ste. 300",Austin,TX,78759,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0011
+C0012,R20170913175151,RG0083,Entity,,,,LifeAustin,,1301 Capital of Texas Hwy.,#308,Austin,TX,78746,Church,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0012
+C0013,R20170913175151,RG0083,Entity,,,,"Lot 973, LLC",,3303 Northland Drive,#214,Austin,TX,78731,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0013
+C0014,R20170913175151,RG0083,Entity,,,,"Maple Multifamily TX Land TX, LP",,3889 Maple Avenue,#200,Dallas,TX,75219,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0014
+C0015,R20170913175151,RG0083,Entity,,,,McCourt,,888 Seventh Avenue,43rd Floor,New York,NY,10106,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0015
+C0016,R20170913175151,RG0083,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0016
+C0017,R20170913175151,RG0083,Entity,,,,"NAPA, LLC",,921 West New Hope Drive,,Cedar Park,TX,78613,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0017
+C0018,R20170913175151,RG0083,Entity,,,,Opus Group,,7500 Rialto Boulavard,"Bldg. 1, #250",Austin,TX,78735,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0018
+C0019,R20170913175151,RG0083,Entity,,,,Stratford Land,,5949 Sherry Lane,#1750,Dallas,TX,75225,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0019
+C0020,R20170913175151,RG0083,Entity,,,,"Taurus of Texas GP, Inc.",,9285 Huntington Square,,North Richland Hills,TX,76180,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170913175151-C0020
+C0075,R20170915102317,RG0061,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH Fl.,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20170915102317-C0075
+C0076,R20170915102317,RG0061,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170915102317-C0076
+C0004,R20170915171255,RG0029,Entity,,,,Greater Austin Transportation Co.,,"c/o Jerry Harris, 111 Congress Avenue",,Austin,TX,78701,Taxicab Company,,,,R20170915171255-C0004
+C0005,R20170915171255,RG0029,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20170915171255-C0005
+C0006,R20170915171255,RG0029,Entity,,,,"World Class Acquisitions, LLC",,401 Congress Avenue,,Austin,TX,78701,Real Estate Acquisition Company,,,,R20170915171255-C0006
+C0001,R20170920171702,RG0124,Entity,,,,The Center for Public Policy Priorities,,7020 Easy Wind Drive,Suite 200,Austin,TX,78752,Nonprofit policy analysis and advocacy,,,,R20170920171702-C0001
+C0001,R20170925153720,RG0044,Entity,,,,HNTB Corporation,,c/o 28 Liberty Ship Way,Suite 2815,Sausalito,CA,94965,"Architecture, engineering, and planning services",,,,R20170925153720-C0001
+C0001,R20171003113951,RG0073,Entity,,,,"Uber Technologies, Inc.",,207 Brazos St.,,Austin,TX,78701,"Technology, Transportation",,,,R20171003113951-C0001
+C0001,R20171003114842,RG0021,Entity,,,,"Wal-Mart Stores, Inc.",,708 SW 8th Street,,Bentonville,AR,72716,Retail,,,,R20171003114842-C0001
+C0001,R20171008191205,RG0068,Entity,,,,Amazon Corporate LLC,,601 New Jersey Avenue,Suite 900,Washington,DC,20001,Information Technology,,,,R20171008191205-C0001
+C0001,R20171009085215,RG0122,Entity,,,,"Uber Technologies, Inc.",,207 Brazos St.,,Austin,TX,78701,"Technology, Transportation",,,,R20171009085215-C0001
+C0001,R20171009085338,RG0036,Entity,,,,"Uber Technologies, Inc.",,207 Brazos St.,,Austin,TX,78701,"Technology, Transportation",,,,R20171009085338-C0001
+C0001,R20171010091405,RG0063,Entity,,,,Fidelity Capital Markets,,200 Seaport Boulevard,Suite 630,Boston,MA,02110,Financial Services,,,,R20171010091405-C0001
+C0001,R20171012142405,RG0123,Entity,,,,Amazon Corporate LLC,,601 New Jersey Avenue,Suite 900,Washington,DC,20001,Information Technology,,,,R20171012142405-C0001
+C0008,R20171017094426,RG0035,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20171017094426-C0008
+C0009,R20171017094426,RG0035,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171017094426-C0009
+C0010,R20171017094426,RG0035,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20171017094426-C0010
+C0011,R20171017094426,RG0035,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094426-C0011
+C0012,R20171017094426,RG0035,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20171017094426-C0012
+C0013,R20171017094426,RG0035,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20171017094426-C0013
+C0014,R20171017094426,RG0035,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20171017094426-C0014
+C0015,R20171017094426,RG0035,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20171017094426-C0015
+C0016,R20171017094426,RG0035,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20171017094426-C0016
+C0017,R20171017094426,RG0035,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20171017094426-C0017
+C0018,R20171017094426,RG0035,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20171017094426-C0018
+C0019,R20171017094426,RG0035,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20171017094426-C0019
+C0020,R20171017094426,RG0035,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171017094426-C0020
+C0021,R20171017094426,RG0035,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094426-C0021
+C0022,R20171017094426,RG0035,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20171017094426-C0022
+C0023,R20171017094426,RG0035,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094426-C0023
+C0024,R20171017094426,RG0035,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094426-C0024
+C0025,R20171017094426,RG0035,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20171017094426-C0025
+C0026,R20171017094426,RG0035,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20171017094426-C0026
+C0027,R20171017094426,RG0035,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20171017094426-C0027
+C0028,R20171017094426,RG0035,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20171017094426-C0028
+C0029,R20171017094426,RG0035,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20171017094426-C0029
+C0030,R20171017094426,RG0035,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20171017094426-C0030
+C0031,R20171017094426,RG0035,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171017094426-C0031
+C0032,R20171017094426,RG0035,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20171017094426-C0032
+C0033,R20171017094426,RG0035,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171017094426-C0033
+C0034,R20171017094426,RG0035,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20171017094426-C0034
+C0035,R20171017094426,RG0035,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20171017094426-C0035
+C0036,R20171017094426,RG0035,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20171017094426-C0036
+C0039,R20171017094426,RG0035,Entity,,,,"Intergalactic Holdings, LLC",,P.O. Box 50594,,Austin,TX,78763,Property Owner,,,,R20171017094426-C0039
+C0040,R20171017094426,RG0035,Entity,,,,Kurtz/Zirkelbach Lifetime Trusts,,2426 Loxford Lane,,Alpharetta,GA,30009,Property Owner,,,,R20171017094426-C0040
+C0041,R20171017094426,RG0035,Entity,,,,"LDG Development, LLC",,1305 E. 6th Street,Suite #13,Austin,TX,78702,Developer,,,,R20171017094426-C0041
+C0042,R20171017094426,RG0035,Entity,,,,"Powell-Corbett, LLC",,P.O. Box 92977,,Austin,TX,78709,Property Owner,,,,R20171017094426-C0042
+C0008,R20171017094650,RG0039,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20171017094650-C0008
+C0009,R20171017094650,RG0039,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171017094650-C0009
+C0010,R20171017094650,RG0039,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20171017094650-C0010
+C0011,R20171017094650,RG0039,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094650-C0011
+C0012,R20171017094650,RG0039,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20171017094650-C0012
+C0013,R20171017094650,RG0039,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20171017094650-C0013
+C0014,R20171017094650,RG0039,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20171017094650-C0014
+C0015,R20171017094650,RG0039,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20171017094650-C0015
+C0016,R20171017094650,RG0039,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20171017094650-C0016
+C0017,R20171017094650,RG0039,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20171017094650-C0017
+C0018,R20171017094650,RG0039,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20171017094650-C0018
+C0019,R20171017094650,RG0039,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20171017094650-C0019
+C0020,R20171017094650,RG0039,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171017094650-C0020
+C0021,R20171017094650,RG0039,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094650-C0021
+C0022,R20171017094650,RG0039,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20171017094650-C0022
+C0023,R20171017094650,RG0039,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171017094650-C0023
+C0025,R20171017094650,RG0039,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20171017094650-C0025
+C0026,R20171017094650,RG0039,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20171017094650-C0026
+C0027,R20171017094650,RG0039,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20171017094650-C0027
+C0028,R20171017094650,RG0039,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20171017094650-C0028
+C0029,R20171017094650,RG0039,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20171017094650-C0029
+C0030,R20171017094650,RG0039,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20171017094650-C0030
+C0031,R20171017094650,RG0039,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171017094650-C0031
+C0032,R20171017094650,RG0039,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20171017094650-C0032
+C0033,R20171017094650,RG0039,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171017094650-C0033
+C0034,R20171017094650,RG0039,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20171017094650-C0034
+C0035,R20171017094650,RG0039,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20171017094650-C0035
+C0036,R20171017094650,RG0039,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20171017094650-C0036
+C0039,R20171017094650,RG0039,Entity,,,,"Intergalactic Holdings, LLC",,P.O. Box 50594,,Austin,TX,78763,Property Owner,,,,R20171017094650-C0039
+C0040,R20171017094650,RG0039,Entity,,,,Kurtz/Zirkelbach Lifetime Trusts,,2426 Loxford Lane,,Alpharetta,GA,30009,Property Owner,,,,R20171017094650-C0040
+C0041,R20171017094650,RG0039,Entity,,,,"LDG Development, LLC",,1305 E. 6th Street,Suite #13,Austin,TX,78702,Developer,,,,R20171017094650-C0041
+C0042,R20171017094650,RG0039,Entity,,,,"Powell-Corbett, LLC",,P.O. Box 92977,,Austin,TX,78709,Property Owner,,,,R20171017094650-C0042
+C0001,R20171030160718,RG0010,Individual,,David,,Cancialosi,,105 W Riverside Dr.,225,Austin,TX,78704,"Permit Partners, LLC",,,,R20171030160718-C0001
+C0007,R20171031124151,RG0052,Entity,,,,"720 Lamar Place, L.C.",,P.O. Box 6110,,Austin,TX,78761,Property Owner,,,,R20171031124151-C0007
+C0008,R20171031124151,RG0052,Entity,,,,Bouldin Creek Neighborhood Association,,P.O. Box 3683,,Austin,TX,78764,Neighborhood Association,,,,R20171031124151-C0008
+C0009,R20171031124151,RG0052,Entity,,,,"Eskew Place, Ltd.",,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171031124151-C0009
+C0010,R20171031124151,RG0052,Entity,,,,Eureka Holdings,,3001 Knox Street,Suite 400,Dallas,TX,75205,Developer,,,,R20171031124151-C0010
+C0011,R20171031124151,RG0052,Entity,,,,"F. Scott Holdings, LLC",,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171031124151-C0011
+C0012,R20171031124151,RG0052,Entity,,,,"Forestar (USA) Real Estate Group, Inc.",,6300 Bee Cave Road,"Building Two, Suite 500",Austin,TX,78746,Developer,,,,R20171031124151-C0012
+C0013,R20171031124151,RG0052,Entity,,,,"IMPACT Developers, LLC",,6000 S. Congress Avenue,Suite 101,Austin,TX,78745,Developer,,,,R20171031124151-C0013
+C0014,R20171031124151,RG0052,Entity,,,,"Journeyman Austin Holdings, Inc.",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Developer,,,,R20171031124151-C0014
+C0015,R20171031124151,RG0052,Entity,,,,"Lippincott Capital, Ltd.",,2322 Townes Lane,,Austin,TX,78703,Property Owner,,,,R20171031124151-C0015
+C0016,R20171031124151,RG0052,Entity,,,,Lost Creek Neighborhood Association,,1305 Quaker Ridge,Suite A,Austin,TX,78746,Neighborhood Association,,,,R20171031124151-C0016
+C0017,R20171031124151,RG0052,Individual,,Jesse,L.,Lunsford,,3235 E. Cesar Chavez Street,,Austin,TX,78702,Property Owner,,,,R20171031124151-C0017
+C0018,R20171031124151,RG0052,Individual,,Daniel,R.,Mitchell,,2311 Lafayette,,Austin,TX,78722,Property Owner,,,,R20171031124151-C0018
+C0019,R20171031124151,RG0052,Individual,,Sohil,,Momin,,2201 Real Catorce,,Austin,TX,78746,Property Owner,,,,R20171031124151-C0019
+C0020,R20171031124151,RG0052,Entity,,,,MTG Management,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171031124151-C0020
+C0021,R20171031124151,RG0052,Individual,,Carolyn,Elizabeth,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171031124151-C0021
+C0022,R20171031124151,RG0052,Individual,,Frances,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property  Owner,,,,R20171031124151-C0022
+C0023,R20171031124151,RG0052,Individual,,John,Scott,Neal,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171031124151-C0023
+C0024,R20171031124151,RG0052,Entity,,,,Neal (Shoal Creek Property) Family Limited Partnership,,4501 Ridge Oak Drive,,Austin,TX,78731,Property Owner,,,,R20171031124151-C0024
+C0025,R20171031124151,RG0052,Entity,,,,Pinnacle Real Estate & Management Company,,3508 Far West Blvd.,Suite 170,Austin,TX,78731,Developer,,,,R20171031124151-C0025
+C0026,R20171031124151,RG0052,Entity,,,,"Riverside Resources Investments, Ltd.",,100 Congress Avenue,Suite 780,Austin,TX,78701,Property Owner,,,,R20171031124151-C0026
+C0027,R20171031124151,RG0052,Entity,,,,SKV-Villas,,111 Congress Avenue,Suite G-190,Austin,TX,78701,Developer,,,,R20171031124151-C0027
+C0028,R20171031124151,RG0052,Entity,,,,Telvending Corp.,,1617 Watchhill Road,,Austin,TX,78703,Property Owner,,,,R20171031124151-C0028
+C0029,R20171031124151,RG0052,Entity,,,,The Trail Foundation,,P.O. Box 5195,,Austin,TX,78763,Non-Profit Corporation,,,,R20171031124151-C0029
+C0030,R20171031124151,RG0052,Entity,,,,Travis County Healthcare District a/k/a Central Health,,1111 E. Cesar Chavez Street,,Austin,TX,78702,Public District - Health Care,,,,R20171031124151-C0030
+C0031,R20171031124151,RG0052,Entity,,,,V&S Enterprises,,P.O. Box 6110,,Austin,TX,78761,Commercial Real Property Management,,,,R20171031124151-C0031
+C0032,R20171031124151,RG0052,Entity,,,,Victory Medical Center,,4303 Victory Center,,Austin,TX,78704,Medical Services,,,,R20171031124151-C0032
+C0033,R20171031124151,RG0052,Individual,,Marcus,,Whitfield,,1101 S. Capital of Texas Hwy,Suite A-101,Austin,TX,78746,Property Owner,,,,R20171031124151-C0033
+C0034,R20171031124151,RG0052,Individual,,Jim,C.,Whorton,,1200 Barton Creek Blvd.,Suite 52,Austin,TX,78746,Property Owner,,,,R20171031124151-C0034
+C0035,R20171031124151,RG0052,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20171031124151-C0035
+C0036,R20171031124151,RG0052,Entity,,,,"Krug Development, Inc.",,4866 N. Clark Street,,Chicago,IL,60640,Property Owner,,,,R20171031124151-C0036
+C0039,R20171031124151,RG0052,Entity,,,,69 Grandview LP,,8300 North FM 620,Bldg. K,Austin,TX,78726,Property Owner,,,,R20171031124151-C0039
+C0040,R20171031124151,RG0052,Entity,,,,"1715 G, LLC",,"755 Grand Blvd., B-105",Suite 236,Miramar Beach,FL,32550,Property Owner,,,,R20171031124151-C0040
+C0041,R20171031124151,RG0052,Entity,,,,"2208 Lake Austin, LLC",,2208 Lake Austin Blvd.,,Austin,TX,78703,Property Owner,,,,R20171031124151-C0041
+C0042,R20171031124151,RG0052,Entity,,,,AECOM,,400 West 15th Street,Suite 500,Austin,TX,78701,Engineers,,,,R20171031124151-C0042
+C0043,R20171031124151,RG0052,Entity,,,,"APC thinkEAST Development, LLC",,2950 SW 27th Avenue,Suite 200,Miami,FL,33133,Developer,,,,R20171031124151-C0043
+C0044,R20171031124151,RG0052,Entity,,,,"Atlantic Housing Foundation, Inc.",,1310 N. White Chapel Blvd.,Suite 100,Southlake,TX,76092,Developer,,,,R20171031124151-C0044
+C0045,R20171031124151,RG0052,Entity,,,,"Atlantic Pacific Communities, LLC",,2950 SW 27th Avenue,Suite 200,Miami,FL,33133,Developer,,,,R20171031124151-C0045
+C0046,R20171031124151,RG0052,Entity,,,,"Atlas Defense, LLC",,19500 Hwy. 29,,Liberty Hill,TX,76092,Law Enforcement Training,,,,R20171031124151-C0046
+C0047,R20171031124151,RG0052,Entity,,,,"ATX Film & Television Studios, Inc.",,750 Battery Street,Suite 430,San Francisco,CA,94111,Equipment Rental,,,,R20171031124151-C0047
+C0048,R20171031124151,RG0052,Entity,,,,"Austin Renaissance, Ltd.",,433 Camden Drive,Suite 1177,Beverly Hills,CA,90210,Property Owner,,,,R20171031124151-C0048
+C0049,R20171031124151,RG0052,Entity,,,,AXF Development,,3050 Aventura Blvd.,3rd Floor,Aventura,FL,33180,Property Owner,,,,R20171031124151-C0049
+C0050,R20171031124151,RG0052,Entity,,,,Berns Commercial Properties,,1515 Capital of Texas Hwy.,Suite 412,Austin,TX,78746,Real Property Owner,,,,R20171031124151-C0050
+C0051,R20171031124151,RG0052,Entity,,,,Bounce Marketing & Events,,336 S. Congress Avenue,Suite 512,Austin,TX,78704,Event Company,,,,R20171031124151-C0051
+C0052,R20171031124151,RG0052,Entity,,,,Carollo Engineers,,3033 N. 44th Street,Suite 101,Phoenix,AZ,85018,Engineers,,,,R20171031124151-C0052
+C0053,R20171031124151,RG0052,Entity,,,,CMST Development,,12007 Technology Blvd.,,Austin,TX,78727,Developer,,,,R20171031124151-C0053
+C0054,R20171031124151,RG0052,Entity,,,,"Continental Cars, Inc.",,6757 Airport Blvd.,,Austin,TX,78752,Car Dealership,,,,R20171031124151-C0054
+C0055,R20171031124151,RG0052,Entity,,,,D.R. Horton,,10700 Pecan Park Blvd.,4th Floor,Austin,TX,78750,Home Builder,,,,R20171031124151-C0055
+C0056,R20171031124151,RG0052,Entity,,,,Falcon Southwest Development Company,,7301 Burnet Road,Suite 102-291,Austin,TX,78757,Real Estate Development,,,,R20171031124151-C0056
+C0057,R20171031124151,RG0052,Entity,,,,Fine Line Diversified Development,,2001 Main Street,Suite 700,Ft. Worth,TX,76102,Property Owner,,,,R20171031124151-C0057
+C0058,R20171031124151,RG0052,Entity,,,,"Foundation Communities, Inc.",,3036 S. 1st Street,Suite 200,Austin,TX,78704,Property Owner,,,,R20171031124151-C0058
+C0059,R20171031124151,RG0052,Individual,,Anthony,,George,,1204 Wild Basin Ledge,,Austin,TX,78746,Property Owner,,,,R20171031124151-C0059
+C0060,R20171031124151,RG0052,Entity,,,,"Griffin School, Inc.",,5001 Evans Avenue,,Austin,TX,78751,Property Owner,,,,R20171031124151-C0060
+C0061,R20171031124151,RG0052,Entity,,,,"Grubb & Ellis Realty Investors, LLC",,4 Hutton Centre,Suite 700,South Coast Metro,CA,92707,Real Property Owner,,,,R20171031124151-C0061
+C0062,R20171031124151,RG0052,Individual,,Navid,,Hoomanrad,,P.O. Box 4903,,Austin,TX,78765,Property Owner,,,,R20171031124151-C0062
+C0063,R20171031124151,RG0052,Entity,,,,Insurance Auto Auctions,,1000 Dalton Lane,,Austin,TX,78742,Auto Salvage,,,,R20171031124151-C0063
+C0064,R20171031124151,RG0052,Entity,,,,"LDG Norwood, L.P.",,502 E. Highland Mall Blvd.,Suite 106-B,Austin,TX,78752,Property Owner,,,,R20171031124151-C0064
+C0065,R20171031124151,RG0052,Individual,,Andra,,Liemandt,,801 W. 5th Street,#2903,Austin,TX,78703,Real Property Owner,,,,R20171031124151-C0065
+C0066,R20171031124151,RG0052,Individual,,Joseph,,Liemandt,,801 W. 5th Street,#2903,Austin,TX,78703,Real Property Owner,,,,R20171031124151-C0066
+C0067,R20171031124151,RG0052,Entity,,,,"Mariposa Real Estate, LLC",,7809 Brodie Lane,,Austin,TX,78749,Montessori School,,,,R20171031124151-C0067
+C0068,R20171031124151,RG0052,Entity,,,,"McAdams Enterprises, LLC",,4511 Avenue D,,Austin,TX,78751,Property Owner,,,,R20171031124151-C0068
+C0069,R20171031124151,RG0052,Entity,,,,Mill Creek Residential Trust,,2001 Bryan Street,Suite 3275,Dallas,TX,75201,Developer,,,,R20171031124151-C0069
+C0070,R20171031124151,RG0052,Individual,,Lampros,,Moumouris,,8315 Lime Creek Road,,Leander,TX,78641,Property Owner,,,,R20171031124151-C0070
+C0071,R20171031124151,RG0052,Entity,,,,The NRP Group,,200 Concord Plaza,Suite 900,San Antonio,TX,78216,Developer,,,,R20171031124151-C0071
+C0072,R20171031124151,RG0052,Entity,,,,NYOS Charter School,,12301 N. Lamar Blvd.,,Austin,TX,78753,Charter School,,,,R20171031124151-C0072
+C0073,R20171031124151,RG0052,Entity,,,,"Oxford Alliance Investments, L.P.",,2700 Via Fortuna,"Bldg. II, Suite 100",Austin,TX,78746,Land Development Company,,,,R20171031124151-C0073
+C0074,R20171031124151,RG0052,Entity,,,,Prevarian Hospital Partners,,5949 Sherry Lane,Suite 835,Dallas,TX,75225,Property Owner,,,,R20171031124151-C0074
+C0075,R20171031124151,RG0052,Entity,,,,"Radec Management, Inc.",,P.O. Box 29837,,Austin,TX,78735,Property Management,,,,R20171031124151-C0075
+C0076,R20171031124151,RG0052,Individual,,Wayne,,Reaud,,801 Laurel Street,,Beaumont,TX,77701,Property Owner,,,,R20171031124151-C0076
+C0077,R20171031124151,RG0052,Entity,,,,"Sandstone Ventures, LLC",,148 Cibolo Ridge Trail,,Boerne,TX,78015,Developer,,,,R20171031124151-C0077
+C0078,R20171031124151,RG0052,Entity,,,,South River City Citizens Association,,1719 Deerfield Drive,,Austin,TX,78741,Neighborhood Association,,,,R20171031124151-C0078
+C0079,R20171031124151,RG0052,Entity,,,,"Synagro-WWT, Inc.",,435 Williams Court,Suite 100,Baltimore,MD,21220,Recycling Company,,,,R20171031124151-C0079
+C0080,R20171031124151,RG0052,Entity,,,,Texas Capital Bank,,114 West 7th Street,Suite 300,Austin,TX,78701,Banking Association,,,,R20171031124151-C0080
+C0081,R20171031124151,RG0052,Entity,,,,"Terrace at Walnut Creek, Ltd.",,700 Lavaca,Suite 1560,Austin,TX,78701,Developer,,,,R20171031124151-C0081
+C0082,R20171031124151,RG0052,Entity,,,,The Parke at Travis Country COA,,"c/o Alliance Assoc. Management, 115 Wild Basin Rd",Suite 308,Austin,TX,78746,Condominium Owners Association,,,,R20171031124151-C0082
+C0083,R20171031124151,RG0052,Entity,,,,"Travis Hotel Group, LLC",,2711 N. Haskell,28th Floor,Dallas,TX,75204,Developer,,,,R20171031124151-C0083
+C0084,R20171031124151,RG0052,Entity,,,,"Trilogy Enterprises, Inc.",,6011 W. Courtyard Drive,,Austin,TX,78730,Property Owner,,,,R20171031124151-C0084
+C0085,R20171031124151,RG0052,Entity,,,,"TWC-1626, LLC",,901 S. MoPac Expressway,"Building 1, Suite 160",Austin,TX,78746,Developer,,,,R20171031124151-C0085
+C0086,R20171031124151,RG0052,Entity,,,,Versa Development,,4733 College Park,Suite 200,San Antonio,TX,78249,Property Owner,,,,R20171031124151-C0086
+C0088,R20171031124151,RG0052,Entity,,,,"Zilker Park Residences Partners, L.P.",,P.O. Box 684707,,Austin,TX,78768,Land Development Company,,,,R20171031124151-C0088
+C0089,R20171031124151,RG0052,Entity,,,,"Intergalactic Holdings, LLC",,P.O. Box 50594,,Austin,TX,78763,Property Owner,,,,R20171031124151-C0089
+C0090,R20171031124151,RG0052,Entity,,,,Kurtz/Zirkelbach Lifetime Trusts,,2426 Loxford Lane,,Alpharetta,GA,30009,Property Owner,,,,R20171031124151-C0090
+C0092,R20171031124151,RG0052,Entity,,,,"Powell-Corbett, LLC",,P.O. Box 92977,,Austin,TX,78709,Property Owner,,,,R20171031124151-C0092
+C0001,R20171101082615,RG0066,Entity,,,,Airbnb,,888 Brannan Street,,San Francisco,CA,94107,Short Term Rentals,,,,R20171101082615-C0001
+C0002,R20171101082615,RG0066,Entity,,,,Apex Bethel Energy Center LLC,,3200 Southwest Freeway,Suite 2210,Houston,TX,77027,Energy,,,,R20171101082615-C0002
+C0003,R20171101082615,RG0066,Entity,,,,Armbrust & Brown LLP,,100 Congress Ave.,Suite 1300,Austin,TX,78701,Law Firm,,,,R20171101082615-C0003
+C0004,R20171101082615,RG0066,Entity,,,,AT&T,,816 Congress Ave,Suite 1100,Austin,TX,78701,Communications,,,,R20171101082615-C0004
+C0005,R20171101082615,RG0066,Entity,,,,Austin Crime Commission,,PO Box 27016,,Austin,TX,78755,Non-profit,,,,R20171101082615-C0005
+C0006,R20171101082615,RG0066,Entity,,,,Austin Police Association,,5817 Wilcab Road,Suite 1,Austin,TX,78721,Membership Association,,,,R20171101082615-C0006
+C0007,R20171101082615,RG0066,Entity,,,,"Axon Enterprise, Inc.",,17800 N 85th St,,Scottsdale,AZ,85255,Manufacturer of body cameras,,,,R20171101082615-C0007
+C0008,R20171101082615,RG0066,Entity,,,,Brandywine Realty Trust,,1501 S Mopac,Suite 310,Austin,TX,78746,Real Estate,,,,R20171101082615-C0008
+C0009,R20171101082615,RG0066,Entity,,,,CCARE,,"c\o Brandywine Realty, 1501 S Mopac",Suite 310,Austin,TX,78746,Business League,,,,R20171101082615-C0009
+C0010,R20171101082615,RG0066,Entity,,,,Cypress Real Estate Advisors,,1601 S Mopac,Suite 175,Austin,TX,78746,Real Estate,,,,R20171101082615-C0010
+C0011,R20171101082615,RG0066,Entity,,,,Cypress Semiconductor,,Champion Court,,San Jose,CA,95134,High Tech,,,,R20171101082615-C0011
+C0012,R20171101082615,RG0066,Entity,,,,Endeavor Real Estate Group,,221 West 6th Street,Suite 1300,Austin,TX,78701,Real Estate,,,,R20171101082615-C0012
+C0013,R20171101082615,RG0066,Entity,,,,Goveia,,24855 Del Prado,,Dana Point,CA,92629,Real Estate Development,,,,R20171101082615-C0013
+C0014,R20171101082615,RG0066,Entity,,,,"HDR, Inc",,4401 West Gate Blvd,Suite 400,Austin,TX,78745,Engineering Firm,,,,R20171101082615-C0014
+C0015,R20171101082615,RG0066,Entity,,,,Lincoln Clean Energy,,401 N Michigan Ave,Suite 501,Chicago,IL,60611,Renewable Energy,,,,R20171101082615-C0015
+C0016,R20171101082615,RG0066,Entity,,,,North Austin MUD #1,,2601 Forest Creek Dr.,,Round Rock,TX,78665,Utility District,,,,R20171101082615-C0016
+C0017,R20171101082615,RG0066,Entity,,,,Northtown MUD,,1421 Wells Branch Pkwy,"Bldg 1, Suite 106",Pflugerville,TX,78660,Utility District,,,,R20171101082615-C0017
+C0018,R20171101082615,RG0066,Entity,,,,"NXP Semiconductor, Inc.",,6501 William Cannon Drive West,,Austin,TX,78735,High Tech,,,,R20171101082615-C0018
+C0019,R20171101082615,RG0066,Entity,,,,"Samsung Austin Semiconductor, LLC",,12100 Samsung Blvd,#110,Austin,TX,78754,High Tech,,,,R20171101082615-C0019
+C0020,R20171101082615,RG0066,Entity,,,,Senior Quality Lifestyles Corporation,,12720 Hillcrest,Suite 106,Dallas,TX,75230,Developer,,,,R20171101082615-C0020
+C0021,R20171101082615,RG0066,Entity,,,,Seton Healthcare,,1201 W 38th St,,Austin,TX,78705,Healthcare Network,,,,R20171101082615-C0021
+C0022,R20171101082615,RG0066,Entity,,,,Torchy's Tacos,,999 E Basse Rd,,San Antonio,TX,78209,Restaurants,,,,R20171101082615-C0022
+C0023,R20171101082615,RG0066,Entity,,,,Travis County Fire Rescue ESD #11,,9019 Elroy Road,,Del Valle,TX,78617,Emergency Services,,,,R20171101082615-C0023
+C0024,R20171101082615,RG0066,Entity,,,,"Walmart Stores, Inc",,2001 Southeast 10th St,,Bentonville,AR,72713,Retail Merchant,,,,R20171101082615-C0024
+C0025,R20171101082615,RG0066,Entity,,,,Water Control Irrigation District #10,,5450 Bee Cave,#2A,Austin,TX,78746,Utility District,,,,R20171101082615-C0025
+C0026,R20171101082615,RG0066,Entity,,,,Wayne Reaud,,98 San Jacinto Blvd,Suite 1400,Austin,TX,78701,Property Owner,,,,R20171101082615-C0026
+C0028,R20171101082615,RG0066,Entity,,,,White Lodging Services Corp,,701 East 83rd Ave,,Merrillville,IN,46410,Developer,,,,R20171101082615-C0028
+C0001,R20171103161728,RG0131,Entity,,,,Apex Bethel Energy Center LLC,,3200 Southwest Freeway,Suite 2210,Houston,TX,77027,Energy,,,,R20171103161728-C0001
+C0002,R20171103161728,RG0131,Entity,,,,Austin Crime Commission,,PO Box 27016,,Austin,TX,78755,Non-profit,,,,R20171103161728-C0002
+C0003,R20171103161728,RG0131,Entity,,,,Austin Police Association,,5817 Wilcab Road,Suite 1,Austin,TX,78721,Membership Association,,,,R20171103161728-C0003
+C0004,R20171103161728,RG0131,Entity,,,,Brandywine Realty Trust,,1501 S Mopac,Suite 310,Austin,TX,78746,Real Estate,,,,R20171103161728-C0004
+C0005,R20171103161728,RG0131,Entity,,,,CCARE,,"c\o Brandywine Realty, 1501 S Mopac",Suite 310,Austin,TX,78746,Business League,,,,R20171103161728-C0005
+C0001,R20171113152000,RG0061,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0001
+C0002,R20171113152000,RG0061,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0002
+C0004,R20171113152000,RG0061,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0004
+C0005,R20171113152000,RG0061,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171113152000-C0005
+C0006,R20171113152000,RG0061,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0006
+C0007,R20171113152000,RG0061,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0007
+C0008,R20171113152000,RG0061,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171113152000-C0008
+C0009,R20171113152000,RG0061,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0009
+C0010,R20171113152000,RG0061,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171113152000-C0010
+C0011,R20171113152000,RG0061,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0011
+C0012,R20171113152000,RG0061,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171113152000-C0012
+C0013,R20171113152000,RG0061,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0013
+C0014,R20171113152000,RG0061,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0014
+C0015,R20171113152000,RG0061,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0015
+C0016,R20171113152000,RG0061,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0016
+C0017,R20171113152000,RG0061,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0017
+C0018,R20171113152000,RG0061,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0018
+C0019,R20171113152000,RG0061,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0019
+C0020,R20171113152000,RG0061,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171113152000-C0020
+C0021,R20171113152000,RG0061,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0021
+C0022,R20171113152000,RG0061,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0022
+C0023,R20171113152000,RG0061,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0023
+C0024,R20171113152000,RG0061,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0024
+C0025,R20171113152000,RG0061,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0025
+C0026,R20171113152000,RG0061,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0026
+C0027,R20171113152000,RG0061,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0027
+C0028,R20171113152000,RG0061,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0028
+C0029,R20171113152000,RG0061,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0029
+C0030,R20171113152000,RG0061,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0030
+C0031,R20171113152000,RG0061,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171113152000-C0031
+C0032,R20171113152000,RG0061,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171113152000-C0032
+C0033,R20171113152000,RG0061,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0033
+C0034,R20171113152000,RG0061,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0034
+C0035,R20171113152000,RG0061,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171113152000-C0035
+C0036,R20171113152000,RG0061,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0036
+C0037,R20171113152000,RG0061,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0037
+C0038,R20171113152000,RG0061,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171113152000-C0038
+C0039,R20171113152000,RG0061,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171113152000-C0039
+C0040,R20171113152000,RG0061,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171113152000-C0040
+C0041,R20171113152000,RG0061,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171113152000-C0041
+C0042,R20171113152000,RG0061,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0042
+C0043,R20171113152000,RG0061,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0043
+C0044,R20171113152000,RG0061,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0044
+C0045,R20171113152000,RG0061,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0045
+C0046,R20171113152000,RG0061,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0046
+C0047,R20171113152000,RG0061,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0047
+C0048,R20171113152000,RG0061,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171113152000-C0048
+C0049,R20171113152000,RG0061,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0049
+C0050,R20171113152000,RG0061,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171113152000-C0050
+C0051,R20171113152000,RG0061,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0051
+C0052,R20171113152000,RG0061,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0052
+C0053,R20171113152000,RG0061,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0053
+C0054,R20171113152000,RG0061,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0054
+C0055,R20171113152000,RG0061,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0055
+C0056,R20171113152000,RG0061,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0056
+C0057,R20171113152000,RG0061,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0057
+C0058,R20171113152000,RG0061,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0058
+C0059,R20171113152000,RG0061,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171113152000-C0059
+C0060,R20171113152000,RG0061,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0060
+C0061,R20171113152000,RG0061,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0061
+C0062,R20171113152000,RG0061,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0062
+C0063,R20171113152000,RG0061,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0063
+C0064,R20171113152000,RG0061,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0064
+C0065,R20171113152000,RG0061,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171113152000-C0065
+C0066,R20171113152000,RG0061,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0066
+C0067,R20171113152000,RG0061,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171113152000-C0067
+C0068,R20171113152000,RG0061,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0068
+C0069,R20171113152000,RG0061,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171113152000-C0069
+C0070,R20171113152000,RG0061,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0070
+C0071,R20171113152000,RG0061,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171113152000-C0071
+C0072,R20171113152000,RG0061,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0072
+C0073,R20171113152000,RG0061,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171113152000-C0073
+C0074,R20171113152000,RG0061,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171113152000-C0074
+C0075,R20171113152000,RG0061,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0075
+C0076,R20171113152000,RG0061,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0076
+C0077,R20171113152000,RG0061,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171113152000-C0077
+C0001,R20171115142049,RG0065,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0001
+C0002,R20171115142049,RG0065,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0002
+C0003,R20171115142049,RG0065,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171115142049-C0003
+C0004,R20171115142049,RG0065,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0004
+C0005,R20171115142049,RG0065,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171115142049-C0005
+C0006,R20171115142049,RG0065,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0006
+C0007,R20171115142049,RG0065,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0007
+C0008,R20171115142049,RG0065,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171115142049-C0008
+C0009,R20171115142049,RG0065,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0009
+C0010,R20171115142049,RG0065,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171115142049-C0010
+C0011,R20171115142049,RG0065,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0011
+C0012,R20171115142049,RG0065,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171115142049-C0012
+C0013,R20171115142049,RG0065,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0013
+C0014,R20171115142049,RG0065,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0014
+C0015,R20171115142049,RG0065,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0015
+C0016,R20171115142049,RG0065,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0016
+C0017,R20171115142049,RG0065,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0017
+C0018,R20171115142049,RG0065,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0018
+C0019,R20171115142049,RG0065,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0019
+C0020,R20171115142049,RG0065,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171115142049-C0020
+C0021,R20171115142049,RG0065,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0021
+C0022,R20171115142049,RG0065,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0022
+C0023,R20171115142049,RG0065,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0023
+C0024,R20171115142049,RG0065,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0024
+C0025,R20171115142049,RG0065,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0025
+C0026,R20171115142049,RG0065,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0026
+C0027,R20171115142049,RG0065,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0027
+C0028,R20171115142049,RG0065,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0028
+C0029,R20171115142049,RG0065,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0029
+C0030,R20171115142049,RG0065,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0030
+C0031,R20171115142049,RG0065,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171115142049-C0031
+C0032,R20171115142049,RG0065,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171115142049-C0032
+C0033,R20171115142049,RG0065,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0033
+C0034,R20171115142049,RG0065,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0034
+C0035,R20171115142049,RG0065,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171115142049-C0035
+C0036,R20171115142049,RG0065,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0036
+C0037,R20171115142049,RG0065,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0037
+C0038,R20171115142049,RG0065,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171115142049-C0038
+C0039,R20171115142049,RG0065,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171115142049-C0039
+C0040,R20171115142049,RG0065,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171115142049-C0040
+C0041,R20171115142049,RG0065,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171115142049-C0041
+C0042,R20171115142049,RG0065,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0042
+C0043,R20171115142049,RG0065,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0043
+C0044,R20171115142049,RG0065,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0044
+C0045,R20171115142049,RG0065,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0045
+C0046,R20171115142049,RG0065,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0046
+C0047,R20171115142049,RG0065,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0047
+C0048,R20171115142049,RG0065,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171115142049-C0048
+C0049,R20171115142049,RG0065,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0049
+C0050,R20171115142049,RG0065,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171115142049-C0050
+C0051,R20171115142049,RG0065,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0051
+C0052,R20171115142049,RG0065,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0052
+C0053,R20171115142049,RG0065,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0053
+C0054,R20171115142049,RG0065,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0054
+C0055,R20171115142049,RG0065,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0055
+C0056,R20171115142049,RG0065,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0056
+C0057,R20171115142049,RG0065,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0057
+C0058,R20171115142049,RG0065,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0058
+C0059,R20171115142049,RG0065,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171115142049-C0059
+C0060,R20171115142049,RG0065,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0060
+C0061,R20171115142049,RG0065,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0061
+C0062,R20171115142049,RG0065,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0062
+C0063,R20171115142049,RG0065,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0063
+C0064,R20171115142049,RG0065,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0064
+C0065,R20171115142049,RG0065,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171115142049-C0065
+C0066,R20171115142049,RG0065,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0066
+C0067,R20171115142049,RG0065,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171115142049-C0067
+C0068,R20171115142049,RG0065,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0068
+C0069,R20171115142049,RG0065,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171115142049-C0069
+C0070,R20171115142049,RG0065,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0070
+C0071,R20171115142049,RG0065,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171115142049-C0071
+C0072,R20171115142049,RG0065,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0072
+C0073,R20171115142049,RG0065,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171115142049-C0073
+C0074,R20171115142049,RG0065,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171115142049-C0074
+C0075,R20171115142049,RG0065,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0075
+C0076,R20171115142049,RG0065,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0076
+C0077,R20171115142049,RG0065,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115142049-C0077
+C0001,R20171115161738,RG0070,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0001
+C0002,R20171115161738,RG0070,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0002
+C0003,R20171115161738,RG0070,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171115161738-C0003
+C0004,R20171115161738,RG0070,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0004
+C0005,R20171115161738,RG0070,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171115161738-C0005
+C0006,R20171115161738,RG0070,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0006
+C0007,R20171115161738,RG0070,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0007
+C0008,R20171115161738,RG0070,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171115161738-C0008
+C0009,R20171115161738,RG0070,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0009
+C0010,R20171115161738,RG0070,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171115161738-C0010
+C0011,R20171115161738,RG0070,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0011
+C0012,R20171115161738,RG0070,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171115161738-C0012
+C0013,R20171115161738,RG0070,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0013
+C0014,R20171115161738,RG0070,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0014
+C0015,R20171115161738,RG0070,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0015
+C0016,R20171115161738,RG0070,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0016
+C0017,R20171115161738,RG0070,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0017
+C0018,R20171115161738,RG0070,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0018
+C0019,R20171115161738,RG0070,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0019
+C0020,R20171115161738,RG0070,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171115161738-C0020
+C0021,R20171115161738,RG0070,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0021
+C0022,R20171115161738,RG0070,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0022
+C0023,R20171115161738,RG0070,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0023
+C0024,R20171115161738,RG0070,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0024
+C0026,R20171115161738,RG0070,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0026
+C0027,R20171115161738,RG0070,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0027
+C0028,R20171115161738,RG0070,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0028
+C0029,R20171115161738,RG0070,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0029
+C0030,R20171115161738,RG0070,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0030
+C0031,R20171115161738,RG0070,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171115161738-C0031
+C0032,R20171115161738,RG0070,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171115161738-C0032
+C0033,R20171115161738,RG0070,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0033
+C0034,R20171115161738,RG0070,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0034
+C0035,R20171115161738,RG0070,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171115161738-C0035
+C0036,R20171115161738,RG0070,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0036
+C0037,R20171115161738,RG0070,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0037
+C0038,R20171115161738,RG0070,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171115161738-C0038
+C0039,R20171115161738,RG0070,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171115161738-C0039
+C0040,R20171115161738,RG0070,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171115161738-C0040
+C0041,R20171115161738,RG0070,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171115161738-C0041
+C0042,R20171115161738,RG0070,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0042
+C0043,R20171115161738,RG0070,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0043
+C0044,R20171115161738,RG0070,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0044
+C0045,R20171115161738,RG0070,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0045
+C0046,R20171115161738,RG0070,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0046
+C0047,R20171115161738,RG0070,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0047
+C0048,R20171115161738,RG0070,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171115161738-C0048
+C0049,R20171115161738,RG0070,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0049
+C0050,R20171115161738,RG0070,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171115161738-C0050
+C0051,R20171115161738,RG0070,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0051
+C0052,R20171115161738,RG0070,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0052
+C0053,R20171115161738,RG0070,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0053
+C0054,R20171115161738,RG0070,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0054
+C0055,R20171115161738,RG0070,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0055
+C0056,R20171115161738,RG0070,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0056
+C0057,R20171115161738,RG0070,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0057
+C0058,R20171115161738,RG0070,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0058
+C0059,R20171115161738,RG0070,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171115161738-C0059
+C0060,R20171115161738,RG0070,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0060
+C0061,R20171115161738,RG0070,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0061
+C0062,R20171115161738,RG0070,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0062
+C0063,R20171115161738,RG0070,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0063
+C0064,R20171115161738,RG0070,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0064
+C0065,R20171115161738,RG0070,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171115161738-C0065
+C0066,R20171115161738,RG0070,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0066
+C0067,R20171115161738,RG0070,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171115161738-C0067
+C0068,R20171115161738,RG0070,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0068
+C0069,R20171115161738,RG0070,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171115161738-C0069
+C0070,R20171115161738,RG0070,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0070
+C0071,R20171115161738,RG0070,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171115161738-C0071
+C0072,R20171115161738,RG0070,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0072
+C0073,R20171115161738,RG0070,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171115161738-C0073
+C0074,R20171115161738,RG0070,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171115161738-C0074
+C0075,R20171115161738,RG0070,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0075
+C0076,R20171115161738,RG0070,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0076
+C0077,R20171115161738,RG0070,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171115161738-C0077
+C0001,R20171122113731,RG0018,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0001
+C0002,R20171122113731,RG0018,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0002
+C0003,R20171122113731,RG0018,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171122113731-C0003
+C0004,R20171122113731,RG0018,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0004
+C0005,R20171122113731,RG0018,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171122113731-C0005
+C0006,R20171122113731,RG0018,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0006
+C0007,R20171122113731,RG0018,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0007
+C0008,R20171122113731,RG0018,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171122113731-C0008
+C0009,R20171122113731,RG0018,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0009
+C0010,R20171122113731,RG0018,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171122113731-C0010
+C0011,R20171122113731,RG0018,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0011
+C0012,R20171122113731,RG0018,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171122113731-C0012
+C0013,R20171122113731,RG0018,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0013
+C0014,R20171122113731,RG0018,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0014
+C0015,R20171122113731,RG0018,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0015
+C0016,R20171122113731,RG0018,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0016
+C0017,R20171122113731,RG0018,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0017
+C0018,R20171122113731,RG0018,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0018
+C0019,R20171122113731,RG0018,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0019
+C0020,R20171122113731,RG0018,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171122113731-C0020
+C0021,R20171122113731,RG0018,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0021
+C0022,R20171122113731,RG0018,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0022
+C0023,R20171122113731,RG0018,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0023
+C0024,R20171122113731,RG0018,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0024
+C0025,R20171122113731,RG0018,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0025
+C0026,R20171122113731,RG0018,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0026
+C0027,R20171122113731,RG0018,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0027
+C0028,R20171122113731,RG0018,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0028
+C0029,R20171122113731,RG0018,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0029
+C0030,R20171122113731,RG0018,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0030
+C0031,R20171122113731,RG0018,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171122113731-C0031
+C0032,R20171122113731,RG0018,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171122113731-C0032
+C0033,R20171122113731,RG0018,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0033
+C0034,R20171122113731,RG0018,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0034
+C0035,R20171122113731,RG0018,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171122113731-C0035
+C0036,R20171122113731,RG0018,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0036
+C0037,R20171122113731,RG0018,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0037
+C0038,R20171122113731,RG0018,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171122113731-C0038
+C0039,R20171122113731,RG0018,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171122113731-C0039
+C0040,R20171122113731,RG0018,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171122113731-C0040
+C0041,R20171122113731,RG0018,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171122113731-C0041
+C0042,R20171122113731,RG0018,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0042
+C0043,R20171122113731,RG0018,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0043
+C0044,R20171122113731,RG0018,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0044
+C0045,R20171122113731,RG0018,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0045
+C0046,R20171122113731,RG0018,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0046
+C0047,R20171122113731,RG0018,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0047
+C0048,R20171122113731,RG0018,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171122113731-C0048
+C0049,R20171122113731,RG0018,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0049
+C0050,R20171122113731,RG0018,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171122113731-C0050
+C0051,R20171122113731,RG0018,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0051
+C0052,R20171122113731,RG0018,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0052
+C0053,R20171122113731,RG0018,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0053
+C0054,R20171122113731,RG0018,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0054
+C0055,R20171122113731,RG0018,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0055
+C0056,R20171122113731,RG0018,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0056
+C0057,R20171122113731,RG0018,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0057
+C0058,R20171122113731,RG0018,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0058
+C0059,R20171122113731,RG0018,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171122113731-C0059
+C0060,R20171122113731,RG0018,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0060
+C0061,R20171122113731,RG0018,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0061
+C0062,R20171122113731,RG0018,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0062
+C0063,R20171122113731,RG0018,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0063
+C0064,R20171122113731,RG0018,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0064
+C0065,R20171122113731,RG0018,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171122113731-C0065
+C0066,R20171122113731,RG0018,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0066
+C0073,R20171122113731,RG0018,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171122113731-C0073
+C0074,R20171122113731,RG0018,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171122113731-C0074
+C0075,R20171122113731,RG0018,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0075
+C0076,R20171122113731,RG0018,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0076
+C0077,R20171122113731,RG0018,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122113731-C0077
+C0001,R20171122114728,RG0057,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0001
+C0002,R20171122114728,RG0057,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0002
+C0003,R20171122114728,RG0057,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171122114728-C0003
+C0004,R20171122114728,RG0057,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0004
+C0005,R20171122114728,RG0057,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20171122114728-C0005
+C0006,R20171122114728,RG0057,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0006
+C0007,R20171122114728,RG0057,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0007
+C0008,R20171122114728,RG0057,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171122114728-C0008
+C0009,R20171122114728,RG0057,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0009
+C0010,R20171122114728,RG0057,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171122114728-C0010
+C0011,R20171122114728,RG0057,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0011
+C0012,R20171122114728,RG0057,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171122114728-C0012
+C0013,R20171122114728,RG0057,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0013
+C0026,R20171122114728,RG0057,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0026
+C0027,R20171122114728,RG0057,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0027
+C0028,R20171122114728,RG0057,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0028
+C0029,R20171122114728,RG0057,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0029
+C0030,R20171122114728,RG0057,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0030
+C0031,R20171122114728,RG0057,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171122114728-C0031
+C0032,R20171122114728,RG0057,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171122114728-C0032
+C0033,R20171122114728,RG0057,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0033
+C0034,R20171122114728,RG0057,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0034
+C0035,R20171122114728,RG0057,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171122114728-C0035
+C0036,R20171122114728,RG0057,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0036
+C0037,R20171122114728,RG0057,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0037
+C0038,R20171122114728,RG0057,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171122114728-C0038
+C0039,R20171122114728,RG0057,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171122114728-C0039
+C0040,R20171122114728,RG0057,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171122114728-C0040
+C0041,R20171122114728,RG0057,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171122114728-C0041
+C0056,R20171122114728,RG0057,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0056
+C0057,R20171122114728,RG0057,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0057
+C0058,R20171122114728,RG0057,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0058
+C0059,R20171122114728,RG0057,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171122114728-C0059
+C0001,R20170620093457,RG0091,Entity,,,,"Parkgreen Living, LLC",,800 Gessner,Suite 350,Houston,TX,77024,Land development,,,,R20170620093457-C0001
+C0001,R20170710102326,RG0085,Entity,,,,"Allen Harrison Development, LLC",,1800 Augusta,150,Houston,TX,77056,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0001
+C0002,R20170710102326,RG0085,Individual,,Daniel,,Carl,,4021 Valley View Road,B,Austin,TX,78704,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0002
+C0003,R20170710102326,RG0085,Entity,,,,Cielo Property Group,,823 Congress Avenue,Suite 600,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0003
+C0004,R20170710102326,RG0085,Entity,,,,"Guild Travel, LLC",,611 South Congress,#330,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0004
+C0060,R20171122114728,RG0057,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0060
+C0061,R20171122114728,RG0057,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0061
+C0062,R20171122114728,RG0057,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0062
+C0064,R20171122114728,RG0057,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0064
+C0065,R20171122114728,RG0057,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171122114728-C0065
+C0066,R20171122114728,RG0057,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0066
+C0067,R20171122114728,RG0057,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171122114728-C0067
+C0068,R20171122114728,RG0057,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0068
+C0069,R20171122114728,RG0057,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171122114728-C0069
+C0070,R20171122114728,RG0057,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0070
+C0071,R20171122114728,RG0057,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171122114728-C0071
+C0006,R20171130160530,RG0132,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0006
+C0007,R20171130160530,RG0132,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0007
+C0008,R20171130160530,RG0132,Entity,,,,ORACLE,,9515 TOWNE CENTRE DR.,,SAN DIEGO,CA,92121,SOFTWARE APPLICATIONS,,,,R20171130160530-C0008
+C0012,R20171130160530,RG0132,Entity,,,,"YETI COOLER, LLC",,5301 SOUTHWEST PARKWAY,STE 200,AUSTIN,TX,78735,RETAILER,,,,R20171130160530-C0012
+C0013,R20171130160530,RG0132,Entity,,,,BRICKMAN,,2630 EXPOSITION BLVD,STE 114,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0013
+C0014,R20171130160530,RG0132,Entity,,,,CENTURY LAND HOLDINGS LLC,,6500 RIVER PLACE BLVD,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0014
+C0015,R20171130160530,RG0132,Entity,,,,EURUS 8701 ATRIUM LLC,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0015
+C0016,R20171130160530,RG0132,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0016
+C0017,R20171130160530,RG0132,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0017
+C0018,R20171130160530,RG0132,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0018
+C0019,R20171130160530,RG0132,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0019
+C0020,R20171130160530,RG0132,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20171130160530-C0020
+C0021,R20171130160530,RG0132,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0021
+C0022,R20171130160530,RG0132,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0022
+C0023,R20171130160530,RG0132,Entity,,,,STREAM REALTY,,515 CONGRESS AVE,STE 1300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0023
+C0024,R20171130160530,RG0132,Entity,,,,"MVA-916, LLC",,515 CONGRESS AVE,STE 1400,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0024
+C0025,R20171130160530,RG0132,Entity,,,,"DAVIS WAYNE FS, LLC",,3821 JUNIPER TRACE,STE 207,AUSTIN,TX,78738,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0025
+C0026,R20171130160530,RG0132,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0026
+C0027,R20171130160530,RG0132,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0027
+C0028,R20171130160530,RG0132,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0028
+C0029,R20171130160530,RG0132,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0029
+C0030,R20171130160530,RG0132,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0030
+C0032,R20171130160530,RG0132,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20171130160530-C0032
+C0033,R20171130160530,RG0132,Entity,,,,"TITAN CAPITAL INVESTMENT GROUP, LLC",,401 E. CITY AVE,STE 812,BALA CYNWYD,PA,19004,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0033
+C0034,R20171130160530,RG0132,Entity,,,,GOVEIA COMMERCIAL REAL ESTATE,,24855 DEL PRADO,,DANA POINT,CA,92629,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0034
+C0035,R20171130160530,RG0132,Entity,,,,HEB/ CHARLES BUTT (HOLDSWORTH CENTER),,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,EDUCATIONAL CENTER,,,,R20171130160530-C0035
+C0036,R20171130160530,RG0132,Entity,,,,"183 BLW, LP",,PO BOX 9190,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0036
+C0037,R20171130160530,RG0132,Entity,,,,"2501 W. BRAKER, L.P.",,1601 MOPAC EXPRESSWAY,STE 175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0037
+C0038,R20171130160530,RG0132,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20171130160530-C0038
+C0039,R20171130160530,RG0132,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20171130160530-C0039
+C0063,R20180221105850,RG0142,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0063
+C0064,R20180221105850,RG0142,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0064
+C0065,R20180221105850,RG0142,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20180221105850-C0065
+C0066,R20180221105850,RG0142,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0066
+C0067,R20180221105850,RG0142,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20180221105850-C0067
+C0068,R20180221105850,RG0142,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0068
+C0069,R20180221105850,RG0142,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20180221105850-C0069
+C0070,R20180221105850,RG0142,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0070
+C0071,R20180221105850,RG0142,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20180221105850-C0071
+C0072,R20180221105850,RG0142,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0072
+C0073,R20180221105850,RG0142,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20180221105850-C0073
+C0005,R20180301153802,RG0027,Entity,,,,"JCI Residential, LLC",,7701 N. Lamar Blvd.,Suite 100,Austin,TX,78752,Multifamily and commercial development/construction,,,,R20180301153802-C0005
+C0001,R20180305131627,RG0092,Entity,,,,SPIN,,435 China Basin Street,421,San Francisco,CA,94158,Alternative Transportation Solutions,,,,R20180305131627-C0001
+C0040,R20171130160530,RG0132,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20171130160530-C0040
+C0041,R20171130160530,RG0132,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20171130160530-C0041
+C0042,R20171130160530,RG0132,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0042
+C0043,R20171130160530,RG0132,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0043
+C0044,R20171130160530,RG0132,Entity,,,,BROCK CONSULTING GROUP,,PO BOX 160340,,AUSTIN,TX,78716,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0044
+C0045,R20171130160530,RG0132,Entity,,,,"CAPRIDGE PARTNERS, LLC",,823 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0045
+C0046,R20171130160530,RG0132,Entity,,,,"CVR SHORELINE, L.P.",,1601 S. MOPAC EXPRESSWAY,STE D-175,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0046
+C0047,R20171130160530,RG0132,Entity,,,,"CWS CAPITAL PARTNERS, LLC",,9606 N. MOPAC EXPRESSWAY,STE 500,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0047
+C0048,R20171130160530,RG0132,Entity,,,,DOWNTOWN AUSTIN ALLIANCE,,211 E. 7TH STREET,STE 818,AUSTIN,TX,78701,ADVOCACY ORGANIZATION,,,,R20171130160530-C0048
+C0049,R20171130160530,RG0132,Entity,,,,GABLES RESIDENTIAL,,608 AUSTIN CENTER BLVD,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0049
+C0050,R20171130160530,RG0132,Entity,,,,HELPING HAND HOME FOR CHILDREN,,3804 AVENUE B,,AUSTIN,TX,78751,NON-PROFIT,,,,R20171130160530-C0050
+C0051,R20171130160530,RG0132,Entity,,,,HPI REAL ESTATE & SERVICES INVESTMENT,,3600 N. CAPITAL OF TEXAS HWY,"BLDG B, STE 250",AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0051
+C0052,R20171130160530,RG0132,Entity,,,,LAMBERT,,1316 S. CONGRESS AVE,,AUSTIN,TX,78704,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0052
+C0053,R20171130160530,RG0132,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0053
+C0054,R20171130160530,RG0132,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0054
+C0055,R20171130160530,RG0132,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0055
+C0056,R20171130160530,RG0132,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0056
+C0057,R20171130160530,RG0132,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0057
+C0058,R20171130160530,RG0132,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0058
+C0059,R20171130160530,RG0132,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20171130160530-C0059
+C0060,R20171130160530,RG0132,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0060
+C0061,R20171130160530,RG0132,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0061
+C0062,R20171130160530,RG0132,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0062
+C0063,R20171130160530,RG0132,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0063
+C0064,R20171130160530,RG0132,Entity,,,,RYAN STREET & ASSOCIATES,,2414 EXPOSITION BLVD,STE B-140,AUSTIN,TX,78703,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0064
+C0065,R20171130160530,RG0132,Entity,,,,SUCCESS FOODS MANAGEMENT LLC DBA TORCHY'S TACOS,,4501 SPRINGDALE ROAD,,AUSTIN,TX,78723,RESTAURANTS,,,,R20171130160530-C0065
+C0066,R20171130160530,RG0132,Entity,,,,THE BROHN GROUP,,1550 TIMOTHY ROAD,STE 201,ATHENS,GA,30606,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0066
+C0067,R20171130160530,RG0132,Entity,,,,THE UNIVERSITY OF TEXAS SYSTEM,,201 WEST 7TH STREET,,AUSTIN,TX,78701,HIGHER EDUCATION,,,,R20171130160530-C0067
+C0068,R20171130160530,RG0132,Entity,,,,TRAMMELL CROW,,100 CONGRESS AVE,STE 225,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0068
+C0069,R20171130160530,RG0132,Entity,,,,"TRAVIS HOTEL GROUP, LLC",,2711 N HASKELL AVE,STE 2800,DALLAS,TX,75204,HOSPITALITY,,,,R20171130160530-C0069
+C0070,R20171130160530,RG0132,Entity,,,,"TRINE WOODS, LLC",,13945 U.S. HWY 183 N,STE D-190,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0070
+C0071,R20171130160530,RG0132,Entity,,,,"TRUDY'S TEXAS STAR, INC.",,8133 MESA DR.,#206,AUSTIN,TX,78759,RESTAURANTS,,,,R20171130160530-C0071
+C0072,R20171130160530,RG0132,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0072
+C0073,R20171130160530,RG0132,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171130160530-C0073
+C0074,R20171130160530,RG0132,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171130160530-C0074
+C0075,R20171130160530,RG0132,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0075
+C0076,R20171130160530,RG0132,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0076
+C0077,R20171130160530,RG0132,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0077
+C0001,R20171207085511,RG0133,Entity,,,,"Charter Communications, Inc.",,1005 Congress Avenue,Suite 420,Austin,TX,78701,Cable Television and Telecommunications,,,,R20171207085511-C0001
+C0001,R20180108091929,RG0036,Entity,,,,"Uber Technologies, Inc.",,201 E Third Street,,Austin,TX,78701,"Technology, Transportation",,,,R20180108091929-C0001
+C0001,R20180108092355,RG0073,Entity,,,,"Uber Technologies, Inc.",,201 E Third Street,,Austin,TX,78701,"Technology, Transportation",,,,R20180108092355-C0001
+C0001,R20180108092837,RG0122,Entity,,,,"Uber Technologies, Inc.",,201 E Third Street,,Austin,TX,78701,"Technology, Transportation",,,,R20180108092837-C0001
+C0001,R20180109152833,RG0068,Entity,,,,Amazon Corporate LLC,,601 New Jersey Avenue,Suite 900,Washington,DC,20001,Information Technology,,,,R20180109152833-C0001
+C0001,R20180109170634,RG0123,Entity,,,,Amazon Corporate LLC,,601 New Jersey Avenue,Suite 900,Washington,DC,20001,Information Technology,,,,R20180109170634-C0001
+C0001,R20180118093041,RG0135,Entity,,,,Austin Parks Foundation,,507 Calles St,Suite 116,Austin,TX,78702,"Non-profit organization focused on parks, trails, and green space in Austin",,,,R20180118093041-C0001
+C0001,R20180129110411,RG0115,Entity,,,,Save Our Springs Alliance,,905 W. Oltorf,A,Austin,TX,78704,Environmental non-profit corporation,,,,R20180129110411-C0001
+C0002,R20180129110411,RG0115,Entity,,,,"Save Our City Austin (including, Community Not Commodity)",,309 E. 11th Street,Suite 2,Austin,TX,78701,Social Justice nonprofit organization,,,,R20180129110411-C0002
+C0003,R20180129110411,RG0115,Entity,,,,"Lake Austin Collective, Inc., a Texas nonprofit corporation",,5903 Long Ct.,,Austin,TX,78730,neighborhood and environmental protection,,,,R20180129110411-C0003
+C0001,R20180131095309,RG0136,Entity,,,,"AUSTIN 1801 EAST 6TH, LP",,100 Congress Avenue,Suite 1450,Austin,TX,78701,Property Owner,,,,R20180131095309-C0001
+C0002,R20180131095309,RG0136,Entity,,,,WEST PARK 290 ABR VENTURE LLC,,5453 Burnet Rd.,Suite 203,Austin,TX,78756-1648,Property Owner,,,,R20180131095309-C0002
+C0003,R20180131095309,RG0136,Entity,,,,Cayuga Capital Management,,217 Havemeyer Street,4th Floor,New York,NY,11211,Potential Buyer/Entertainment Industry,,,,R20180131095309-C0003
+C0004,R20180131095309,RG0136,Entity,,,,"TLH RIVERSIDE 6507 MF-I, LP",,1601 S. Mopac Expressway,Suite 175,Austin,TX,78746,Property owner,,,,R20180131095309-C0004
+C0005,R20180131095309,RG0136,Entity,,,,NRE EDGE LLC,,1801 Century Park West,5th Floor,Los Angeles,CA,90067,Property Owner,,,,R20180131095309-C0005
+C0006,R20180131095309,RG0136,Entity,,,,NRE ION LLC,,1801 Century Park West,5th Floor,Los Angeles,CA,90067,Property Owner,,,,R20180131095309-C0006
+C0007,R20180131095309,RG0136,Entity,,,,NRE TOWN LAKE PROPERTY OWNER LLC,,1801 Century Park West,5th Floor,Los Angeles,CA,90067,Property Owner,,,,R20180131095309-C0007
+C0008,R20180131095309,RG0136,Entity,,,,"St. David's HealthCare Partnership, L.P., LLP",,98 San Jacinto Blvd.,Suite 1800,Austin,TX,78701,Healthcare provider.,,,,R20180131095309-C0008
+C0009,R20180131095309,RG0136,Entity,,,,"SXSW, LLC",,P.O. Box 685289,,Austin,TX,78768,Music industry,,,,R20180131095309-C0009
+C0010,R20180131095309,RG0136,Entity,,,,"Texas Disposal Systems, Inc.",,P.O. Box 17126,,Austin,TX,78760,Solid waste services,,,,R20180131095309-C0010
+C0011,R20180131095309,RG0136,Entity,,,,"Verizon Communications, Inc.",,10101 Claude Freeman Dr.,Suite 310,Charlotte,NC,28262,Telecommunications,,,,R20180131095309-C0011
+C0001,R20180216085950,RG0137,Entity,,,,ofo US,,2 Embarcadero Center,8/F,San Francisco,CA,94111,dockless bike sharing,,,,R20180216085950-C0001
+C0001,R20180216090148,RG0138,Entity,,,,ofo US,,2 Embarcadero Center,8/F,San Francisco,CA,94111,Dockless bike sharing,,,,R20180216090148-C0001
+C0010,R20180216124450,RG0003,Entity,,,,706 Development Corporation,,9900 Highway 290 East,,Manor,TX,78653,Real Estate Development,,,,R20180216124450-C0010
+C0011,R20180216124450,RG0003,Entity,,,,Cyclone Development Inc.,,4720 Rockcliff Road Unit 4,,Austin,TX,78746,Real Estate Development,,,,R20180216124450-C0011
+C0001,R20180216143413,RG0021,Entity,,,,"Wal-Mart Stores, Inc.",,708 SW 8th Street,,Bentonville,AR,72716,Retail,,,,R20180216143413-C0001
+C0001,R20180221105850,RG0142,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0001
+C0002,R20180221105850,RG0142,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0002
+C0003,R20180221105850,RG0142,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20180221105850-C0003
+C0004,R20180221105850,RG0142,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0004
+C0005,R20180221105850,RG0142,Entity,,,,"CIRRUS LOGIC, INC",,800 W. 6TH,,AUSTIN,TX,78701,TECHNOLOGY,,,,R20180221105850-C0005
+C0006,R20180221105850,RG0142,Entity,,,,"CARMA TEXAS, INC",,11501 ALTERRA PKWY,STE 100,AUSTIN,TX,78758,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0006
+C0007,R20180221105850,RG0142,Entity,,,,"ENDEAVOR REAL ESTATE GROUP, LLC",,500 W. 5TH STREET,STE 700,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0007
+C0016,R20180221105850,RG0142,Entity,,,,LINCOLN PROPERTY COMPANY,,2000 MCKINNEY AVE,STE 100,DALLAS,TX,75201,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0016
+C0017,R20180221105850,RG0142,Entity,,,,MCHALE,,111 CONGRESS AVE,STE 3000,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0017
+C0018,R20180221105850,RG0142,Entity,,,,"MU 15 INVESTMENTS, LTD.",,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0018
+C0019,R20180221105850,RG0142,Entity,,,,THE KURCEA COMPANY,,7200 N. MOPAC,STE 450,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0019
+C0020,R20180221105850,RG0142,Entity,,,,VELOCITY CREDIT UNION,,1717 W. 6TH STREET,STE 400,AUSTIN,TX,78703,FINANCIAL INSTITUTION,,,,R20180221105850-C0020
+C0021,R20180221105850,RG0142,Entity,,,,"REDLEAF HIGHLAND, LLC",,4015 GUADALUPE ST.,,AUSTIN,TX,78751,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0021
+C0022,R20180221105850,RG0142,Entity,,,,"SEAMLESS CAPITAL, L.P.",,4407 BEE CAVES RD,STE 421,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0022
+C0026,R20180221105850,RG0142,Entity,,,,WHITE LODGING SERVICES CORPORATION,,701 E. 83RD AVE,STE 17,MERRILLVILLE,IN,46410,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0026
+C0027,R20180221105850,RG0142,Entity,,,,BARSHOP & OLES COMPANY,,801 CONGRESS AVE,STE 300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0027
+C0028,R20180221105850,RG0142,Entity,,,,"SPEEDY STOP FOOD STORES, LTD",,P.O. BOX 1876,,VICTORIA,TX,77902,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0028
+C0029,R20180221105850,RG0142,Entity,,,,HEB GROCERY STORES,,646 SOUTH MAIN,,SAN ANTONIO,TX,78204,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0029
+C0030,R20180221105850,RG0142,Entity,,,,FASKEN OIL AND RANCH,,3600 BEE CAVES ROAD,STE 200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0030
+C0031,R20180221105850,RG0142,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20180221105850-C0031
+C0032,R20180221105850,RG0142,Entity,,,,OMNI HOTELS/ BARTON CREEK CONFERENCE CENTER,,4001 MAPLE AVENUE,STE 600,DALLAS,TX,75219,HOSPITALITY,,,,R20180221105850-C0032
+C0038,R20180221105850,RG0142,Entity,,,,ALLEGIANCE MOBILE HEALTH,,501 S. AUSTIN AVE,STE 1310,GEORGETOWN,TX,78626,AMBULATORY CARE,,,,R20180221105850-C0038
+C0039,R20180221105850,RG0142,Entity,,,,AUSTIN ACHIEVE SCHOOLS,,5908 MANOR ROAD,,AUSTIN,TX,78723,EDUCATION,,,,R20180221105850-C0039
+C0040,R20180221105850,RG0142,Entity,,,,AUSTIN BAPTIST CHURCH,,823 CONGRESS AVE,STE 111,AUSTIN,TX,78701,RELIGIOUS ASSEMBLY,,,,R20180221105850-C0040
+C0041,R20180221105850,RG0142,Entity,,,,AUSTIN BOARD OF REALTORS,,4800 SPICEWOOD SPRINGS RD,,AUSTIN,TX,78759,RESIDENTIAL REAL ESTATE ORGANIZATION,,,,R20180221105850-C0041
+C0042,R20180221105850,RG0142,Entity,,,,"AUSTIN PARK, LLC",,700 12TH STREET,STE 220,GOLDEN,CO,80401,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0042
+C0043,R20180221105850,RG0142,Entity,,,,BLENHEIM CORPORATION,,4716 ST. JOHN'S DR,,DALLAS,TX,75205,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0043
+C0075,R20180221105850,RG0142,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0075
+C0076,R20180221105850,RG0142,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0076
+C0077,R20180221105850,RG0142,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0077
+C0078,R20180221105850,RG0142,Entity,,,,INTREPID EQUITY INVESTMENTS LLC,,8140 N. MOPAC,SUITE 4-145,AUSTIN,TX,78759,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0078
+C0079,R20180221105850,RG0142,Entity,,,,"2222 CAP. TEXAS, LLC",,9811 KATY FREEWAY I,STE 925,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0079
+C0072,R20170901095457,RG0052,Entity,,,,NYOS Charter School,,12301 N. Lamar Blvd.,,Austin,TX,78753,Charter School,,,,R20170901095457-C0072
+C0073,R20170901095457,RG0052,Entity,,,,"Oxford Alliance Investments, L.P.",,2700 Via Fortuna,"Bldg. II, Suite 100",Austin,TX,78746,Land Development Company,,,,R20170901095457-C0073
+C0074,R20170901095457,RG0052,Entity,,,,Prevarian Hospital Partners,,5949 Sherry Lane,Suite 835,Dallas,TX,75225,Property Owner,,,,R20170901095457-C0074
+C0077,R20170913093043,RG0065,Entity,,,,MANIFOLD REAL ESTATE,,PO Box 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20170913093043-C0077
+C0009,R20171130160530,RG0132,Entity,,,,"QUALICO CR, L.P.",,1440 THE LAKES BLVD,,PFLUGERVILLE,TX,78660,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0009
+C0010,R20171130160530,RG0132,Entity,,,,"RYAN COMPANIES, INC.",,111 CONGRESS AVE,STE 1850,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT/ CONSTRUCTION,,,,R20171130160530-C0010
+C0011,R20171130160530,RG0132,Entity,,,,"TAYLOR MORRISON OF TEXAS, INC.",,11200 LAKELINE BLVD,STE 150 A,AUSTIN,TX,78717,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0011
+C0031,R20171130160530,RG0132,Entity,,,,OBMSMG LLC,,250 N. HARTFORD AVE,,COLUMBUS,OH,43222,TECHNOLOGY,,,,R20171130160530-C0031
+C0053,R20180221105850,RG0142,Entity,,,,"MAGELLAN DEVELOPMENT GROUP, LLC",,225 N. COLUMBUS DRIVE,STE 100,CHICAGO,IL,60601,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0053
+C0054,R20180221105850,RG0142,Entity,,,,MEREDITH FAMILY REVOCABLE TRUST,,248 ADDIE ROY RD,STE C200,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0054
+C0055,R20180221105850,RG0142,Entity,,,,"P & S INVESTMENTS I, LLC",,8208 LONG CANYON,,AUSTIN,TX,78730,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0055
+C0056,R20180221105850,RG0142,Entity,,,,"PARKE PROPERITES I, L.P.",,1411 SLEDGE DRIVE,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0056
+C0057,R20180221105850,RG0142,Individual,,SCOTT,,PARKER,,4213 HIDDEN CANYON COVE,,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0057
+C0058,R20180221105850,RG0142,Entity,,,,POWERFIN PARTNERS,,100 CONGRESS AVE,17TH FLOOR,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0058
+C0059,R20180221105850,RG0142,Entity,,,,RAWSON SAUNDERS SCHOOL,,2614 EXPOSITION BLVD,,AUSTIN,TX,78703,EDUCATION,,,,R20180221105850-C0059
+C0060,R20180221105850,RG0142,Entity,,,,REDDEHASE,,715 GOLF CREST LN,,AUSTIN,TX,78734,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0060
+C0061,R20180221105850,RG0142,Entity,,,,"REIT MANAGEMENT AND RESEARCH, LLC",,255 WASHINGTON STREET,STE 300,NEWTON,MA,02458,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0061
+C0062,R20180221105850,RG0142,Individual,,ROBERT,,RICE,,54 RAINEY ST,#1004,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20180221105850-C0062
+C0074,R20180221105850,RG0142,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20180221105850-C0074
+C0005,R20170710102326,RG0085,Entity,,,,"Lot 973, LLC",,3303 Northland Drive,#214,Austin,TX,78731,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0005
+C0006,R20170710102326,RG0085,Entity,,,,"Music Lane JV, LLC",,500 West 5th Street,#1210,Austin,TX,78701,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0006
+C0007,R20170710102326,RG0085,Entity,,,,Opus Group,,7500 Rialto Boulavard,"Bldg. 1, #250",Austin,TX,78735,Real Estate Development,,,Disclosure of client compensation is not provided because such disclosure would violate applicable state law in Texas Disciplinary Rule 1.05 and Chapter 81 of the Texas Government Code.,R20170710102326-C0007
+C0001,R20170710111525,RG0068,Entity,,,,Amazon Corporate LLC,,601 New Jersey Avenue,Suite 900,Washington,DC,20001,Information Technology,,,,R20170710111525-C0001
+C0001,R20170710112719,RG0021,Entity,,,,"Wal-Mart Stores, Inc.",,708 SW 8th Street,,Bentonville,AR,72716,Retail,,,,R20170710112719-C0001
+C0001,R20170710121706,RG0073,Entity,,,,"Uber Technologies, Inc.",,400 W. 15th Street,Suite 150,Austin,TX,78701,"Technology, Transportation",,,,R20170710121706-C0001
+C0001,R20170710150020,RG0036,Entity,,,,"Uber Technologies, Inc.",,1455 Market Street,Suite 400,San Francisco,CA,94103,"Technology, Transportation",,,,R20170710150020-C0001
+C0012,R20170718150200,RG0039,Individual,,Wenkai,,Chen,,8407 Cambria Drive,,Austin,TX,78717,Property Owner,,,,R20170718150200-C0012
+C0063,R20171122114728,RG0057,Entity,,,,ROBINSON RANCH,,PO BOX 9556,,AUSTIN,TX,78766,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0063
+C0072,R20171122114728,RG0057,Entity,,,,W&G PARTNERSHIP,,2801 VIA FORTUNA,STE 525,AUSTIN,TX,78746,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0072
+C0073,R20171122114728,RG0057,Entity,,,,HYDE PARK BAPTIST CHURCH,,3901 SPEEDWAY,,AUSTIN,TX,78751,RELIGOUS ASSEMBLY,,,,R20171122114728-C0073
+C0074,R20171122114728,RG0057,Entity,,,,MAJOR LEAGUE SOCCER (MLS),,420 FIFTH AVENUE,7TH FL,NEW YORK,NY,10018,DEVELOPMENT OF SOCCER STADIUM AND PRACTICE FACILITIES,,,,R20171122114728-C0074
+C0075,R20171122114728,RG0057,Entity,,,,HI TECH AUTO GROUP,,3800 SOUTHWEST FREEWAY,STE 300,HOUSTON,TX,77024,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0075
+C0076,R20171122114728,RG0057,Entity,,,,MANIFOLD REAL ESTATE,,PO BOX 200463,,AUSTIN,TX,78720,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0076
+C0077,R20171122114728,RG0057,Entity,,,,"PRECOURT SPORTS VENTURES, LLC",,1 BLACK & GOLD BLVD,,COLUMBUS,OH,43211,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171122114728-C0077
+C0001,R20171130160530,RG0132,Individual,,CHRIS,,PACITTI,,300 W. 6TH STREET,STE 2300,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0001
+C0002,R20171130160530,RG0132,Entity,,,,"NELSEN PARTNERS, INC",,905 CONGRESS AVE,,AUSTIN,TX,78701,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0002
+C0003,R20171130160530,RG0132,Entity,,,,KIPP AUSTIN,,8509 FM 969,,AUSTIN,TX,78724,EDUCATION,,,,R20171130160530-C0003
+C0004,R20171130160530,RG0132,Individual,,JIM,,GALLEGOS,,5515 BALCONES DRIVE,,AUSTIN,TX,78731,REAL ESTATE INVESTMENT/ DEVELOPMENT,,,,R20171130160530-C0004

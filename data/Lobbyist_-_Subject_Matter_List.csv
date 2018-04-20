@@ -1,0 +1,37 @@
+SM_ID,SM_CATEGORY_DESC,ACTIVE
+SM_140,Real Estate,Y
+SM_142,"Rules, Proposed Rules, or Rule Making",Y
+SM_145,Taxation or Fees,Y
+SM_15,Annexation,Y
+SM_150,Technology or Communications,Y
+SM_155,Transportation or Mobility,Y
+SM_160,Zoning or Platting,Y
+SM_20,"Arts, Music, Film, Cultural or  Creative Industries",Y
+SM_25,Aviation,Y
+SM_30,City Infrastructure or Public Works,Y
+SM_35,"Civil Service, Municipal Employment, or Retirement Systems",Y
+SM_40,Code Compliance,Y
+SM_45,Construction,Y
+SM_5,Affordability,Y
+SM_50,"Contracts, Procurement",Y
+SM_55,"Diversity, Equity, or Inclusion",Y
+SM_1,Accessibility or Persons with Disabilities,Y
+SM_10,Animals,Y
+SM_100,Municipal Court,Y
+SM_101,Municipal Legislation,Y
+SM_105,Neighborhoods,Y
+SM_110,"Parks, Recreation, Libraries, or Museums",Y
+SM_115,"Permits (Building, Site Plans)",Y
+SM_120,Permits (Other),Y
+SM_125,"Public Safety, Policy, Fire, EMS, or Emergency Planning and Response",Y
+SM_130,"Public Utilities, Energy, Water, Solid Waste, or Recycling",Y
+SM_135,Quality of Life Affairs,Y
+SM_60,Economic Development,Y
+SM_61,"Environmental Matters, Air or Water Quality, or Watershed Protection",Y
+SM_65,"Finance, Budget, or Investments",Y
+SM_70,"Health, Healthcare, Mental Health, or Human Services",Y
+SM_75,Historic Preservation,Y
+SM_80,"Hospitality, Tourism, Events, or Convention Center",Y
+SM_85,Human Rights or Immigration,Y
+SM_90,Labor or Workforce,Y
+SM_95,Land Development or Land Use,Y

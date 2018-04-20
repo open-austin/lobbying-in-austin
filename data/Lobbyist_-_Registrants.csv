@@ -1,0 +1,148 @@
+REGISTRANT_ID,REGISTRANT_FULL_NAME,ENTITY_CD,REGISTRANT_TITLE,REGISTRANT_FIRST_NAME,REGISTRANT_MI,REGISTRANT_LAST_NAME,REGISTRANT_SUFFIX,EMPLOYER,REGISTRATION_DATE,RENEWAL_DATE,TERMINATION_DATE,REGISTERED_BY
+RG0001,"Allen, Ray",Individual,,Ray,,Allen,,Texas Solutions Group,10/21/2016,,07/10/2017,
+RG0004,"Arnold, Jim A.",Individual,,Jim,A.,Arnold,,Arnold Public Affairs,12/12/2016,,10/03/2017,
+RG0073,"Theunissen, Trevor",Individual,,Trevor,,Theunissen,,,01/03/2018,,,
+RG0102,"Dehghan Niri, Hamid",Individual,,Hamid,,Dehghan Niri,,"Stantec Consulting Services, Inc.",06/15/2017,,10/05/2017,RG0089
+RG0012,"Carley, Lynn A.",Individual,,Lynn,Ann,Carley,,,01/06/2017,,05/31/2017,
+RG0024,"Francis, William B.",Individual,,William,B.,Francis,,,10/10/2016,,06/07/2017,
+RG0025,"Gill, Evan C.",Individual,,Evan,C.,Gill,,,10/27/2016,,09/06/2017,
+RG0040,"Klingler, Hans",Individual,,Hans,,Klinger,,,01/23/2017,,10/10/2017,
+RG0045,"Lopez Saltarelli, Amelia",Individual,,Amelia,,Lopez Saltarelli,,Amelia Lopez Consulting LLC,01/26/2017,,09/29/2017,
+RG0050,"Martin, Donald G.",Individual,,Donald,G.,Martin,,Don Martin Public Affairs,02/17/2017,,08/03/2017,
+RG0055,"Miller, Steven J.",Individual,,Steven,J.,Miller,,,01/31/2017,,07/18/2017,
+RG0061,"Neslund, Melissa M.",Individual,,Melissa,May,Neslund,,Armbrust & Brown,05/03/2017,,11/14/2017,
+RG0062,"Nickells, Julienne K.",Individual,,Julienne,K.,Nickells,,Drenner Group,07/10/2017,,11/08/2017,RG0106
+RG0064,"Poinsett, Royce P.",Individual,,Royce,P.,Poinsett,,,04/10/2017,,07/28/2017,
+RG0069,"Stratmann, Mary",Individual,,Mary,,Stratmann,,,11/07/2016,,07/07/2017,
+RG0075,"Walker, Christopher J.",Individual,,Christopher,Jason,Walker,,,10/04/2017,,12/04/2017,
+RG0120,"Loayza, Katherine P.",Individual,,Katherine,P.,Loayza,,"Jackson Walker, L.L.P.",08/16/2017,,,RG0117
+RG0121,"Ibarra, Mia",Individual,,Mia,,Ibarra,,Center for Public Policy Priorities,08/18/2017,,,
+RG0122,"Miller, Chris",Individual,,Chris,,Miller,,Uber Technologies,01/03/2018,,,
+RG0123,"Schrader, Megan",Individual,,Megan,,Schrader,,,08/29/2017,,,
+RG0124,"Rosen, Laura",Individual,,Laura,,Rosen,,Center for Public Policy Priorities,08/30/2017,,04/10/2018,
+RG0125,Workers Defense Action Fund,Entity,,,,Workers Defense Action Fund,,,09/14/2017,,,
+RG0126,"Wolff, Jessica",Individual,,Jessica,,Wolff,,Workers Defense Project,09/14/2017,,,RG0125
+RG0129,Texas Solutions Group,Entity,,,,Texas Solutions Group,,,10/20/2017,,,
+RG0005,"Bingham, William H.",Individual,,William,H.,Bingham,,,01/08/2018,,,
+RG0139,"Leahy, Ed",Individual,,Ed,,Leahy,,,02/06/2018,,,
+RG0140,"Hansen, William",Individual,,William,,Hansen,,The ERISA Industry Committee,02/07/2018,,,RG0141
+RG0141,The ERISA Industry Committee,Entity,,,,The ERISA Industry Committee,,The ERISA Industry Committee,02/07/2018,,,
+RG0035,"Jashinsky, Alexandra C.",Individual,,Alexandra,C.,Jashinsky,,,07/10/2017,,,
+RG0021,"Duhr, Kellie",Individual,,Kellie,,Duhr,,,01/27/2017,,02/16/2018,
+RG0022,"Dunkerley, Betty J.",Individual,,Betty,J.,Dunkerley,,Betty Dunkerley Consulting,07/10/2017,,,
+RG0023,"Erwin, Gay T.",Individual,,Gay,T.,Erwin,,,07/17/2017,,,RG0113
+RG0026,"Gilmore, Henry H.",Individual,,Henry,H.,Gilmore,,,03/29/2017,,,
+RG0027,"Glasco, Alice K.",Individual,,Alice,K.,Glasco,,Alice Glasco Consulting,10/02/2017,,,
+RG0028,"Haase, Victoria G.",Individual,,Victoria,G.,Haase,,Thrower Design,07/12/2017,,,RG0108
+RG0029,"Harris, Jerry L.",Individual,,Jerry,L.,Harris,,,04/26/2017,,,
+RG0030,"Hartman, David A.",Individual,,David,A.,Hartman,,Smith Robertson,04/10/2018,,,
+RG0031,"Haussmann, Michele C.",Individual,,Michele,Christine,Haussmann,,"Land Use Solutions, LLC",01/02/2018,,,
+RG0032,"Heckler, Jeffrey",Individual,,Jeffrey,,Heckler,,,10/20/2017,,,RG0129
+RG0034,"Howard, Jeffrey S.",Individual,,Jeffrey,S.,Howard,,"McLean & Howard, L. L. P.",07/10/2017,,,RG0099
+RG0036,"Johns, Leandre",Individual,,Leandre,,Johns,,Uber Technologies,01/03/2018,,,
+RG0072,"Tahuahua, Geoffrey",Individual,,Geoffrey,,Tahuahua,,,01/10/2018,,,
+RG0066,"Salinas III, Derlis Trey",Individual,,Derlis Trey,,Salinas,III,3 Point Partners,10/23/2017,,,RG0130
+RG0090,"Rye, Stephen",Individual,,Stephen,,Rye,,"Stantec Consulting Services, Inc.",06/15/2017,,,RG0089
+RG0091,"Kleeman, Robert",Individual,,Robert,J.,Kleeman,,,06/19/2017,,,
+RG0092,"Curtis, Matthew",Individual,,Matthew,,Curtis,,"GPS Policy Group, LLC",06/21/2017,,,
+RG0093,"Visco, Thomas",Individual,,Thomas,,Visco,,"BVE Partners, LLC",06/23/2017,,,RG0095
+RG0094,"Enriquez, Francisco",Individual,,Francisco,,Enriquez,,"BVE Partners, LLC",06/23/2017,,,RG0095
+RG0095,"BVE Partners, LLC",Entity,,,,"BVE Partners, LLC",,,06/23/2017,,,
+RG0096,Austin Convention & Visitors Bureau,Entity,,,,Austin Convention & Visitors Bureau,,,06/26/2017,,,
+RG0097,"Noonan, Thomas J.",Individual,Mr.,Thomas,James,Noonan,,Austin Convention & Visitors Bureau,06/26/2017,,,RG0096
+RG0098,"Roberts, Cary",Individual,Mr.,Cary,,Roberts,,,07/07/2017,,,
+RG0099,"McLean & Howard, L. L. P.",Entity,,,,"McLean & Howard, L. L. P.",,,07/10/2017,,,
+RG0100,"Shoppa, Dwayne",Individual,,Dwayne,,Shoppa,,"Stantec Consulting Services, Inc.",06/15/2017,,,RG0089
+RG0101,"Gheno, Nicola",Individual,,Nicola,,Gheno,,"Stantec Consulting Services, Inc.",06/15/2017,,,RG0089
+RG0103,"Isaja, Joseph",Individual,,Joseph,,Isaja,,"Stantec Consulting Services, Inc.",06/15/2017,,,RG0089
+RG0065,"Robinson, Kelan",Individual,,Kelan,,Robinson,,"Armbrust & Brown, PLLC",01/10/2018,,,
+RG0104,"Ehlers, Laci M.",Individual,Ms.,Laci,M.,Ehlers,,"McLean & Howard, L. L. P.",07/10/2017,,,RG0099
+RG0105,"Graves, Dougherty, Hearon & Moody, P.C.",Entity,,,,"Graves, Dougherty, Hearon & Moody, P.C.",,"Graves, Dougherty, Hearon & Moody, P.C.",07/10/2017,,,
+RG0106,Drenner Group,Entity,,,,Drenner Group,,Drenner Group,07/10/2017,,,
+RG0107,"Coleman, Glen",Individual,,Glen,,Coleman,,South Llano Strategies,07/20/2017,,,
+RG0108,Thrower Design,Entity,,,,Thrower Design,,Thrower Design,07/12/2017,,,
+RG0109,"Cook, Neslie",Individual,,Neslie,,Cook,,Thrower Design,07/12/2017,,,RG0108
+RG0110,"Garcia, Joe",Individual,,Joe,,Garcia,,,07/19/2017,,,
+RG0146,"Timm, Emily",Individual,,Emily,,Timm,,,09/14/2017,,,RG0125
+RG0147,"Huerta, Mayra",Individual,,Mayra,,Huerta,,,09/14/2017,,,RG0125
+RG0111,Homebuilders Association of Greater Austin,Entity,,,,Homebuilders Association of Greater Austin,,Homebuilders Association of Greater Austin,07/14/2017,,,
+RG0112,"Glenn, David",Individual,,David,,Glenn,,Homebuilders Association of Greater Austin,07/14/2017,,,RG0111
+RG0113,"Strategic Partnerships, Inc.",Entity,,,,"Strategic Partnerships, Inc.",,"Strategic Partnerships, Inc.",07/17/2017,,,
+RG0114,"Antu, Edgar",Individual,,Edgar,,Antu,,"Strategic Partnerships, Inc.",07/17/2017,,,RG0113
+RG0115,"Levinski, Robert Bobby",Individual,,Robert,Bobby,Levinski,,,08/01/2017,,,
+RG0116,"Richard, Jeffrey",Individual,,Jeffrey,,Richard,,J. Richard Consulting Services LLC,08/10/2017,,,
+RG0117,"Jackson Walker, L.L.P.",Entity,,,,"Jackson Walker, L.L.P.",,"Jackson Walker, L.L.P.",08/16/2017,,,
+RG0118,"Taylor, Timothy C.",Individual,,Timothy,C.,Taylor,,"Jackson Walker, L.L.P.",08/16/2017,,,RG0117
+RG0119,"Nias, James M.",Individual,,James,M.,Nias,,"Jackson Walker, L.L.P.",08/16/2017,,,RG0117
+RG0127,"Gonzalez, Ana",Individual,,Ana,,Gonzalez,,Workers Defense Project,09/14/2017,,,RG0125
+RG0128,"Mitchell, Kathleen",Individual,,Kathleen,,Mitchell,,Texas Criminal Justice Coalition,09/21/2017,,,
+RG0130,3 Point Partners,Entity,,,,3 Point Partners,,,10/23/2017,,,
+RG0131,"Hillard, Connor",Individual,,Connor,,Hillard,,3 Point Partners,10/23/2017,,,RG0130
+RG0132,"Nickells, Julienne",Individual,,Julienne,,Nickells,,Armbrust & Brown,01/10/2018,,,
+RG0133,"Serna, Eduardo",Individual,,Eduardo,,Serna,,,12/01/2017,,,
+RG0134,Austin Board of Realtors,Entity,,,,Austin Board of Realtors,,,01/08/2018,,,
+RG0002,"Anderson, David J.",Individual,,David,J.,Anderson,,Drenner Group,07/10/2017,,,RG0106
+RG0003,"Armbrust, David B.",Individual,,David,B.,Armbrust,,Armbrust & Brown PLLC,01/10/2018,,,
+RG0006,"Bingham Jr., Alfred L.",Individual,,Alfred,L.,Bingham,Jr.,,01/06/2017,,,
+RG0007,"Bojo, Leah",Individual,,Leah,,Bojo,,Drenner Group,07/10/2017,,,RG0106
+RG0008,"Burget, Erin K.",Individual,,Erin,K.,Burget,,AT&T,04/09/2018,,,
+RG0009,"Butts, David J.",Individual,,David,J.,Butts,,,01/10/2018,,,
+RG0010,"Cancialosi, David C.",Individual,,David,C.,Cancialosi,,,10/12/2017,,,
+RG0011,"Cannon, Audrey C.",Individual,,Audrey,Christine,Cannon,,Chamber of Commerce,01/11/2018,,,
+RG0013,"Cesaro, Peter J.",Individual,,Peter,J.,Cesaro,,"Graves, Dougherty, Hearon & Moody, P.C.",07/10/2017,,,RG0105
+RG0015,"Cole, Sheryl",Individual,,Sheryl,,Cole,,,04/11/2018,,,RG0151
+RG0016,"Cosgrove Jr., Joseph E.",Individual,,Joseph,E.,Cosgrove,Jr.,,04/03/2018,,,
+RG0017,"Delp, Robert K.",Individual,,Robert,Kyle,Delp,,Workers Defense Action Fund,04/10/2017,,,
+RG0018,"DeYoung, Eric H.",Individual,,Eric,Hunter,deYoung,,,01/10/2018,,,
+RG0019,"Digneo, Robert H.",Individual,,Robert,H.,Digneo,,AT&T,10/09/2017,,,
+RG0020,"Drenner, Stephen O.",Individual,,Stephen,O.,Drenner,,Drenner Group,07/10/2017,,,RG0106
+RG0051,"McLean, William P.",Individual,,William,P.,McLean,,"McLean & Howard, L. L. P.",07/10/2017,,,RG0099
+RG0052,"Meade, Nikelle S.",Individual,,Nikelle,S.,Meade,,,04/26/2017,,,
+RG0054,"Miller, Scott",Individual,,Scott,,Miller,,,10/20/2017,,,RG0129
+RG0014,"Clark, Melody",Individual,,Melody,,Clark,,Melody Clark,05/08/2017,,,
+RG0037,"Joseph, John M.",Individual,,John,M.,Joseph,,,10/02/2017,,,
+RG0038,"Kennard, Karen",Individual,,Karen,,Kennard,,,07/20/2017,,,
+RG0039,"King, Micah J.",Individual,,Micah,J.,King,,,02/06/2017,,,
+RG0041,"Leffingwell, Lee",Individual,,Lee,,Leffingwell,,,02/24/2017,,,
+RG0042,"Littlefield, Mark",Individual,,Mark,,Littlefield,,,02/08/2017,,,
+RG0043,"Lofye, David C.",Individual,,David,C.,Lofye,,,01/18/2017,,04/08/2018,
+RG0044,"Lopez, Carlos",Individual,,Carlos,,Lopez,,,01/11/2018,,,
+RG0046,"Lubomudrov, Andrei Y.",Individual,,Andrei,Y.,Lubomudrov,,,01/08/2018,,,RG0134
+RG0047,"Lucardi, Donald H.",Individual,,Donald,H.,Lucardi,,Emso Asset Management US LLC,12/27/2017,,,
+RG0049,"Madere, Pamela",Individual,,Pamela,,Madere,,,10/02/2017,,,
+RG0056,"Moorhead, Scott",Individual,,Scott,,Moorhead,,Woods Prairie,09/28/2016,,09/27/2017,
+RG0057,"Morrow, Amanda L.",Individual,,Amanda,Lynn,Morrow,,Armbrust & Brown,01/10/2018,,,
+RG0058,"Myers, Alice A.",Individual,,Alice,A.,Myers,,"Myers Consulting, LLC",04/04/2018,,,
+RG0059,"Nabers, Mary S.",Individual,,Mary,S.,Nabers,,,07/17/2017,,,RG0113
+RG0060,"Nathan, Mark R.",Individual,,Mark,Robert,Nathan,,,12/13/2016,,,
+RG0063,"Poall, Steven",Individual,,Steven,,Poall,,Fidelity Capital Markets,01/12/2018,,,
+RG0089,"Stantec Consulting Services, Inc.",Entity,,,,"Stantec Consulting Services, Inc.",,,06/15/2017,,,
+RG0068,"Stephenson, John",Individual,,John,,Stephenson,,,03/09/2017,,01/03/2018,
+RG0070,"Suttle, Richard T.",Individual,,Richard,T.,Suttle,Jr.,,01/10/2018,,,
+RG0071,"Swor, Amanda W.",Individual,,Amanda,W.,Swor,,Drenner Group,07/10/2017,,,RG0106
+RG0074,"Thrower, Allen",Individual,,Allen,Ron,Thrower,,Thrower Design,07/12/2017,,,RG0108
+RG0076,"Ward, Leslie L.",Individual,,Leslie,L.,Ward,,AT&T,04/09/2018,,,
+RG0077,"Whellan, Michael J.",Individual,,Michael,J.,Whellan,,"Graves, Dougherty H & M",07/10/2017,,01/26/2018,RG0105
+RG0078,"Winstead, Pete",Individual,,Pete,,Winstead,,Winstead PC,01/08/2018,,,
+RG0079,"Buie, Jed",Individual,,Jed,,Buie,,,06/02/2017,,,
+RG0080,"Metcalfe, Wolff, Stuart & Williams, LLP",Entity,,,,"Metcalfe, Wolff, Stuart & Williams, LLP",,,06/01/2017,,,
+RG0081,"Metcalfe, Steven",Individual,,Steven,,Metcalfe,,"Metcalfe, Wolff, Stuart & Williams, LLP",06/01/2017,,,RG0080
+RG0082,"Williams, Talley",Individual,,Talley,,Williams,,"Metcalfe, Wolff, Stuart & Williams, LLP",06/01/2017,,,RG0080
+RG0083,"Lynch, Michele",Individual,,Michele,,Lynch,,"Metcalfe, Wolff, Stuart & Williams, LLP",06/01/2017,,,RG0080
+RG0084,"Herring, William",Individual,,William,,Herring,,"Metcalfe, Wolff, Stuart & Williams, LLP",06/01/2017,,,RG0080
+RG0085,"Brown, Amanda",Individual,,Amanda,,Brown,,"Metcalfe, Wolff, Stuart & Williams, LLP",06/01/2017,,,RG0080
+RG0086,"Joslove, Scott K.",Individual,Mr.,Scott,K.,Joslove,,,06/12/2017,,01/09/2018,
+RG0087,"Melancon, Rebecca L.",Individual,,Rebecca,L.,Melancon,,Austin Independent Business Alliance (AIBA),06/14/2017,,,
+RG0088,"Lubbers, Emily",Individual,,Emily,,Lubbers,,Home Builders Association of Greater Austin,06/15/2017,,,
+RG0151,Sheryl Cole & Associates,Entity,,,,Sheryl Cole & Associates,,,04/11/2018,,,
+RG0135,"Rooney, John",Individual,,John,,Rooney,,,01/10/2018,,,
+RG0136,"Whellan, Michael",Individual,,Michael,,Whellan,,Armbrust & Brown,01/25/2018,,,
+RG0137,"Courtney, Jennifer",Individual,,Jennifer,,Courtney,,,01/30/2018,,,
+RG0138,"Townsend, Thomas",Individual,,Thomas,,Townsend,,,01/30/2018,,,
+RG0142,"Carley, Lynn A.",Individual,,Lynn,A.,Carley,,,02/20/2018,,,
+RG0143,"Alborg, Tim",Individual,,Tim,,Alborg,,"Zagster, Inc.",03/19/2018,,,
+RG0144,Merck Sharp & Dohme Corp.,Entity,,,,Merck Sharp & Dohme Corp.,,,03/21/2018,,,
+RG0145,"Paffe, Heather",Individual,Ms.,Heather,,Paffe,,,03/21/2018,,,RG0144
+RG0148,"Meachum, Kurt M.",Individual,Mr.,Kurt,M.,Meachum,,,04/02/2018,,,
+RG0149,"Philips, Jerry",Individual,,Jerry,,Philips,,,04/02/2018,,,
+RG0150,"Walker, Nathaniel J.",Individual,,Nathaniel,J.,Walker,,,04/02/2018,,,
