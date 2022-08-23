@@ -15,7 +15,7 @@ jupyter-console==4.1.1
 jupyter-core==4.1.0
 MarkupSafe==0.23
 mistune==0.7.2
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.0.1
 nltk==3.4.5
 notebook==6.1.5
